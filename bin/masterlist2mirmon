@@ -1,0 +1,43 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $file = shift;
+
+die "no file $file" unless -f $file;
+
+open (my $fh, '<', $file) or die "Could not open $file: $!";
+
+my @mirrors;
+my $data;
+while (my $line = <$fh>) {
+    chomp $line;
+    if ($line =~ /([^:]+): (.*)/) {
+        my $key = lc($1);
+        my $value = $2;
+        $data->{$key} = $value;
+    } elsif ($line eq '') {
+        push @mirrors, $data;
+        $data = undef;
+#    } else {
+#        print "Malformed line: $line\n";
+    }
+}
+
+push @mirrors, $data if $data;
+
+foreach my $mirror (@mirrors) {
+    my ($c, $r) = split (/ +/, $mirror->{'country'});
+    if (($mirror->{'state'}) && ($mirror->{'state'} eq "Disabled")) {
+        # mirror disabled, skip it
+		next;
+    }
+    printf ("%s http://%s\n", $c, $mirror->{'ovz-http'});
+    if ($mirror->{'ovz-ftp'}) {
+        printf ("%s ftp://%s\n", $c, $mirror->{'ovz-ftp'});
+    }
+    if ($mirror->{'ovz-rsync'}) {
+        printf ("%s rsync://%s/\n", $c, $mirror->{'ovz-rsync'});
+    }
+}
