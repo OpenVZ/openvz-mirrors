@@ -1,0 +1,936 @@
+Site: download.openvz.org
+Type: Master
+OVZ-http: download.openvz.org/
+OVZ-ftp: download.openvz.org/
+Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
+Country: US
+Location: USA, Virginia, Mc Lean
+Sponsor: Odin
+IPv6: yes
+Comment: Master site
+State: Enabled
+
+Site: 
+Type: Secondary
+OVZ-http: openvz-mirror1.rapidvps.com 
+OVZ-ftp: openvz-mirror1.rapidvps.com 
+Maintainer: R Blundell <rickb@rapidvps.com>
+Country: US
+Location: USA, Florida
+Sponsor: 
+IPv6: 
+Comment: 
+State: Disabled
+Reason: DISABLED 26 Nov 2012
+
+Site: unbornmedia.com
+Type: Secondary
+OVZ-http: mirrors.unbornmedia.com/openvz/
+Maintainer: noc@unbornmedia.com, Nate Hudson <nate@unbornmedia.com> 
+Country: US
+Location: USA, Massachusetts, Boston
+Sponsor: 
+IPv6: 
+Comment: 
+State: Disabled
+Reason: COMMENTED OUT
+
+Site: 
+Type: Secondary
+OVZ-http: openvz.mirrors.skynet.be/pub/openvz.org/
+OVZ-ftp: openvz.mirrors.skynet.be/pub/openvz.org/
+Maintainer: Cedric Gavage <ftp@skynet.be> 
+Country: BE
+Location: Belgium, Brussels
+Sponsor: Belgacom S.A.
+IPv6: 
+Comment: 
+State: Disabled
+Reason: COMMENTED OUT
+
+Site: Dimenoc.com
+Type: Secondary
+OVZ-http: mirror.dimenoc.com/mirror/OpenVZ 
+Maintainer: openvzmirror@dayid.org
+Country: US
+Location: USA, Florida, Orlando
+Sponsor: 
+IPv6: 
+Comment: 2010 Jan 26 error: Forbidden, You don't have permission to access /mirror/OpenVZ on this server
+State: Disabled
+Reason: COMMENTED OUT
+
+Site: iij.ad.jp
+Type: Secondary
+OVZ-http: ftp.iij.ad.jp/pub/openvz/
+OVZ-ftp: ftp.iij.ad.jp/pub/openvz/
+Maintainer:
+Country: JP
+Location: Japan, Tokyo, Chiyoda
+Sponsor: IIJ (Internet Initiative Japan)
+IPv6: yes
+Comment:
+State: Enabled
+
+Site: yandex.ru
+Type: Secondary
+OVZ-http: mirror.yandex.ru/mirrors/download.openvz.org/ 
+OVZ-ftp: mirror.yandex.ru/mirrors/download.openvz.org/
+Maintainer:
+Country: RU
+Location: Russia, Moscow
+Sponsor: Yandex
+IPv6: yes
+Comment:
+State: Enabled
+
+Site: xfes.ru
+Type: Secondary
+OVZ-http: mirror.xfes.ru/openvz/
+OVZ-ftp: mirror.xfes.ru/openvz/
+Maintainer: admin@xfes.ru, support@xfes.ru
+Country: RU
+Location: Russia, Moscow
+Sponsor: 
+IPv6: 
+Comment: 100 mbit link to M9 bone.
+State: Disabled
+Reason: DISABLED 29 Mar 2013, they don't have rhel6-testing kernels
+
+Site: proserve.nl
+Type: Secondary
+OVZ-http: openvz.proserve.nl/
+OVZ-ftp: mirror.proserve.nl/openvz
+Maintainer:
+Country: NL
+Location: Netherlands (Holland), Amsterdam
+Sponsor: Proserve
+IPv6: yes
+Comment: 1Gbit connection, in a 25 Gbit network
+State: Enabled
+
+Site: wicks.co.nz
+Type: Secondary
+OVZ-http: ftp.wicks.co.nz/pub/openvz/
+OVZ-ftp: ftp.wicks.co.nz/pub/openvz/
+Maintainer: mirror@wicks.co.nz
+Country: NZ
+Location: New Zealand
+Sponsor: 
+IPv6: 
+Comment: 
+State: Disabled
+Reason: DISABLED 29 Mar 2013, not updated
+
+Site: xservers.ro
+Type: Secondary
+OVZ-http: mirrors.xservers.ro/openvz/
+Maintainer: tehnic@xservers.ro
+Country: RO
+Location: Romania, Bucharest
+Sponsor:
+IPv6:
+Comment: Speeds up to 100Mbps from outside country, up to 1Gbps within Romania
+State: Enabled
+
+Site: boTux.net
+Type: Secondary
+OVZ-http: mirror.botux.net/pub/openvz/
+OVZ-ftp: mirror.botux.net/pub/openvz/
+Maintainer: r.fluttaz@gmail.com 
+Country: FR
+Location: France
+Sponsor:
+IPv6:
+Comment: 1Gb/s. OVH French Connection.
+State: Disabled
+Reason: DISABLED 7 Jul 2009, not working
+
+Site: hostcentral.net.au
+Type: Secondary
+OVZ-http: mirror.as24220.net/pub/openvz/
+OVZ-ftp: mirror.as24220.net/pub/openvz/
+Maintainer: mirrors@as24220.net 
+Country: AU
+Location: Australia, Melbourne
+Sponsor:
+IPv6:
+Comment: 1Gbit/s uplink, updated every 4 hours.
+State: Enabled
+Reason: DISABLED 29 Mar 2013, /current is empty; Re-enabled 1 Dec 2013, DISABLED 5 Feb 2014, re-enabled 13 Feb 2014
+
+Site:
+Type: Secondary
+OVZ-http: mirrors.sphere.ly/openvz/
+OVZ-ftp: mirrors.sphere.ly/openvz/
+Maintainer: mirrors@sphere.ly
+Country: US
+Location: USA, Texas, Dallas
+Sponsor: Spherely LLC
+IPv6:
+Comment: Updated hourly, 1 Gbps link
+State: Enabled
+
+Site: Ircam.fr
+Type: Secondary
+OVZ-http: mirrors.ircam.fr/openvz/
+OVZ-ftp: mirrors.ircam.fr/pub/OpenVZ/
+Maintainer: mirrormaster@ircam.fr
+Country: FR
+Location: France, Paris
+Sponsor:
+IPv6:
+Comment:
+State: Enabled
+
+Site: 
+Type: Secondary
+OVZ-http: mirror.yourconnect.com/openvz/
+OVZ-ftp: mirror.yourconnect.com/openvz/
+Maintainer: Chonpakorn Phongphisist <chonpakorn@yahoo.com>
+Country: TH
+Location: Thailand, Bangkok
+Sponsor: YourConnect
+IPv6:
+Comment: Bandwidth available: 1000Mb/s. Update Frequency: 6x daily.'''2010 Jan 26 outdated, has only rhel5 028stab064.4'''
+State: Disabled
+Reason: COMMENTED OUT
+
+Site: 
+Type: Secondary
+OVZ-http: mirror.ubiquityservers.com/openvz/
+Maintainer: admin@nobistech.net
+Country: US
+Location: USA, Illinois, Chicago
+Sponsor: Ubiquity Servers
+IPv6:
+Comment:
+State: Disabled
+Reason: DISABLED Jul 1 2013
+
+Site: tsukuba.wide.ad.jp
+Type: Secondary
+OVZ-http: openvz.tsukuba.wide.ad.jp/
+Maintainer: matsumoto@tsukuba.wide.ad.jp, Hiroki Ishikawa <ishikawa@tsukuba.wide.ad.jp>
+Country: JP
+Location: Japan,　Ibaraki, Tsukuba
+Sponsor:
+IPv6:
+Comment: Updated daily
+State: Enabled
+Reason: DISABLED 30 Oct 2011, reenabled 1 Jul 2013 
+
+Site:  
+Type: Secondary
+OVZ-http: openvz.copahost.com/
+Maintainer: Gustavo Gallas <gallas.ceo@homehost.com.br>, <support@copahost.com>
+Country: DE
+Location: Germany
+Sponsor:
+IPv6:
+Comment: Updated 4 times a day
+State: Disabled
+Reason: DISABLED 29 Mar 2013: extremely slow
+
+Site: Netriplex.com
+Type: Secondary
+OVZ-http: openvz.mirror.netriplex.com
+Maintainer: dkuntz@netriplex.com, chale@netriplex.com
+Country: US
+Location: USA, North Carolina, Asheville
+Sponsor:
+IPv6:
+Comment: Updated every 6 hours
+State: Disabled
+Reason: DISABLED 5 Feb 2014
+
+Site: 
+Type: Secondary
+OVZ-http: mirror.be.it2go.eu/openvz.org/
+Maintainer: info@it2go.eu
+Country: BE
+Location: Belgium (country) - Bruges (City) - DCO (Datacenter)
+Sponsor: IT2GO
+IPv6:
+Comment: Updated every hour
+State: Disabled
+Reason: COMMENTED OUT
+
+Site: 
+Type: Secondary
+OVZ-http: mirror.nl.it2go.eu/openvz.org/
+Maintainer: info@it2go.eu
+Country: NL
+Location: Netherlands (country) - Steenbergen (City) - Nedzone (Datacenter) 
+Sponsor: IT2GO
+IPv6:
+Comment: Updated every hour
+State: Disabled
+Reason: COMMENTED OUT
+
+Site: 
+Type: Secondary
+OVZ-http: mirror.fr.it2go.eu/openvz.org/
+Maintainer: info@it2go.eu
+Country: NL
+Location: France (country) - Roubaix (City) - RBX01 (Datacenter) 
+Sponsor: IT2GO
+IPv6:
+Comment: Updated every hour
+State: Disabled
+Reason: COMMENTED OUT
+
+Site:
+Type: Secondary
+OVZ-http: mirrors.igsobe.com/openvz/
+OVZ-ftp: mirrors.igsobe.com/openvz/
+Maintainer: support@igsobe.com, John C. Young <jcy@igsobe.com>
+Country: US
+Location: USA, Florida, Miami
+Sponsor: Internet Gateway of South Beach
+IPv6:
+Comment: Updated daily.   Link: 10 GB, from 7+ tier 1 carriers
+State: Disabled
+Reason: DISABLED 8 Feb 2012: not up to date
+
+Site:
+Type: Secondary
+OVZ-http: mirror.steadfast.net/openvz/
+OVZ-ftp: mirror.steadfast.net/openvz/
+Maintainer: mirror@steadfast.net
+Country: US
+Location: USA, IL, Chicago
+Sponsor: Steadfast Networks
+IPv6:
+Comment: Sync Frequency: hourly. This mirror is available via IPv4 and IPv6 and is on an uncapped gigabit line.
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirror.europhase.net/openvz/
+Maintainer: mirror@europhase.net, thomas@europhase.net, david@europhase.net
+Country: UK
+Location: United Kingdom, London
+Sponsor: Europhase UK
+IPv6:
+Comment: 1000mbit, updates each hour
+State: Disabled
+Reason: DISABLED 29 Mar 2013: DNS not resolvable
+
+Site: 123systems.net
+Type: Secondary
+OVZ-http: mirrors.123systems.net/openvz/
+Maintainer: mirrors@123systems.net
+Country: US
+Location: USA, GA, Atlanta
+Sponsor:
+IPv6:
+Comment: Updated hourly
+State: Disabled
+Reason: COMMENTED OUT
+
+Site: balticservers.com
+Type: Secondary
+OVZ-http: mirror.duomenucentras.lt/openvz/
+OVZ-ftp: mirror.duomenucentras.lt/openvz/
+Maintainer: mirror@duomenucentras.lt
+Country: LT
+Location: Lithuania, Šiauliai
+Sponsor:
+IPv6:
+Comment: Updated every two hours
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirror.trouble-free.net/openvz/
+Maintainer: john@interserver.net
+Country: US
+Location: USA, New Jersey, Secaucus
+Sponsor: InterServer, Inc
+IPv6:
+Comment: 100 mbps, updated 3 times per day
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirror.datacenter.by/pub/download.openvz.org/
+OVZ-ftp: mirror.datacenter.by/pub/download.openvz.org/
+Maintainer: admin@mirror.datacenter.by
+Country: BY
+Location: Belarus, Minsk
+Sponsor: RUE Beltelecom
+IPv6:
+Comment: 2Gbps, @hourly
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: ftp.yz.yamagata-u.ac.jp/pub/openvz/
+OVZ-ftp: ftp.yz.yamagata-u.ac.jp/pub/openvz/
+Maintainer: www-admin@ftp.yz.yamagata-u.ac.jp
+Country: JP
+Location: Japan, Yamagata, Yonezawa
+Sponsor: Yamagata University
+IPv6:
+Comment: 1 Gbps, updated 4 times per day
+State: Disabled
+Reason: DISABLED 22 Apr 2013: read error, connection reset by peer
+
+Site: IHC.ru
+Type: Secondary
+OVZ-http: mirror.ihc.ru/download.openvz.org/
+Maintainer: mirror@ihc.ru
+Country: RU
+Location: Moscow, Russia
+Sponsor:
+IPv6:
+Comment: 1 Gbps, updated hourly
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirrors.thzhost.com/openvz/
+Maintainer: support@thzhost.com
+Country: TH
+Location: Bangkok, Thailand
+Sponsor: THZ Hosting
+IPv6:
+Comment: Updated every 4 hours
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirrors.adnettelecom.ro/openvz/
+Maintainer: mirroradmin@adnettelecom.ro
+Country: RO
+Location: Romania, Bucharest
+Sponsor: AdNet Telecom
+IPv6:
+Comment: Updated every 45 minutes, 2gbps etherchannel
+State: Disabled
+Reason: DISABLED 8 Feb 2012: no files
+
+Site:
+Type: Secondary
+OVZ-http: mirror.ellogroup.com/openvz/
+OVZ-ftp: mirror.ellogroup.com/openvz/
+Maintainer: webmaster@ellogroup.com, Anthony Somerset <anthony@somersettechsolutions.co.uk>
+Country: UK
+Location: Newcastle, UK
+Sponsor: Ello Group
+IPv6:
+Comment: Updated hourly
+State: Disabled
+Reason: COMMENTED OUT 12 Mar 2013
+
+Site:
+Type: Secondary
+OVZ-http: lnx.apollo-hw.ro/openvz
+OVZ-ftp: lnx.apollo-hw.ro/openvz
+Maintainer: mirrors@apollo-hw.ro
+Country: RO
+Location: Romania, Timisoara
+Sponsor: Apollo Hardware
+IPv6:
+Comment: Updated every 2 hours
+State: Disabled
+Reason: Updated every 2 hours
+
+Site:
+Type: Secondary
+OVZ-http: mirror.yourconnect.com/openvz 
+OVZ-ftp: mirror.yourconnect.com/openvz
+Maintainer: Chonpakorn Phongphisist <chonpakorn@yahoo.com>
+Country: EN
+Location:
+Sponsor: YourConnect Co., Ltd.
+IPv6:
+Comment:
+State: Disabled
+Reason: DISABLED 26 Nov 2012
+
+Site:
+Type: Secondary
+OVZ-http: mirror.softaculous.com/openvz/
+Maintainer: brijesh@softaculous.com
+Country: DE
+Location: Germany
+Sponsor: Softaculous
+IPv6:
+Comment: Updated once a day
+State: Enabled
+
+Site: FDCServers.net
+Type: Secondary
+OVZ-http: mirror.fdcservers.net/openvz/
+OVZ-ftp: mirror.fdcservers.net/openvz/
+Maintainer: mirror@fdcservers.net 
+Country: US
+Location: USA, Illinois, Chicago
+Sponsor:
+IPv6:
+Comment: Updated every 2 hours
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirror.secureax.com/openvz/
+Maintainer: mirroradmin@secureax.com
+Country: SG
+Location: Singapore
+Sponsor: SecureAX Internet
+IPv6:
+Comment: Updated daily at 2359hrs GMT+8
+State: Enabled
+
+Site: BOFH.so
+Type: Secondary
+OVZ-http: mirror.bofh.so/download.openvz.org/
+OVZ-ftp: mirror.bofh.so/download.openvz.org/
+Maintainer: mir-adm@bofh.so
+Country: FR
+Location: France, Paris
+Sponsor:
+IPv6:
+Comment: Updated hourly, 100 mbps, IPv6
+State: Disabled
+Reason: DISABLED 26 Nov 2012
+
+Site:
+Type: Secondary
+OVZ-http: mirrors.abdicar.com/OpenVZ
+OVZ-ftp: mirrors.abdicar.com/OpenVZ
+Maintainer: info@abdicar.com
+Country: CR
+Location: Costa Rica, Heredia
+Sponsor: Abdicar
+IPv6:
+Comment: updated hourly
+State: Disabled
+Reason: NOT WORKING as of Jan 17 2014
+
+Site:
+Type: Secondary
+OVZ-http: openvz.just-hosting.ru/
+OVZ-ftp: openvz.just-hosting.ru/
+Maintainer: info@just-hosting.ru
+Country: DE
+Location: Germany, Falkenstein
+Sponsor: JustHosting
+IPv6:
+Comment: Connected at 1 Gbit link, hourly updates
+State: Enabled
+Reason: DISABLED 7 Jan 2015: not updated; reenabled 8 Jan 2015
+
+Site: HitMe.pl
+Type: Secondary
+OVZ-http: openvz.hitme.net.pl/
+OVZ-ftp: openvz.hitme.net.pl/openvz/
+Maintainer:
+Country: PL
+Location: Poland, Gdansk
+Sponsor:
+IPv6:
+Comment: Link 100 Mbit, updated hourly
+State: Enabled
+
+Site: nlab.su
+Type: Secondary
+OVZ-http: mirrors.nlab.su/openvz/ 
+OVZ-ftp: mirrors.nlab.su/openvz/ 
+Maintainer: admin@nlab.su
+Country: RU
+Location: Russia, Moscow
+Sponsor:
+IPv6:
+Comment: Link 100 Mbit, updated hourly
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirror.serverbeheren.nl/openvz
+Maintainer: info@mjwebhosting.nl
+Country: NL
+Location: Netherlands, Overijssel, Enschede
+Sponsor: Mj webhosting
+IPv6:
+Comment: Updated every hour. Available on ipv4 and ipv6. 1 gbit uplink
+State: Enabled
+Reason: DISABLED 26 Nov 2012, REENABLED 25 Mar 2013, DISABLED/ENABLED 24 Mar 2014, DISABLED 7 Jan 2015, ENABLED 29 Jan 2015
+
+Site: kisiek.net
+Type: Secondary
+OVZ-http: mirror.kisiek.net/openvz/
+Maintainer: admin@kisiek.net
+Country: PL
+Location: Poland, Olsztyn
+Sponsor:
+IPv6:
+Comment: Updated every hour
+State: Disabled
+Reason: DISABLED 22 Apr 2013
+
+Site: spd.co.il
+Type: Secondary
+OVZ-http: openvz.spd.co.il/ 
+Maintainer: support@spd.co.il
+Country: IL
+Location: Israel, Rishon letzion
+Sponsor: SPD Web Hosting
+IPv6:
+Comment: Updated every hour, 100 mbit link
+State: Enabled
+
+Site: digipower.vn
+Type: Secondary
+OVZ-http: mirrors.digipower.vn/openvz
+OVZ-ftp: mirrors.digipower.vn/openvz
+Maintainer: contact@digipower.vn, duchoang@digipower.vn
+Country: VN
+Location: VietNam
+Sponsor: DIGIPOWER Co.,ltd
+IPv6:
+Comment: Updated 2 times a day
+State: Enabled
+
+Site: fastvps.ru
+Type: Secondary
+OVZ-http: mirror.fastvps.ru/openvz/
+Maintainer: complain@fastvps.ru
+Country: DE
+Location: Germany, Falkenstein, DC: Hetzner Online AG
+Sponsor: FastVPS
+IPv6:
+Comment: 
+State: Disabled
+Reason: removed 21 Oct 2014
+
+Site: tocici.com
+Type: Secondary
+OVZ-http: mirror.tocici.com/openvz/
+Maintainer: hostmaster@tocici.com
+Country: US
+Location: US, Oregon, Portland
+Sponsor:
+IPv6:
+Comment: Updated every four hours, with a randomized start time. Two 1Gbps uplinks leveraging dual-stack IPv4/IPv6.
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirror.webtastix.net/openvz/
+OVZ-ftp: mirror.webtastix.net/openvz/
+Maintainer: Shane Langley <shane@webtastix.net>
+Country: NZ
+Location: New Zealand, Auckland
+Sponsor: Webtastix Internet Services
+IPv6:
+Comment: Updated hourly
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: ftp.colocall.net/pub/openvz/
+OVZ-ftp: ftp.colocall.net/pub/openvz/
+Maintainer: mirrors@colocall.net
+Country: UA
+Location: Ukraine, Kiev
+Sponsor: Colocall Internet Data Center
+IPv6:
+Comment: Updated hourly
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: openvz.mirror.serveriai.lt/
+Maintainer: Arūnas Ulinskas <arunas.u@iv.lt>
+Country: LT
+Location: Lithuania, Vilnius
+Sponsor: Interneto Vizija
+IPv6:
+Comment: Updated hourly
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: ovz.ionic.net.pl
+Maintainer: info@ionic.pl
+Country: PL
+Location: Poland, Kraków
+Sponsor:
+IPv6:
+Comment: updated every 24 h
+State: Disabled
+Reason: DISABLED 5 Feb 2014
+
+Site:
+Type: Secondary
+OVZ-http: mirrors.ustc.edu.cn/openvz/
+OVZ-ftp: mirrors.ustc.edu.cn/openvz/
+Maintainer: lug@ustc.edu.cn
+Country: CN
+Location: Hefei, Anhui, China
+Sponsor: University of Science and Technology of China
+IPv6:
+Comment: Updated every 6 hours
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirrors.vinahost.vn/openvz/
+Maintainer: mirror-admin@vinahost.vn
+Country: EN
+Location: Ho Chi Minh City, Viet Nam
+Sponsor: VinaHost Co., Ltd
+IPv6:
+Comment: Updated hourly
+State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirrors.neterra.net/openvz
+OVZ-ftp: mirrors.neterra.net/openvz
+Maintainer: mirrors@neterra.net
+Country: BG
+Location: Bulgaria, Sofia
+Sponsor: Neterra LTD
+IPv6:
+Comment: IPv6 enabled, 2 Gbps link, updated hourly.
+State: Enabled
+
+Site: vpsFree.cz
+Type: Secondary
+OVZ-http: mirror.vpsfree.cz/openvz
+OVZ-ftp: mirror.vpsfree.cz/openvz
+Maintainer: ovzmirror@mrkva.eu
+Country: CZ
+Location: Czech, Prague
+Sponsor:
+IPv6:
+Comment: Updated hourly
+State: Enabled
+
+Site: BangmodEnterprise Co., Ltd.
+Type: Secondary
+OVZ-http: mirrors.bangmodhosting.com/openvz
+Maintainer: Satanun Siwaporn <ilhay@live.com>
+Country: TH
+Location: Thailand, Bangkok
+Sponsor:
+IPv6:
+Comment: Updated every 4 hours
+State: Enabled
+
+Site: maeh.org
+Type: Secondary
+OVZ-http: mirror.maeh.org/openvz/
+OVZ-ftp: mirror.maeh.org/openvz/
+Maintainer: mirrors@maeh.org
+Country: DE
+Location: Germany, Hamburg
+Sponsor:
+IPv6:
+Comment: Updated every 4 hours
+
+State: Enabled
+Site: scalabledns.com
+Type: Secondary
+OVZ-http: mirror2.scalabledns.com/openvz
+Maintainer: support@scalabledns.com
+Country: US
+Location: USA, California, Los Angeles
+Sponsor:
+IPv6:
+Comment: 10 Gbps Uplink, updated hourly
+State: Enabled
+Reason: DISABLED 7 Jan 2015: not working, re-enabled 8 Jan 2015 with changed URL
+
+Site: GloVine.com.au
+Type: Secondary
+OVZ-http: openvz.syd.au.glomirror.com.au
+Maintainer: NOCops@GloVine.com.au
+Country: AU
+Location: Australia, Sydney
+Sponsor:
+IPv6:
+Comment: updated every 6 hours
+State: Disabled
+Reason: DEAD as of Jan 21 2014
+
+Site: GloVine.com.au
+Type: Secondary
+OVZ-http: openvz.dal.tx.us.glomirror.com.au 
+Maintainer: mirrors@glovine.com.au
+Country: US
+Location: USA, Texas, Dallas
+Sponsor:
+IPv6:
+Comment: updated every 6 hours
+State: Disabled
+Reason: NOT WORKING as of Jan 17 2014
+
+Site: GloVine.com.au
+Type: Secondary
+OVZ-http: openvz.kan.mo.us.glomirror.com.au
+Maintainer: mirrors@glovine.com.au
+Country: US
+Location: USA, Missouri, Kansas City
+Sponsor:
+IPv6:
+Comment:
+State: Disabled
+Reason: NOT WORKING as of Jan 17 2014
+
+Site: mirror.nhanhoa.com
+Type: Secondary
+OVZ-http: mirror.nhanhoa.com/openvz/
+Maintainer: Dang Duc Thinh <thinhdd@nhanhoa.com.vn>
+Country: VN
+Location: Vietnam, Ha Noi
+Sponsor: Nhan Hoa Co., Ltd
+IPv6:
+Comment: 100 mbps, updated 4 times a day
+State: Disabled
+Reason: DISABLED 28 Jan 2015 -- not updated since 02 Jan
+
+Site: ausnetservers.net.au
+Type: Secondary
+OVZ-http: openvz.ansamirror.com.au
+OVZ-ftp: openvz.ansamirror.com.au
+Maintainer: info@ausnetservers.net.au, noc@ausnetservers.net.au 
+Country: AU
+Location: Australia, Victoria, Ballarat
+Sponsor:
+IPv6:
+Comment: updated hourly
+State: Disabled
+Reason: NOT UPDATED as of Jan 17 2014
+
+Site: netinch.com
+Type: Secondary
+OVZ-http: mirror.netinch.com/pub/openvz/
+OVZ-ftp: mirror.netinch.com/pub/openvz/
+Maintainer: eeroalk@netinch.com
+Country: FI
+Location: Finland, Tampere
+Sponsor:
+IPv6:
+Comment:
+State: Enabled
+
+Site: cenexo.com
+Type: Secondary
+OVZ-http: mirror.lon.cenexo.com/openvz/
+Maintainer: hostmaster@nodeload.net
+Country: UK
+Location: UK, London
+Sponsor:
+IPv6:
+Comment: 1 Gbps Uplink, updated hourly, RAID 10 SSD based
+State: Enabled
+
+Site: Hosting Dept
+Type: Secondary
+OVZ-http: mirror.hdcore.eu/openvz/
+OVZ-ftp: mirror.hdcore.eu/openvz/
+Maintainer: mirroradmin@hostingdept.co.uk
+Country: FR
+Location: France, Roubaix
+Sponsor:
+IPv6:
+Comment: Updated hourly. Fail-over cluster in London, England.
+State: Enabled
+
+Site: Best Thai Host
+Type: Secondary
+OVZ-http: mirrors.bestthaihost.com/openvz/
+Maintainer: bank@bestinternet.co.th
+Country: TH
+Location: Bangkok, Thailand
+Sponsor:
+IPv6:
+Comment: 1 Gbps, updated every 4 hours
+State: Enabled
+
+Site: FirstNetServ
+Type: Secondary
+OVZ-http: ovzmirror1.firstnetserv.co.uk/openvz
+Maintainer: asm67xg@gmx.us
+Country: FR
+Location: France, Orleans
+Sponsor:
+IPv6:
+Comment: updated hourly, up to 2 Gbps
+State: Disabled
+Reason: DISABLED 28 Jan 2015, not being updated
+
+Site: GloVine.com.au
+Type: Secondary
+OVZ-http: openvz.nsw.au.glomirror.com.au/
+Maintainer: daniel@glovine.com.au
+Country: AU
+Location: Australia, Sydney
+Sponsor:
+IPv6:
+Comment: Updated hourly
+State: Disabled
+Reason: DISABLED 15 Oct 2014 -- not being updated
+
+Site: supremebytes.com
+Type: Secondary
+OVZ-http: mirror.supremebytes.com/openvz/
+OVZ-ftp: mirror.supremebytes.com/openvz/
+Maintainer: Damien Burke <damien@supremebytes.com>
+Country: US
+Location: USA, California, Los Angeles
+Sponsor:
+IPv6:
+Comment: Updated every 6 hours
+State: Enabled
+Reason: DISABLED 7 Jan 2015: not being updated; reenabled 8 Jan 2015
+
+Site: mindstudios.com
+Type: Secondary
+OVZ-http: openvz.mindstudios.com
+Maintainer: mirrors@mindstudios.com
+Country: FR
+Location: Paris, France
+Sponsor:
+IPv6:
+Comment: 1000 mbit, 150mbit guaranteed, updated hourly
+State: Enabled
+
+Site: sciserv.eu
+Type: Secondary
+OVZ-http: openvz.sciserv.eu
+Maintainer: marz.michael@openres.net
+Country: DE
+Location: Frankfurt, Germany
+Sponsor:
+IPv6:
+Comment: Updated daily
+State: Enabled
+
+Site: slaskdatacenter.pl
+Type: Secondary
+OVZ-http: openvz.slaskdatacenter.com/
+Maintainer: bok@slaskdatacenter.pl
+Country: PL
+Location: Tarnowskie Gory, Slask, Poland
+Sponsor:
+IPv6:
+Comment: Updated hourly
+State: Enabled
+
+Site: nexcess.net
+Type: Secondary
+OVZ-http: mirror.nexcess.net/openvz/
+OVZ-ftp: mirror.nexcess.net/openvz/
+Maintainer: mirroradmin@nexcess.net
+Country: US
+Location: USA, Michigan, Southfield
+Sponsor:
+IPv6:
+Comment: Updated hourly, link 1 Gbps
+State: Enabled
