@@ -2,6 +2,7 @@ Site: download.openvz.org
 Type: Master
 OVZ-http: download.openvz.org/
 OVZ-ftp: download.openvz.org/
+OVZ-rsync: download.openvz.org/openvz-download
 Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
 Country: US
 Location: USA, Virginia, Mc Lean
@@ -76,6 +77,7 @@ Site: yandex.ru
 Type: Secondary
 OVZ-http: mirror.yandex.ru/mirrors/download.openvz.org/ 
 OVZ-ftp: mirror.yandex.ru/mirrors/download.openvz.org/
+OVZ-rsync: mirror.yandex.ru/mirrors/download.openvz.org/
 Maintainer:
 Country: RU
 Location: Russia, Moscow
@@ -101,6 +103,7 @@ Site: proserve.nl
 Type: Secondary
 OVZ-http: openvz.proserve.nl/
 OVZ-ftp: mirror.proserve.nl/openvz
+OVZ-rsync: openvz.proserve.nl/openvz
 Maintainer:
 Country: NL
 Location: Netherlands (Holland), Amsterdam
@@ -150,6 +153,7 @@ Site: hostcentral.net.au
 Type: Secondary
 OVZ-http: mirror.as24220.net/pub/openvz/
 OVZ-ftp: mirror.as24220.net/pub/openvz/
+OVZ-rsync: mirror.as24220.net/openvz
 Maintainer: mirrors@as24220.net 
 Country: AU
 Location: Australia, Melbourne
@@ -163,6 +167,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.sphere.ly/openvz/
 OVZ-ftp: mirrors.sphere.ly/openvz/
+OVZ-rsync: mirrors.sphere.ly/openvz
 Maintainer: mirrors@sphere.ly
 Country: US
 Location: USA, Texas, Dallas
@@ -175,6 +180,7 @@ Site: Ircam.fr
 Type: Secondary
 OVZ-http: mirrors.ircam.fr/openvz/
 OVZ-ftp: mirrors.ircam.fr/pub/OpenVZ/
+OVZ-rsync: mirrors.ircam.fr/openvz/
 Maintainer: mirrormaster@ircam.fr
 Country: FR
 Location: France, Paris
@@ -344,6 +350,7 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirror.trouble-free.net/openvz/
+OVZ-rsync: mirror.trouble-free.net/openvz/
 Maintainer: john@interserver.net
 Country: US
 Location: USA, New Jersey, Secaucus
@@ -514,6 +521,7 @@ Site:
 Type: Secondary
 OVZ-http: openvz.just-hosting.ru/
 OVZ-ftp: openvz.just-hosting.ru/
+OVZ-rsync: openvz.just-hosting.ru/openvz/
 Maintainer: info@just-hosting.ru
 Country: DE
 Location: Germany, Falkenstein
@@ -586,6 +594,7 @@ Site: digipower.vn
 Type: Secondary
 OVZ-http: mirrors.digipower.vn/openvz
 OVZ-ftp: mirrors.digipower.vn/openvz
+OVZ-rsync: mirrors.digipower.vn/openvz
 Maintainer: contact@digipower.vn, duchoang@digipower.vn
 Country: VN
 Location: VietNam
@@ -668,6 +677,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.ustc.edu.cn/openvz/
 OVZ-ftp: mirrors.ustc.edu.cn/openvz/
+OVZ-rsync: mirrors.ustc.edu.cn/openvz/
 Maintainer: lug@ustc.edu.cn
 Country: CN
 Location: Hefei, Anhui, China
@@ -691,6 +701,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.neterra.net/openvz
 OVZ-ftp: mirrors.neterra.net/openvz
+OVZ-rsync: mirrors.neterra.net/rsync
 Maintainer: mirrors@neterra.net
 Country: BG
 Location: Bulgaria, Sofia
@@ -703,6 +714,7 @@ Site: vpsFree.cz
 Type: Secondary
 OVZ-http: mirror.vpsfree.cz/openvz
 OVZ-ftp: mirror.vpsfree.cz/openvz
+OVZ-rsync: mirror.vpsfree.cz/openvz
 Maintainer: ovzmirror@mrkva.eu
 Country: CZ
 Location: Czech, Prague
