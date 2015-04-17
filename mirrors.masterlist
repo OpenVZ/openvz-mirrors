@@ -553,7 +553,8 @@ Location: Russia, Moscow
 Sponsor:
 IPv6:
 Comment: Link 100 Mbit, updated hourly
-State: Enabled
+State: Disabled
+Reason: Commented out on wiki since Oct 2013
 
 Site:
 Type: Secondary
@@ -601,7 +602,8 @@ Location: VietNam
 Sponsor: DIGIPOWER Co.,ltd
 IPv6:
 Comment: Updated 2 times a day
-State: Enabled
+State: Disabled
+Reason: Outdated content
 
 Site: fastvps.ru
 Type: Secondary
