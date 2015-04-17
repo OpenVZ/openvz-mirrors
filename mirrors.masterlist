@@ -735,7 +735,8 @@ Location: Thailand, Bangkok
 Sponsor:
 IPv6:
 Comment: Updated every 4 hours
-State: Enabled
+State: Disabled
+Reason: Unavailable via http protocol
 
 Site: maeh.org
 Type: Secondary
