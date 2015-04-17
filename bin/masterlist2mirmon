@@ -33,7 +33,9 @@ foreach my $mirror (@mirrors) {
         # mirror disabled, skip it
 		next;
     }
-    printf ("%s http://%s\n", $c, $mirror->{'ovz-http'});
+    if ($mirror->{'ovz-http'}) {
+        printf ("%s http://%s\n", $c, $mirror->{'ovz-http'});
+    }
     if ($mirror->{'ovz-ftp'}) {
         printf ("%s ftp://%s\n", $c, $mirror->{'ovz-ftp'});
     }
