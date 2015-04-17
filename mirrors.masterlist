@@ -404,7 +404,8 @@ Location: Bangkok, Thailand
 Sponsor: THZ Hosting
 IPv6:
 Comment: Updated every 4 hours
-State: Enabled
+State: Disabled
+Reason: Outdated content
 
 Site:
 Type: Secondary
