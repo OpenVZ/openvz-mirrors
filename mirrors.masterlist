@@ -13,8 +13,8 @@ State: Enabled
 
 Site: 
 Type: Secondary
-OVZ-http: openvz-mirror1.rapidvps.com 
-OVZ-ftp: openvz-mirror1.rapidvps.com 
+OVZ-http: openvz-mirror1.rapidvps.com/
+OVZ-ftp: openvz-mirror1.rapidvps.com/
 Maintainer: R Blundell <rickb@rapidvps.com>
 Country: US
 Location: USA, Florida
@@ -51,7 +51,7 @@ Reason: COMMENTED OUT
 
 Site: Dimenoc.com
 Type: Secondary
-OVZ-http: mirror.dimenoc.com/mirror/OpenVZ 
+OVZ-http: mirror.dimenoc.com/mirror/OpenVZ/
 Maintainer: openvzmirror@dayid.org
 Country: US
 Location: USA, Florida, Orlando
@@ -102,7 +102,7 @@ Reason: DISABLED 29 Mar 2013, they don't have rhel6-testing kernels
 Site: proserve.nl
 Type: Secondary
 OVZ-http: openvz.proserve.nl/
-OVZ-ftp: mirror.proserve.nl/openvz
+OVZ-ftp: mirror.proserve.nl/openvz/
 OVZ-rsync: openvz.proserve.nl/openvz
 Maintainer:
 Country: NL
@@ -240,7 +240,7 @@ Reason: DISABLED 29 Mar 2013: extremely slow
 
 Site: Netriplex.com
 Type: Secondary
-OVZ-http: openvz.mirror.netriplex.com
+OVZ-http: openvz.mirror.netriplex.com/
 Maintainer: dkuntz@netriplex.com, chale@netriplex.com
 Country: US
 Location: USA, North Carolina, Asheville
@@ -434,8 +434,8 @@ Reason: COMMENTED OUT 12 Mar 2013
 
 Site:
 Type: Secondary
-OVZ-http: lnx.apollo-hw.ro/openvz
-OVZ-ftp: lnx.apollo-hw.ro/openvz
+OVZ-http: lnx.apollo-hw.ro/openvz/
+OVZ-ftp: lnx.apollo-hw.ro/openvz/
 Maintainer: mirrors@apollo-hw.ro
 Country: RO
 Location: Romania, Timisoara
@@ -507,8 +507,8 @@ Reason: DISABLED 26 Nov 2012
 
 Site:
 Type: Secondary
-OVZ-http: mirrors.abdicar.com/OpenVZ
-OVZ-ftp: mirrors.abdicar.com/OpenVZ
+OVZ-http: mirrors.abdicar.com/OpenVZ/
+OVZ-ftp: mirrors.abdicar.com/OpenVZ/
 Maintainer: info@abdicar.com
 Country: CR
 Location: Costa Rica, Heredia
@@ -559,7 +559,7 @@ Reason: Commented out on wiki since Oct 2013
 
 Site:
 Type: Secondary
-OVZ-http: mirror.serverbeheren.nl/openvz
+OVZ-http: mirror.serverbeheren.nl/openvz/
 Maintainer: info@mjwebhosting.nl
 Country: NL
 Location: Netherlands, Overijssel, Enschede
@@ -594,8 +594,8 @@ State: Enabled
 
 Site: digipower.vn
 Type: Secondary
-OVZ-http: mirrors.digipower.vn/openvz
-OVZ-ftp: mirrors.digipower.vn/openvz
+OVZ-http: mirrors.digipower.vn/openvz/
+OVZ-ftp: mirrors.digipower.vn/openvz/
 OVZ-rsync: mirrors.digipower.vn/openvz
 Maintainer: contact@digipower.vn, duchoang@digipower.vn
 Country: VN
@@ -666,7 +666,7 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: ovz.ionic.net.pl
+OVZ-http: ovz.ionic.net.pl/
 Maintainer: info@ionic.pl
 Country: PL
 Location: Poland, Kraków
@@ -702,8 +702,8 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: mirrors.neterra.net/openvz
-OVZ-ftp: mirrors.neterra.net/openvz
+OVZ-http: mirrors.neterra.net/openvz/
+OVZ-ftp: mirrors.neterra.net/openvz/
 OVZ-rsync: mirrors.neterra.net/rsync
 Maintainer: mirrors@neterra.net
 Country: BG
@@ -715,8 +715,8 @@ State: Enabled
 
 Site: vpsFree.cz
 Type: Secondary
-OVZ-http: mirror.vpsfree.cz/openvz
-OVZ-ftp: mirror.vpsfree.cz/openvz
+OVZ-http: mirror.vpsfree.cz/openvz/
+OVZ-ftp: mirror.vpsfree.cz/openvz/
 OVZ-rsync: mirror.vpsfree.cz/openvz
 Maintainer: ovzmirror@mrkva.eu
 Country: CZ
@@ -728,7 +728,7 @@ State: Enabled
 
 Site: BangmodEnterprise Co., Ltd.
 Type: Secondary
-OVZ-http: mirrors.bangmodhosting.com/openvz
+OVZ-http: mirrors.bangmodhosting.com/openvz/
 Maintainer: Satanun Siwaporn <ilhay@live.com>
 Country: TH
 Location: Thailand, Bangkok
@@ -752,7 +752,7 @@ Comment: Updated every 4 hours
 State: Enabled
 Site: scalabledns.com
 Type: Secondary
-OVZ-http: mirror2.scalabledns.com/openvz
+OVZ-http: mirror2.scalabledns.com/openvz/
 Maintainer: support@scalabledns.com
 Country: US
 Location: USA, California, Los Angeles
@@ -764,7 +764,7 @@ Reason: DISABLED 7 Jan 2015: not working, re-enabled 8 Jan 2015 with changed URL
 
 Site: GloVine.com.au
 Type: Secondary
-OVZ-http: openvz.syd.au.glomirror.com.au
+OVZ-http: openvz.syd.au.glomirror.com.au/
 Maintainer: NOCops@GloVine.com.au
 Country: AU
 Location: Australia, Sydney
@@ -776,7 +776,7 @@ Reason: DEAD as of Jan 21 2014
 
 Site: GloVine.com.au
 Type: Secondary
-OVZ-http: openvz.dal.tx.us.glomirror.com.au 
+OVZ-http: openvz.dal.tx.us.glomirror.com.au/
 Maintainer: mirrors@glovine.com.au
 Country: US
 Location: USA, Texas, Dallas
@@ -788,7 +788,7 @@ Reason: NOT WORKING as of Jan 17 2014
 
 Site: GloVine.com.au
 Type: Secondary
-OVZ-http: openvz.kan.mo.us.glomirror.com.au
+OVZ-http: openvz.kan.mo.us.glomirror.com.au/
 Maintainer: mirrors@glovine.com.au
 Country: US
 Location: USA, Missouri, Kansas City
@@ -812,8 +812,8 @@ Reason: DISABLED 28 Jan 2015 -- not updated since 02 Jan
 
 Site: ausnetservers.net.au
 Type: Secondary
-OVZ-http: openvz.ansamirror.com.au
-OVZ-ftp: openvz.ansamirror.com.au
+OVZ-http: openvz.ansamirror.com.au/
+OVZ-ftp: openvz.ansamirror.com.au/
 Maintainer: info@ausnetservers.net.au, noc@ausnetservers.net.au 
 Country: AU
 Location: Australia, Victoria, Ballarat
@@ -871,7 +871,7 @@ State: Enabled
 
 Site: FirstNetServ
 Type: Secondary
-OVZ-http: ovzmirror1.firstnetserv.co.uk/openvz
+OVZ-http: ovzmirror1.firstnetserv.co.uk/openvz/
 Maintainer: asm67xg@gmx.us
 Country: FR
 Location: France, Orleans
@@ -908,7 +908,7 @@ Reason: DISABLED 7 Jan 2015: not being updated; reenabled 8 Jan 2015
 
 Site: mindstudios.com
 Type: Secondary
-OVZ-http: openvz.mindstudios.com
+OVZ-http: openvz.mindstudios.com/
 Maintainer: mirrors@mindstudios.com
 Country: FR
 Location: Paris, France
@@ -919,7 +919,7 @@ State: Enabled
 
 Site: sciserv.eu
 Type: Secondary
-OVZ-http: openvz.sciserv.eu
+OVZ-http: openvz.sciserv.eu/
 Maintainer: marz.michael@openres.net
 Country: DE
 Location: Frankfurt, Germany
