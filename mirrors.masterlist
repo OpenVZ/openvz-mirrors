@@ -369,7 +369,8 @@ Location: Belarus, Minsk
 Sponsor: RUE Beltelecom
 IPv6:
 Comment: 2Gbps, @hourly
-State: Enabled
+State: Disabled
+Reason: SAN/Storage outage, disabled as agreed with contact person
 
 Site:
 Type: Secondary
