@@ -75,7 +75,7 @@ State: Enabled
 
 Site: yandex.ru
 Type: Secondary
-OVZ-http: mirror.yandex.ru/mirrors/download.openvz.org/ 
+OVZ-http: mirror.yandex.ru/mirrors/download.openvz.org/
 OVZ-ftp: mirror.yandex.ru/mirrors/download.openvz.org/
 OVZ-rsync: mirror.yandex.ru/mirrors/download.openvz.org/
 Maintainer:
