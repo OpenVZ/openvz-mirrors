@@ -120,7 +120,7 @@ Maintainer: mirror@wicks.co.nz
 Country: NZ
 Location: New Zealand
 Sponsor: 
-IPv6: 
+IPv6: no
 Comment: 
 State: Disabled
 Reason: DISABLED 29 Mar 2013, not updated
@@ -132,7 +132,7 @@ Maintainer: tehnic@xservers.ro
 Country: RO
 Location: Romania, Bucharest
 Sponsor:
-IPv6:
+IPv6: no
 Comment: Speeds up to 100Mbps from outside country, up to 1Gbps within Romania
 State: Enabled
 
@@ -158,7 +158,7 @@ Maintainer: mirrors@as24220.net
 Country: AU
 Location: Australia, Melbourne
 Sponsor:
-IPv6:
+IPv6: no
 Comment: 1Gbit/s uplink, updated every 4 hours.
 State: Enabled
 Reason: DISABLED 29 Mar 2013, /current is empty; Re-enabled 1 Dec 2013, DISABLED 5 Feb 2014, re-enabled 13 Feb 2014
@@ -172,7 +172,7 @@ Maintainer: mirrors@sphere.ly
 Country: US
 Location: USA, Texas, Dallas
 Sponsor: Spherely LLC
-IPv6:
+IPv6: no
 Comment: Updated hourly, 1 Gbps link
 State: Enabled
 
@@ -185,7 +185,7 @@ Maintainer: mirrormaster@ircam.fr
 Country: FR
 Location: France, Paris
 Sponsor:
-IPv6:
+IPv6: yes
 Comment:
 State: Enabled
 
@@ -221,7 +221,7 @@ Maintainer: matsumoto@tsukuba.wide.ad.jp, Hiroki Ishikawa <ishikawa@tsukuba.wide
 Country: JP
 Location: Japan,　Ibaraki, Tsukuba
 Sponsor:
-IPv6:
+IPv6: yes
 Comment: Updated daily
 State: Enabled
 Reason: DISABLED 30 Oct 2011, reenabled 1 Jul 2013 
@@ -233,7 +233,7 @@ Maintainer: Gustavo Gallas <gallas.ceo@homehost.com.br>, <support@copahost.com>
 Country: DE
 Location: Germany
 Sponsor:
-IPv6:
+IPv6: no
 Comment: Updated 4 times a day
 State: Disabled
 Reason: DISABLED 29 Mar 2013: extremely slow
@@ -245,7 +245,7 @@ Maintainer: dkuntz@netriplex.com, chale@netriplex.com
 Country: US
 Location: USA, North Carolina, Asheville
 Sponsor:
-IPv6:
+IPv6: no
 Comment: Updated every 6 hours
 State: Disabled
 Reason: DISABLED 5 Feb 2014
@@ -343,7 +343,7 @@ Maintainer: mirror@duomenucentras.lt
 Country: LT
 Location: Lithuania, Šiauliai
 Sponsor:
-IPv6:
+IPv6: no
 Comment: Updated every two hours
 State: Enabled
 
@@ -355,7 +355,7 @@ Maintainer: john@interserver.net
 Country: US
 Location: USA, New Jersey, Secaucus
 Sponsor: InterServer, Inc
-IPv6:
+IPv6: no
 Comment: 100 mbps, updated 3 times per day
 State: Enabled
 
@@ -367,7 +367,7 @@ Maintainer: admin@mirror.datacenter.by
 Country: BY
 Location: Belarus, Minsk
 Sponsor: RUE Beltelecom
-IPv6:
+IPv6: no
 Comment: 2Gbps, @hourly
 State: Disabled
 Reason: SAN/Storage outage, disabled as agreed with contact person
@@ -380,7 +380,7 @@ Maintainer: www-admin@ftp.yz.yamagata-u.ac.jp
 Country: JP
 Location: Japan, Yamagata, Yonezawa
 Sponsor: Yamagata University
-IPv6:
+IPv6: yes
 Comment: 1 Gbps, updated 4 times per day
 State: Disabled
 Reason: DISABLED 22 Apr 2013: read error, connection reset by peer
@@ -392,7 +392,7 @@ Maintainer: mirror@ihc.ru
 Country: RU
 Location: Moscow, Russia
 Sponsor:
-IPv6:
+IPv6: no
 Comment: 1 Gbps, updated hourly
 State: Enabled
 
@@ -403,7 +403,7 @@ Maintainer: support@thzhost.com
 Country: TH
 Location: Bangkok, Thailand
 Sponsor: THZ Hosting
-IPv6:
+IPv6: yes
 Comment: Updated every 4 hours
 State: Disabled
 Reason: Outdated content
@@ -415,7 +415,7 @@ Maintainer: mirroradmin@adnettelecom.ro
 Country: RO
 Location: Romania, Bucharest
 Sponsor: AdNet Telecom
-IPv6:
+IPv6: no
 Comment: Updated every 45 minutes, 2gbps etherchannel
 State: Disabled
 Reason: DISABLED 8 Feb 2012: no files
@@ -466,7 +466,7 @@ Maintainer: brijesh@softaculous.com
 Country: DE
 Location: Germany
 Sponsor: Softaculous
-IPv6:
+IPv6: no
 Comment: Updated once a day
 State: Enabled
 
@@ -478,7 +478,7 @@ Maintainer: mirror@fdcservers.net
 Country: US
 Location: USA, Illinois, Chicago
 Sponsor:
-IPv6:
+IPv6: yes
 Comment: Updated every 2 hours
 State: Enabled
 
@@ -489,7 +489,7 @@ Maintainer: mirroradmin@secureax.com
 Country: SG
 Location: Singapore
 Sponsor: SecureAX Internet
-IPv6:
+IPv6: no
 Comment: Updated daily at 2359hrs GMT+8
 State: Enabled
 
@@ -528,7 +528,7 @@ Maintainer: info@just-hosting.ru
 Country: DE
 Location: Germany, Falkenstein
 Sponsor: JustHosting
-IPv6:
+IPv6: no
 Comment: Connected at 1 Gbit link, hourly updates
 State: Enabled
 Reason: DISABLED 7 Jan 2015: not updated; reenabled 8 Jan 2015
@@ -541,7 +541,7 @@ Maintainer:
 Country: PL
 Location: Poland, Gdansk
 Sponsor:
-IPv6:
+IPv6: no
 Comment: Link 100 Mbit, updated hourly
 State: Enabled
 
@@ -589,7 +589,7 @@ Maintainer: support@spd.co.il
 Country: IL
 Location: Israel, Rishon letzion
 Sponsor: SPD Web Hosting
-IPv6:
+IPv6: no
 Comment: Updated every hour, 100 mbit link
 State: Enabled
 
@@ -602,7 +602,7 @@ Maintainer: contact@digipower.vn, duchoang@digipower.vn
 Country: VN
 Location: VietNam
 Sponsor: DIGIPOWER Co.,ltd
-IPv6:
+IPv6: no
 Comment: Updated 2 times a day
 State: Disabled
 Reason: Outdated content
@@ -626,7 +626,7 @@ Maintainer: hostmaster@tocici.com
 Country: US
 Location: US, Oregon, Portland
 Sponsor:
-IPv6:
+IPv6: yes
 Comment: Updated every four hours, with a randomized start time. Two 1Gbps uplinks leveraging dual-stack IPv4/IPv6.
 State: Enabled
 
@@ -638,7 +638,7 @@ Maintainer: Shane Langley <shane@webtastix.net>
 Country: NZ
 Location: New Zealand, Auckland
 Sponsor: Webtastix Internet Services
-IPv6:
+IPv6: yes
 Comment: Updated hourly
 State: Enabled
 
@@ -650,7 +650,7 @@ Maintainer: mirrors@colocall.net
 Country: UA
 Location: Ukraine, Kiev
 Sponsor: Colocall Internet Data Center
-IPv6:
+IPv6: yes
 Comment: Updated hourly
 State: Enabled
 
@@ -661,7 +661,7 @@ Maintainer: Arūnas Ulinskas <arunas.u@iv.lt>
 Country: LT
 Location: Lithuania, Vilnius
 Sponsor: Interneto Vizija
-IPv6:
+IPv6: no
 Comment: Updated hourly
 State: Enabled
 
@@ -686,7 +686,7 @@ Maintainer: lug@ustc.edu.cn
 Country: CN
 Location: Hefei, Anhui, China
 Sponsor: University of Science and Technology of China
-IPv6:
+IPv6: yes
 Comment: Updated every 6 hours
 State: Enabled
 
@@ -697,7 +697,7 @@ Maintainer: mirror-admin@vinahost.vn
 Country: EN
 Location: Ho Chi Minh City, Viet Nam
 Sponsor: VinaHost Co., Ltd
-IPv6:
+IPv6: no
 Comment: Updated hourly
 State: Enabled
 
@@ -710,7 +710,7 @@ Maintainer: mirrors@neterra.net
 Country: BG
 Location: Bulgaria, Sofia
 Sponsor: Neterra LTD
-IPv6:
+IPv6: yes
 Comment: IPv6 enabled, 2 Gbps link, updated hourly.
 State: Enabled
 
@@ -723,7 +723,7 @@ Maintainer: ovzmirror@mrkva.eu
 Country: CZ
 Location: Czech, Prague
 Sponsor:
-IPv6:
+IPv6: yes
 Comment: Updated hourly
 State: Enabled
 
@@ -747,10 +747,10 @@ Maintainer: mirrors@maeh.org
 Country: DE
 Location: Germany, Hamburg
 Sponsor:
-IPv6:
+IPv6: yes
 Comment: Updated every 4 hours
-
 State: Enabled
+
 Site: scalabledns.com
 Type: Secondary
 OVZ-http: mirror2.scalabledns.com/openvz/
@@ -758,7 +758,7 @@ Maintainer: support@scalabledns.com
 Country: US
 Location: USA, California, Los Angeles
 Sponsor:
-IPv6:
+IPv6: no
 Comment: 10 Gbps Uplink, updated hourly
 State: Enabled
 Reason: DISABLED 7 Jan 2015: not working, re-enabled 8 Jan 2015 with changed URL
@@ -832,7 +832,7 @@ Maintainer: eeroalk@netinch.com
 Country: FI
 Location: Finland, Tampere
 Sponsor:
-IPv6:
+IPv6: no
 Comment:
 State: Enabled
 
@@ -843,7 +843,7 @@ Maintainer: hostmaster@nodeload.net
 Country: UK
 Location: UK, London
 Sponsor:
-IPv6:
+IPv6: no
 Comment: 1 Gbps Uplink, updated hourly, RAID 10 SSD based
 State: Enabled
 
@@ -855,7 +855,7 @@ Maintainer: mirroradmin@hostingdept.co.uk
 Country: FR
 Location: France, Roubaix
 Sponsor:
-IPv6:
+IPv6: no
 Comment: Updated hourly. Fail-over cluster in London, England.
 State: Enabled
 
@@ -866,7 +866,7 @@ Maintainer: bank@bestinternet.co.th
 Country: TH
 Location: Bangkok, Thailand
 Sponsor:
-IPv6:
+IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
 State: Enabled
 
@@ -877,7 +877,7 @@ Maintainer: asm67xg@gmx.us
 Country: FR
 Location: France, Orleans
 Sponsor:
-IPv6:
+IPv6: no
 Comment: updated hourly, up to 2 Gbps
 State: Disabled
 Reason: DISABLED 28 Jan 2015, not being updated
@@ -914,7 +914,7 @@ Maintainer: mirrors@mindstudios.com
 Country: FR
 Location: Paris, France
 Sponsor:
-IPv6:
+IPv6: no
 Comment: 1000 mbit, 150mbit guaranteed, updated hourly
 State: Enabled
 
@@ -925,7 +925,7 @@ Maintainer: marz.michael@openres.net
 Country: DE
 Location: Frankfurt, Germany
 Sponsor:
-IPv6:
+IPv6: no
 Comment: Updated daily
 State: Enabled
 
@@ -936,7 +936,7 @@ Maintainer: bok@slaskdatacenter.pl
 Country: PL
 Location: Tarnowskie Gory, Slask, Poland
 Sponsor:
-IPv6:
+IPv6: yes
 Comment: Updated hourly
 State: Enabled
 
@@ -948,6 +948,6 @@ Maintainer: mirroradmin@nexcess.net
 Country: US
 Location: USA, Michigan, Southfield
 Sponsor:
-IPv6:
+IPv6: no
 Comment: Updated hourly, link 1 Gbps
 State: Enabled
