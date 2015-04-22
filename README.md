@@ -13,13 +13,14 @@ via HTTP, FTP or rsync protocols.
 The status of OpenVZ mirror infrastructure can be checked at
 [mirror.openvz.org](http://download.openvz.org/.mirmon/).
 
-How to setup:
+## How to setup:
 
-# cronrab -l
 ```
+# cronrab -l
+
 MAILTO=""
 
-*/1 * * * *     $(/bin/date +\%s > /var/www/html/timestamp)
+*/5 * * * *     $(/bin/date +\%s > /var/www/html/timestamp)
 */5 * * * *     cd /home/sergeyb/ovz/; git pull && make mirmon && mirmon -c etc/mirmon.conf -get update
 */5 * * * *     cd /home/sergeyb/ovz/; git pull && make mirrorlist
 ```
