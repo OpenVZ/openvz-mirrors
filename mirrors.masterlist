@@ -727,16 +727,16 @@ IPv6: yes
 Comment: Updated hourly
 State: Enabled
 
-Site: BangmodEnterprise Co., Ltd.
+Site:
 Type: Secondary
 OVZ-http: mirrors.bangmodhosting.com/openvz/
-Maintainer: Satanun Siwaporn <ilhay@live.com>
+Maintainer: satanun@bangmodhosting.com
 Country: TH
 Location: Thailand, Bangkok
-Sponsor:
-IPv6:
-Comment: Updated every 4 hours
-State: Disabled
+Sponsor: BangmodEnterprise Co., Ltd.
+IPv6: no
+Comment: Updated every hour
+State: Enabled
 Reason: Unavailable via http protocol
 
 Site: maeh.org
