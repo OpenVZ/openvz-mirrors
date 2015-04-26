@@ -730,7 +730,7 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirrors.bangmodhosting.com/openvz/
-Maintainer: satanun@bangmodhosting.com
+Maintainer: Satanun Siwaporn <satanun@bangmodhosting.com>
 Country: TH
 Location: Thailand, Bangkok
 Sponsor: BangmodEnterprise Co., Ltd.
