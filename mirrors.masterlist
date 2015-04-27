@@ -859,17 +859,17 @@ IPv6: no
 Comment: Updated hourly. Fail-over cluster in London, England.
 State: Enabled
 
-Site: Best Thai Host
+Site:
 Type: Secondary
 OVZ-http: mirrors.bestthaihost.com/openvz/
 Maintainer: bank@bestinternet.co.th
 Country: TH
 Location: Bangkok, Thailand
-Sponsor:
+Sponsor: Best Thai Host
 IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
 Reason: outdated content, no updates for 3 days, no response from maintainer
-State: Disabled
+State: Enabled
 
 Site: FirstNetServ
 Type: Secondary
