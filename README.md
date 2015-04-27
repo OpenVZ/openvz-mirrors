@@ -11,7 +11,7 @@ Your mirror site should make the contents of this directory available
 via HTTP, FTP or rsync protocols.
 
 The status of OpenVZ mirror infrastructure can be checked at
-[mirror.openvz.org](http://download.openvz.org/.mirmon/).
+[mirrors.openvz.org](http://mirrors.openvz.org/).
 
 ## How to setup:
 
