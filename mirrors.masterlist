@@ -705,7 +705,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.neterra.net/openvz/
 OVZ-ftp: mirrors.neterra.net/openvz/
-OVZ-rsync: mirrors.neterra.net/rsync
+OVZ-rsync: mirrors.neterra.net/openvz/
 Maintainer: mirrors@neterra.net
 Country: BG
 Location: Bulgaria, Sofia
