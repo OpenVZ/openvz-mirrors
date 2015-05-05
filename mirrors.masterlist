@@ -153,7 +153,6 @@ Site: hostcentral.net.au
 Type: Secondary
 OVZ-http: mirror.as24220.net/pub/openvz/
 OVZ-ftp: mirror.as24220.net/pub/openvz/
-OVZ-rsync: mirror.as24220.net/openvz
 Maintainer: mirrors@as24220.net 
 Country: AU
 Location: Australia, Melbourne
