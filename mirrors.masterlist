@@ -951,3 +951,16 @@ Sponsor:
 IPv6: no
 Comment: Updated hourly, link 1 Gbps
 State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: ftp.yzu.edu.tw/openvz
+OVZ-ftp: ftp.yzu.edu.tw/openvz
+OVZ-rsync: ftp.yzu.edu.tw/Linux/openvz
+Maintainer: hsu@peterdavehello.org
+Country: TW
+Location: Taiwan, Asia
+Sponsor:
+IPv6: no
+Comment: Update 4 times per day
+State: Enabled
