@@ -33,6 +33,9 @@ foreach my $mirror (@mirrors) {
         # mirror disabled, skip it
 		next;
     }
+    if ($mirror->{'ovz-https'}) {
+        printf ("%s https://%s\n", $c, $mirror->{'ovz-https'});
+    }
     if ($mirror->{'ovz-http'}) {
         printf ("%s http://%s\n", $c, $mirror->{'ovz-http'});
     }
