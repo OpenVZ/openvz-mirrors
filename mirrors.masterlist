@@ -1,6 +1,6 @@
 Site: download.openvz.org
 Type: Master
-OVZ-http: download.openvz.org/
+OVZ-https: download.openvz.org/
 OVZ-ftp: download.openvz.org/
 OVZ-rsync: download.openvz.org/openvz-download
 Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
