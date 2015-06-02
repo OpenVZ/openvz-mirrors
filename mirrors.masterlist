@@ -134,7 +134,8 @@ Location: Romania, Bucharest
 Sponsor:
 IPv6: no
 Comment: Speeds up to 100Mbps from outside country, up to 1Gbps within Romania
-State: Enabled
+State: Disabled
+Reason: 404 Not Found
 
 Site: boTux.net
 Type: Secondary
