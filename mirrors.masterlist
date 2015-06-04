@@ -928,7 +928,8 @@ Location: Frankfurt, Germany
 Sponsor:
 IPv6: no
 Comment: Updated daily
-State: Enabled
+State: Disabled
+Reason: Closing mirror
 
 Site: slaskdatacenter.pl
 Type: Secondary
