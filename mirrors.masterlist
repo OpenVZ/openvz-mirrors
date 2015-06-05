@@ -128,13 +128,14 @@ Reason: DISABLED 29 Mar 2013, not updated
 Site: xservers.ro
 Type: Secondary
 OVZ-http: mirrors.xservers.ro/openvz/
+OVZ-rsync: mirrors.xservers.ro/openvz/
 Maintainer: tehnic@xservers.ro
 Country: RO
 Location: Romania, Bucharest
 Sponsor:
 IPv6: no
 Comment: Speeds up to 100Mbps from outside country, up to 1Gbps within Romania
-State: Disabled
+State: Enabled
 Reason: 404 Not Found
 
 Site: boTux.net
