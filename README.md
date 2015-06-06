@@ -1,5 +1,5 @@
-Mirror setup for openvz.org
-=========================
+Monitoring of OpenVZ mirrors
+============================
 
 This Git repository provides the information and configuration
 used by the [OpenVZ](https://openvz.org/) project and
