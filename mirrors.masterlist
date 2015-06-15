@@ -65,7 +65,7 @@ Site: iij.ad.jp
 Type: Secondary
 OVZ-http: ftp.iij.ad.jp/pub/openvz/
 OVZ-ftp: ftp.iij.ad.jp/pub/openvz/
-Maintainer:
+Maintainer: mirror-contact@iij.ad.jp
 Country: JP
 Location: Japan, Tokyo, Chiyoda
 Sponsor: IIJ (Internet Initiative Japan)
@@ -78,7 +78,7 @@ Type: Secondary
 OVZ-http: mirror.yandex.ru/mirrors/download.openvz.org/
 OVZ-ftp: mirror.yandex.ru/mirrors/download.openvz.org/
 OVZ-rsync: mirror.yandex.ru/mirrors/download.openvz.org/
-Maintainer:
+Maintainer: opensource@yandex-team.ru, ashejn@yandex-team.ru
 Country: RU
 Location: Russia, Moscow
 Sponsor: Yandex
@@ -104,7 +104,7 @@ Type: Secondary
 OVZ-http: openvz.proserve.nl/
 OVZ-ftp: mirror.proserve.nl/openvz/
 OVZ-rsync: openvz.proserve.nl/openvz
-Maintainer:
+Maintainer: noc@proserve.nl
 Country: NL
 Location: Netherlands (Holland), Amsterdam
 Sponsor: Proserve
@@ -538,7 +538,7 @@ Site: HitMe.pl
 Type: Secondary
 OVZ-http: openvz.hitme.net.pl/
 OVZ-ftp: openvz.hitme.net.pl/openvz/
-Maintainer:
+Maintainer: admin@hitme.pl
 Country: PL
 Location: Poland, Gdansk
 Sponsor:
