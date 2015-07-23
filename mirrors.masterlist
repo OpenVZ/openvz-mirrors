@@ -2,7 +2,7 @@ Site: download.openvz.org
 Type: Master
 OVZ-https: download.openvz.org/
 OVZ-ftp: download.openvz.org/
-OVZ-rsync: download.openvz.org/openvz-download
+OVZ-rsync: download.openvz.org/openvz-download/
 Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
 Country: US
 Location: USA, Virginia, Mc Lean
@@ -103,7 +103,7 @@ Site: proserve.nl
 Type: Secondary
 OVZ-http: openvz.proserve.nl/
 OVZ-ftp: mirror.proserve.nl/openvz/
-OVZ-rsync: openvz.proserve.nl/openvz
+OVZ-rsync: openvz.proserve.nl/openvz/
 Maintainer: noc@proserve.nl
 Country: NL
 Location: Netherlands (Holland), Amsterdam
@@ -168,7 +168,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.sphere.ly/openvz/
 OVZ-ftp: mirrors.sphere.ly/openvz/
-OVZ-rsync: mirrors.sphere.ly/openvz
+OVZ-rsync: mirrors.sphere.ly/openvz/
 Maintainer: mirrors@sphere.ly
 Country: US
 Location: USA, Texas, Dallas
@@ -957,9 +957,9 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: ftp.yzu.edu.tw/openvz
-OVZ-ftp: ftp.yzu.edu.tw/openvz
-OVZ-rsync: ftp.yzu.edu.tw/Linux/openvz
+OVZ-http: ftp.yzu.edu.tw/openvz/
+OVZ-ftp: ftp.yzu.edu.tw/openvz/
+OVZ-rsync: ftp.yzu.edu.tw/Linux/openvz/
 Maintainer: hsu@peterdavehello.org
 Country: TW
 Location: Taiwan, Asia
