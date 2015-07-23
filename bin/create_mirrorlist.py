@@ -11,7 +11,7 @@ try:
     git_mirrors = sys.argv[1]
     repo = sys.argv[2]
 except IndexError:
-    sys.stderr.write("Usage: %s %mirrors.masterlist %path_ro_repo\n" % sys.argv[0])
+    sys.stderr.write("Usage: %s %mirrors.masterlist %path_to_repo\n" % sys.argv[0])
     sys.exit(1)
 
 try:
