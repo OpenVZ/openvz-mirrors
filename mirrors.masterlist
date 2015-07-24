@@ -970,7 +970,7 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: http://kartolo.sby.datautama.net.id/openvz/
+OVZ-http: kartolo.sby.datautama.net.id/openvz/
 Maintainer: Nurdiansyah Prahutama <mirrors-admin@sby.datautama.net.id>
 Country: ID
 Location: Surabaya, East java, Indonesia
