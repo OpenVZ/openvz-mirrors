@@ -967,3 +967,14 @@ Sponsor:
 IPv6: no
 Comment: Update 4 times per day
 State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: http://kartolo.sby.datautama.net.id/openvz/
+Maintainer: Nurdiansyah Prahutama <mirrors-admin@sby.datautama.net.id>
+Country: ID
+Location: Surabaya, East java, Indonesia
+Sponsor: DATAUTAMA-NET-ID
+IPv6: yes
+Comment: every 4 hours
+State: Enabled
