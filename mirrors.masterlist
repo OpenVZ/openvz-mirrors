@@ -4,7 +4,7 @@ OVZ-https: download.openvz.org/
 OVZ-ftp: download.openvz.org/
 OVZ-rsync: download.openvz.org/openvz-download/
 Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
-Country: US
+Country: us
 Location: USA, Virginia, Mc Lean
 Sponsor: Odin
 IPv6: yes
@@ -16,7 +16,7 @@ Type: Secondary
 OVZ-http: openvz-mirror1.rapidvps.com/
 OVZ-ftp: openvz-mirror1.rapidvps.com/
 Maintainer: R Blundell <rickb@rapidvps.com>
-Country: US
+Country: us
 Location: USA, Florida
 Sponsor: 
 IPv6: 
@@ -28,7 +28,7 @@ Site: unbornmedia.com
 Type: Secondary
 OVZ-http: mirrors.unbornmedia.com/openvz/
 Maintainer: noc@unbornmedia.com, Nate Hudson <nate@unbornmedia.com> 
-Country: US
+Country: us
 Location: USA, Massachusetts, Boston
 Sponsor: 
 IPv6: 
@@ -41,7 +41,7 @@ Type: Secondary
 OVZ-http: openvz.mirrors.skynet.be/pub/openvz.org/
 OVZ-ftp: openvz.mirrors.skynet.be/pub/openvz.org/
 Maintainer: Cedric Gavage <ftp@skynet.be> 
-Country: BE
+Country: be
 Location: Belgium, Brussels
 Sponsor: Belgacom S.A.
 IPv6: 
@@ -53,7 +53,7 @@ Site: Dimenoc.com
 Type: Secondary
 OVZ-http: mirror.dimenoc.com/mirror/OpenVZ/
 Maintainer: openvzmirror@dayid.org
-Country: US
+Country: us
 Location: USA, Florida, Orlando
 Sponsor: 
 IPv6: 
@@ -66,7 +66,7 @@ Type: Secondary
 OVZ-http: ftp.iij.ad.jp/pub/openvz/
 OVZ-ftp: ftp.iij.ad.jp/pub/openvz/
 Maintainer: mirror-contact@iij.ad.jp
-Country: JP
+Country: jp
 Location: Japan, Tokyo, Chiyoda
 Sponsor: IIJ (Internet Initiative Japan)
 IPv6: yes
@@ -79,7 +79,7 @@ OVZ-http: mirror.yandex.ru/mirrors/download.openvz.org/
 OVZ-ftp: mirror.yandex.ru/mirrors/download.openvz.org/
 OVZ-rsync: mirror.yandex.ru/mirrors/download.openvz.org/
 Maintainer: opensource@yandex-team.ru, ashejn@yandex-team.ru
-Country: RU
+Country: ru
 Location: Russia, Moscow
 Sponsor: Yandex
 IPv6: yes
@@ -91,7 +91,7 @@ Type: Secondary
 OVZ-http: mirror.xfes.ru/openvz/
 OVZ-ftp: mirror.xfes.ru/openvz/
 Maintainer: admin@xfes.ru, support@xfes.ru
-Country: RU
+Country: ru
 Location: Russia, Moscow
 Sponsor: 
 IPv6: 
@@ -105,7 +105,7 @@ OVZ-http: openvz.proserve.nl/
 OVZ-ftp: mirror.proserve.nl/openvz/
 OVZ-rsync: openvz.proserve.nl/openvz/
 Maintainer: noc@proserve.nl
-Country: NL
+Country: nl
 Location: Netherlands (Holland), Amsterdam
 Sponsor: Proserve
 IPv6: yes
@@ -117,7 +117,7 @@ Type: Secondary
 OVZ-http: ftp.wicks.co.nz/pub/openvz/
 OVZ-ftp: ftp.wicks.co.nz/pub/openvz/
 Maintainer: mirror@wicks.co.nz
-Country: NZ
+Country: nz
 Location: New Zealand
 Sponsor: 
 IPv6: no
@@ -130,7 +130,7 @@ Type: Secondary
 OVZ-http: mirrors.xservers.ro/openvz/
 OVZ-rsync: mirrors.xservers.ro/openvz/
 Maintainer: tehnic@xservers.ro
-Country: RO
+Country: ro
 Location: Romania, Bucharest
 Sponsor:
 IPv6: no
@@ -143,7 +143,7 @@ Type: Secondary
 OVZ-http: mirror.botux.net/pub/openvz/
 OVZ-ftp: mirror.botux.net/pub/openvz/
 Maintainer: r.fluttaz@gmail.com 
-Country: FR
+Country: fr
 Location: France
 Sponsor:
 IPv6:
@@ -156,7 +156,7 @@ Type: Secondary
 OVZ-http: mirror.as24220.net/pub/openvz/
 OVZ-ftp: mirror.as24220.net/pub/openvz/
 Maintainer: mirrors@as24220.net 
-Country: AU
+Country: au
 Location: Australia, Melbourne
 Sponsor:
 IPv6: no
@@ -170,7 +170,7 @@ OVZ-http: mirrors.sphere.ly/openvz/
 OVZ-ftp: mirrors.sphere.ly/openvz/
 OVZ-rsync: mirrors.sphere.ly/openvz/
 Maintainer: mirrors@sphere.ly
-Country: US
+Country: us
 Location: USA, Texas, Dallas
 Sponsor: Spherely LLC
 IPv6: no
@@ -183,7 +183,7 @@ OVZ-http: mirrors.ircam.fr/openvz/
 OVZ-ftp: mirrors.ircam.fr/pub/OpenVZ/
 OVZ-rsync: mirrors.ircam.fr/openvz/
 Maintainer: mirrormaster@ircam.fr
-Country: FR
+Country: fr
 Location: France, Paris
 Sponsor:
 IPv6: yes
@@ -195,7 +195,7 @@ Type: Secondary
 OVZ-http: mirror.yourconnect.com/openvz/
 OVZ-ftp: mirror.yourconnect.com/openvz/
 Maintainer: Chonpakorn Phongphisist <chonpakorn@yahoo.com>
-Country: TH
+Country: th
 Location: Thailand, Bangkok
 Sponsor: YourConnect
 IPv6:
@@ -207,7 +207,7 @@ Site:
 Type: Secondary
 OVZ-http: mirror.ubiquityservers.com/openvz/
 Maintainer: admin@nobistech.net
-Country: US
+Country: us
 Location: USA, Illinois, Chicago
 Sponsor: Ubiquity Servers
 IPv6:
@@ -219,7 +219,7 @@ Site: tsukuba.wide.ad.jp
 Type: Secondary
 OVZ-http: openvz.tsukuba.wide.ad.jp/
 Maintainer: matsumoto@tsukuba.wide.ad.jp, Hiroki Ishikawa <ishikawa@tsukuba.wide.ad.jp>
-Country: JP
+Country: jp
 Location: Japan,　Ibaraki, Tsukuba
 Sponsor:
 IPv6: yes
@@ -231,7 +231,7 @@ Site:
 Type: Secondary
 OVZ-http: openvz.copahost.com/
 Maintainer: Gustavo Gallas <gallas.ceo@homehost.com.br>, <support@copahost.com>
-Country: DE
+Country: de
 Location: Germany
 Sponsor:
 IPv6: no
@@ -243,7 +243,7 @@ Site: Netriplex.com
 Type: Secondary
 OVZ-http: openvz.mirror.netriplex.com/
 Maintainer: dkuntz@netriplex.com, chale@netriplex.com
-Country: US
+Country: us
 Location: USA, North Carolina, Asheville
 Sponsor:
 IPv6: no
@@ -255,7 +255,7 @@ Site:
 Type: Secondary
 OVZ-http: mirror.be.it2go.eu/openvz.org/
 Maintainer: info@it2go.eu
-Country: BE
+Country: be
 Location: Belgium (country) - Bruges (City) - DCO (Datacenter)
 Sponsor: IT2GO
 IPv6:
@@ -267,7 +267,7 @@ Site:
 Type: Secondary
 OVZ-http: mirror.nl.it2go.eu/openvz.org/
 Maintainer: info@it2go.eu
-Country: NL
+Country: nl
 Location: Netherlands (country) - Steenbergen (City) - Nedzone (Datacenter) 
 Sponsor: IT2GO
 IPv6:
@@ -279,7 +279,7 @@ Site:
 Type: Secondary
 OVZ-http: mirror.fr.it2go.eu/openvz.org/
 Maintainer: info@it2go.eu
-Country: NL
+Country: nl
 Location: France (country) - Roubaix (City) - RBX01 (Datacenter) 
 Sponsor: IT2GO
 IPv6:
@@ -292,7 +292,7 @@ Type: Secondary
 OVZ-http: mirrors.igsobe.com/openvz/
 OVZ-ftp: mirrors.igsobe.com/openvz/
 Maintainer: support@igsobe.com, John C. Young <jcy@igsobe.com>
-Country: US
+Country: us
 Location: USA, Florida, Miami
 Sponsor: Internet Gateway of South Beach
 IPv6:
@@ -305,7 +305,7 @@ Type: Secondary
 OVZ-http: mirror.steadfast.net/openvz/
 OVZ-ftp: mirror.steadfast.net/openvz/
 Maintainer: mirror@steadfast.net
-Country: US
+Country: us
 Location: USA, IL, Chicago
 Sponsor: Steadfast Networks
 IPv6:
@@ -316,7 +316,7 @@ Site:
 Type: Secondary
 OVZ-http: mirror.europhase.net/openvz/
 Maintainer: mirror@europhase.net, thomas@europhase.net, david@europhase.net
-Country: UK
+Country: uk
 Location: United Kingdom, London
 Sponsor: Europhase UK
 IPv6:
@@ -328,7 +328,7 @@ Site: 123systems.net
 Type: Secondary
 OVZ-http: mirrors.123systems.net/openvz/
 Maintainer: mirrors@123systems.net
-Country: US
+Country: us
 Location: USA, GA, Atlanta
 Sponsor:
 IPv6:
@@ -341,7 +341,7 @@ Type: Secondary
 OVZ-http: mirror.duomenucentras.lt/openvz/
 OVZ-ftp: mirror.duomenucentras.lt/openvz/
 Maintainer: mirror@duomenucentras.lt
-Country: LT
+Country: lt
 Location: Lithuania, Šiauliai
 Sponsor:
 IPv6: no
@@ -353,7 +353,7 @@ Type: Secondary
 OVZ-http: mirror.trouble-free.net/openvz/
 OVZ-rsync: mirror.trouble-free.net/openvz/
 Maintainer: john@interserver.net
-Country: US
+Country: us
 Location: USA, New Jersey, Secaucus
 Sponsor: InterServer, Inc
 IPv6: no
@@ -365,7 +365,7 @@ Type: Secondary
 OVZ-http: mirror.datacenter.by/pub/download.openvz.org/
 OVZ-ftp: mirror.datacenter.by/pub/download.openvz.org/
 Maintainer: admin@mirror.datacenter.by
-Country: BY
+Country: by
 Location: Belarus, Minsk
 Sponsor: RUE Beltelecom
 IPv6: no
@@ -378,7 +378,7 @@ Type: Secondary
 OVZ-http: ftp.yz.yamagata-u.ac.jp/pub/openvz/
 OVZ-ftp: ftp.yz.yamagata-u.ac.jp/pub/openvz/
 Maintainer: www-admin@ftp.yz.yamagata-u.ac.jp
-Country: JP
+Country: jp
 Location: Japan, Yamagata, Yonezawa
 Sponsor: Yamagata University
 IPv6: yes
@@ -390,7 +390,7 @@ Site: IHC.ru
 Type: Secondary
 OVZ-http: mirror.ihc.ru/download.openvz.org/
 Maintainer: mirror@ihc.ru
-Country: RU
+Country: ru
 Location: Moscow, Russia
 Sponsor:
 IPv6: no
@@ -401,7 +401,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.thzhost.com/openvz/
 Maintainer: support@thzhost.com
-Country: TH
+Country: th
 Location: Bangkok, Thailand
 Sponsor: THZ Hosting
 IPv6: yes
@@ -413,7 +413,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.adnettelecom.ro/openvz/
 Maintainer: mirroradmin@adnettelecom.ro
-Country: RO
+Country: ro
 Location: Romania, Bucharest
 Sponsor: AdNet Telecom
 IPv6: no
@@ -426,7 +426,7 @@ Type: Secondary
 OVZ-http: mirror.ellogroup.com/openvz/
 OVZ-ftp: mirror.ellogroup.com/openvz/
 Maintainer: webmaster@ellogroup.com, Anthony Somerset <anthony@somersettechsolutions.co.uk>
-Country: UK
+Country: uk
 Location: Newcastle, UK
 Sponsor: Ello Group
 IPv6:
@@ -439,7 +439,7 @@ Type: Secondary
 OVZ-http: lnx.apollo-hw.ro/openvz/
 OVZ-ftp: lnx.apollo-hw.ro/openvz/
 Maintainer: mirrors@apollo-hw.ro
-Country: RO
+Country: ro
 Location: Romania, Timisoara
 Sponsor: Apollo Hardware
 IPv6:
@@ -452,7 +452,7 @@ Type: Secondary
 OVZ-http: mirror.yourconnect.com/openvz 
 OVZ-ftp: mirror.yourconnect.com/openvz
 Maintainer: Chonpakorn Phongphisist <chonpakorn@yahoo.com>
-Country: EN
+Country: en
 Location:
 Sponsor: YourConnect Co., Ltd.
 IPv6:
@@ -464,7 +464,7 @@ Site:
 Type: Secondary
 OVZ-http: mirror.softaculous.com/openvz/
 Maintainer: brijesh@softaculous.com
-Country: DE
+Country: de
 Location: Germany
 Sponsor: Softaculous
 IPv6: no
@@ -476,7 +476,7 @@ Type: Secondary
 OVZ-http: mirror.fdcservers.net/openvz/
 OVZ-ftp: mirror.fdcservers.net/openvz/
 Maintainer: mirror@fdcservers.net 
-Country: US
+Country: us
 Location: USA, Illinois, Chicago
 Sponsor:
 IPv6: yes
@@ -487,7 +487,7 @@ Site:
 Type: Secondary
 OVZ-http: mirror.secureax.com/openvz/
 Maintainer: mirroradmin@secureax.com
-Country: SG
+Country: sg
 Location: Singapore
 Sponsor: SecureAX Internet
 IPv6: no
@@ -499,7 +499,7 @@ Type: Secondary
 OVZ-http: mirror.bofh.so/download.openvz.org/
 OVZ-ftp: mirror.bofh.so/download.openvz.org/
 Maintainer: mir-adm@bofh.so
-Country: FR
+Country: fr
 Location: France, Paris
 Sponsor:
 IPv6:
@@ -512,7 +512,7 @@ Type: Secondary
 OVZ-http: mirrors.abdicar.com/OpenVZ/
 OVZ-ftp: mirrors.abdicar.com/OpenVZ/
 Maintainer: info@abdicar.com
-Country: CR
+Country: cr
 Location: Costa Rica, Heredia
 Sponsor: Abdicar
 IPv6:
@@ -526,7 +526,7 @@ OVZ-http: openvz.just-hosting.ru/
 OVZ-ftp: openvz.just-hosting.ru/
 OVZ-rsync: openvz.just-hosting.ru/openvz/
 Maintainer: info@just-hosting.ru
-Country: DE
+Country: de
 Location: Germany, Falkenstein
 Sponsor: JustHosting
 IPv6: no
@@ -539,7 +539,7 @@ Type: Secondary
 OVZ-http: openvz.hitme.net.pl/
 OVZ-ftp: openvz.hitme.net.pl/openvz/
 Maintainer: admin@hitme.pl
-Country: PL
+Country: pl
 Location: Poland, Gdansk
 Sponsor:
 IPv6: no
@@ -551,7 +551,7 @@ Type: Secondary
 OVZ-http: mirrors.nlab.su/openvz/ 
 OVZ-ftp: mirrors.nlab.su/openvz/ 
 Maintainer: admin@nlab.su
-Country: RU
+Country: ru
 Location: Russia, Moscow
 Sponsor:
 IPv6:
@@ -563,7 +563,7 @@ Site:
 Type: Secondary
 OVZ-http: mirror.serverbeheren.nl/openvz/
 Maintainer: info@mjwebhosting.nl
-Country: NL
+Country: nl
 Location: Netherlands, Overijssel, Enschede
 Sponsor: Mj webhosting
 IPv6:
@@ -575,7 +575,7 @@ Site: kisiek.net
 Type: Secondary
 OVZ-http: mirror.kisiek.net/openvz/
 Maintainer: admin@kisiek.net
-Country: PL
+Country: pl
 Location: Poland, Olsztyn
 Sponsor:
 IPv6:
@@ -587,7 +587,7 @@ Site: spd.co.il
 Type: Secondary
 OVZ-http: openvz.spd.co.il/ 
 Maintainer: support@spd.co.il
-Country: IL
+Country: il
 Location: Israel, Rishon letzion
 Sponsor: SPD Web Hosting
 IPv6: no
@@ -600,7 +600,7 @@ OVZ-http: mirrors.digipower.vn/openvz/
 OVZ-ftp: mirrors.digipower.vn/openvz/
 OVZ-rsync: mirrors.digipower.vn/openvz
 Maintainer: contact@digipower.vn, duchoang@digipower.vn
-Country: VN
+Country: vn
 Location: VietNam
 Sponsor: DIGIPOWER Co.,ltd
 IPv6: no
@@ -612,7 +612,7 @@ Site: fastvps.ru
 Type: Secondary
 OVZ-http: mirror.fastvps.ru/openvz/
 Maintainer: complain@fastvps.ru
-Country: DE
+Country: de
 Location: Germany, Falkenstein, DC: Hetzner Online AG
 Sponsor: FastVPS
 IPv6:
@@ -624,7 +624,7 @@ Site: tocici.com
 Type: Secondary
 OVZ-http: mirror.tocici.com/openvz/
 Maintainer: hostmaster@tocici.com
-Country: US
+Country: us
 Location: US, Oregon, Portland
 Sponsor:
 IPv6: yes
@@ -636,7 +636,7 @@ Type: Secondary
 OVZ-http: mirror.webtastix.net/openvz/
 OVZ-ftp: mirror.webtastix.net/openvz/
 Maintainer: Shane Langley <shane@webtastix.net>
-Country: NZ
+Country: nz
 Location: New Zealand, Auckland
 Sponsor: Webtastix Internet Services
 IPv6: yes
@@ -648,7 +648,7 @@ Type: Secondary
 OVZ-http: ftp.colocall.net/pub/openvz/
 OVZ-ftp: ftp.colocall.net/pub/openvz/
 Maintainer: mirrors@colocall.net
-Country: UA
+Country: ua
 Location: Ukraine, Kiev
 Sponsor: Colocall Internet Data Center
 IPv6: yes
@@ -659,7 +659,7 @@ Site:
 Type: Secondary
 OVZ-http: openvz.mirror.serveriai.lt/
 Maintainer: Arūnas Ulinskas <arunas.u@iv.lt>
-Country: LT
+Country: lt
 Location: Lithuania, Vilnius
 Sponsor: Interneto Vizija
 IPv6: no
@@ -670,7 +670,7 @@ Site:
 Type: Secondary
 OVZ-http: ovz.ionic.net.pl/
 Maintainer: info@ionic.pl
-Country: PL
+Country: pl
 Location: Poland, Kraków
 Sponsor:
 IPv6:
@@ -684,7 +684,7 @@ OVZ-http: mirrors.ustc.edu.cn/openvz/
 OVZ-ftp: mirrors.ustc.edu.cn/openvz/
 OVZ-rsync: mirrors.ustc.edu.cn/openvz/
 Maintainer: lug@ustc.edu.cn
-Country: CN
+Country: cn
 Location: Hefei, Anhui, China
 Sponsor: University of Science and Technology of China
 IPv6: yes
@@ -695,7 +695,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.vinahost.vn/openvz/
 Maintainer: mirror-admin@vinahost.vn
-Country: EN
+Country: en
 Location: Ho Chi Minh City, Viet Nam
 Sponsor: VinaHost Co., Ltd
 IPv6: no
@@ -708,7 +708,7 @@ OVZ-http: mirrors.neterra.net/openvz/
 OVZ-ftp: mirrors.neterra.net/openvz/
 OVZ-rsync: mirrors.neterra.net/openvz/
 Maintainer: mirrors@neterra.net
-Country: BG
+Country: bg
 Location: Bulgaria, Sofia
 Sponsor: Neterra LTD
 IPv6: yes
@@ -721,7 +721,7 @@ OVZ-http: mirror.vpsfree.cz/openvz/
 OVZ-ftp: mirror.vpsfree.cz/openvz/
 OVZ-rsync: mirror.vpsfree.cz/openvz
 Maintainer: ovzmirror@mrkva.eu
-Country: CZ
+Country: cz
 Location: Czech, Prague
 Sponsor:
 IPv6: yes
@@ -732,7 +732,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.bangmodhosting.com/openvz/
 Maintainer: Satanun Siwaporn <satanun@bangmodhosting.com>
-Country: TH
+Country: th
 Location: Thailand, Bangkok
 Sponsor: BangmodEnterprise Co., Ltd.
 IPv6: no
@@ -745,7 +745,7 @@ Type: Secondary
 OVZ-http: mirror.maeh.org/openvz/
 OVZ-ftp: mirror.maeh.org/openvz/
 Maintainer: mirrors@maeh.org
-Country: DE
+Country: de
 Location: Germany, Hamburg
 Sponsor:
 IPv6: yes
@@ -756,7 +756,7 @@ Site: scalabledns.com
 Type: Secondary
 OVZ-http: mirror2.scalabledns.com/openvz/
 Maintainer: support@scalabledns.com
-Country: US
+Country: us
 Location: USA, California, Los Angeles
 Sponsor:
 IPv6: no
@@ -768,7 +768,7 @@ Site: GloVine.com.au
 Type: Secondary
 OVZ-http: openvz.syd.au.glomirror.com.au/
 Maintainer: NOCops@GloVine.com.au
-Country: AU
+Country: au
 Location: Australia, Sydney
 Sponsor:
 IPv6:
@@ -780,7 +780,7 @@ Site: GloVine.com.au
 Type: Secondary
 OVZ-http: openvz.dal.tx.us.glomirror.com.au/
 Maintainer: mirrors@glovine.com.au
-Country: US
+Country: us
 Location: USA, Texas, Dallas
 Sponsor:
 IPv6:
@@ -792,7 +792,7 @@ Site: GloVine.com.au
 Type: Secondary
 OVZ-http: openvz.kan.mo.us.glomirror.com.au/
 Maintainer: mirrors@glovine.com.au
-Country: US
+Country: us
 Location: USA, Missouri, Kansas City
 Sponsor:
 IPv6:
@@ -804,7 +804,7 @@ Site: mirror.nhanhoa.com
 Type: Secondary
 OVZ-http: mirror.nhanhoa.com/openvz/
 Maintainer: Dang Duc Thinh <thinhdd@nhanhoa.com.vn>
-Country: VN
+Country: vn
 Location: Vietnam, Ha Noi
 Sponsor: Nhan Hoa Co., Ltd
 IPv6:
@@ -817,7 +817,7 @@ Type: Secondary
 OVZ-http: openvz.ansamirror.com.au/
 OVZ-ftp: openvz.ansamirror.com.au/
 Maintainer: info@ausnetservers.net.au, noc@ausnetservers.net.au 
-Country: AU
+Country: au
 Location: Australia, Victoria, Ballarat
 Sponsor:
 IPv6:
@@ -830,7 +830,7 @@ Type: Secondary
 OVZ-http: mirror.netinch.com/pub/openvz/
 OVZ-ftp: mirror.netinch.com/pub/openvz/
 Maintainer: eeroalk@netinch.com
-Country: FI
+Country: fi
 Location: Finland, Tampere
 Sponsor:
 IPv6: no
@@ -841,7 +841,7 @@ Site: cenexo.com
 Type: Secondary
 OVZ-http: mirror.lon.cenexo.com/openvz/
 Maintainer: hostmaster@nodeload.net
-Country: UK
+Country: uk
 Location: UK, London
 Sponsor:
 IPv6: no
@@ -853,7 +853,7 @@ Type: Secondary
 OVZ-http: mirror.hdcore.eu/openvz/
 OVZ-ftp: mirror.hdcore.eu/openvz/
 Maintainer: mirroradmin@hostingdept.co.uk
-Country: FR
+Country: fr
 Location: France, Roubaix
 Sponsor:
 IPv6: no
@@ -864,7 +864,7 @@ Site:
 Type: Secondary
 OVZ-http: mirrors.bestthaihost.com/openvz/
 Maintainer: bank@bestinternet.co.th
-Country: TH
+Country: th
 Location: Bangkok, Thailand
 Sponsor: Best Thai Host
 IPv6: yes
@@ -876,7 +876,7 @@ Site: FirstNetServ
 Type: Secondary
 OVZ-http: ovzmirror1.firstnetserv.co.uk/openvz/
 Maintainer: asm67xg@gmx.us
-Country: FR
+Country: fr
 Location: France, Orleans
 Sponsor:
 IPv6: no
@@ -888,7 +888,7 @@ Site: GloVine.com.au
 Type: Secondary
 OVZ-http: openvz.nsw.au.glomirror.com.au/
 Maintainer: daniel@glovine.com.au
-Country: AU
+Country: au
 Location: Australia, Sydney
 Sponsor:
 IPv6:
@@ -901,7 +901,7 @@ Type: Secondary
 OVZ-http: mirror.supremebytes.com/openvz/
 OVZ-ftp: mirror.supremebytes.com/openvz/
 Maintainer: Damien Burke <damien@supremebytes.com>
-Country: US
+Country: us
 Location: USA, California, Los Angeles
 Sponsor:
 IPv6:
@@ -913,7 +913,7 @@ Site: mindstudios.com
 Type: Secondary
 OVZ-http: openvz.mindstudios.com/
 Maintainer: mirrors@mindstudios.com
-Country: FR
+Country: fr
 Location: Paris, France
 Sponsor:
 IPv6: no
@@ -924,7 +924,7 @@ Site: sciserv.eu
 Type: Secondary
 OVZ-http: openvz.sciserv.eu/
 Maintainer: marz.michael@openres.net
-Country: DE
+Country: de
 Location: Frankfurt, Germany
 Sponsor:
 IPv6: no
@@ -936,7 +936,7 @@ Site: slaskdatacenter.pl
 Type: Secondary
 OVZ-http: openvz.slaskdatacenter.com/
 Maintainer: bok@slaskdatacenter.pl
-Country: PL
+Country: pl
 Location: Tarnowskie Gory, Slask, Poland
 Sponsor:
 IPv6: yes
@@ -948,7 +948,7 @@ Type: Secondary
 OVZ-http: mirror.nexcess.net/openvz/
 OVZ-ftp: mirror.nexcess.net/openvz/
 Maintainer: mirroradmin@nexcess.net
-Country: US
+Country: us
 Location: USA, Michigan, Southfield
 Sponsor:
 IPv6: no
@@ -961,7 +961,7 @@ OVZ-http: ftp.yzu.edu.tw/openvz/
 OVZ-ftp: ftp.yzu.edu.tw/openvz/
 OVZ-rsync: ftp.yzu.edu.tw/Linux/openvz/
 Maintainer: hsu@peterdavehello.org
-Country: TW
+Country: tw
 Location: Taiwan, Asia
 Sponsor:
 IPv6: no
@@ -972,7 +972,7 @@ Site:
 Type: Secondary
 OVZ-http: kartolo.sby.datautama.net.id/openvz/
 Maintainer: Nurdiansyah Prahutama <mirrors-admin@sby.datautama.net.id>
-Country: ID
+Country: id
 Location: Surabaya, East java, Indonesia
 Sponsor: DATAUTAMA-NET-ID
 IPv6: yes
