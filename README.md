@@ -20,8 +20,8 @@ The status of OpenVZ mirror infrastructure can be checked at
 
 MAILTO=""
 
-*/5 * * * *     $(/bin/date +\%s > /var/www/html/timestamp)
-*/5 * * * *     cd /home/sergeyb/ovz/; git pull && make
+00 * * * *     $(/bin/date +\%s > /var/www/html/timestamp)
+00 * * * *     cd /home/sergeyb/ovz/; git pull && make
 ```
 
 Thanks for your interest and help in providing an OpenVZ mirror!
