@@ -15,8 +15,12 @@ The status of OpenVZ mirror infrastructure can be checked at
 
 ## How to setup:
 
+- install mirmon package: yum install -y mirmon
+- checkout this source repository
+- setup regular execution via crontab:
+
 ```
-# cronrab -l
+# crontab -l
 
 MAILTO=""
 
