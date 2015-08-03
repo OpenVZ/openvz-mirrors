@@ -978,3 +978,16 @@ Sponsor: DATAUTAMA-NET-ID
 IPv6: yes
 Comment: every 4 hours
 State: Enabled
+
+Site: netix.net
+Type: Secondary
+OVZ-http: http://mirrors.netix.net/openvz/
+OVZ-ftp: ftp://mirrors.netix.net/openvz/
+OVZ-rsync: rsync://mirrors.netix.net/openvz
+Maintainer: sbarzakov@neterra.net, mirrors@netix.net
+Country: bg
+Location: Bulgaria (BG), Europe
+Sponsor: Netix Ltd
+IPv6: yes
+Comment: Update twice a day
+State: Enabled
