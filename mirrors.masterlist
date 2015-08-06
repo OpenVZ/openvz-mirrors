@@ -991,3 +991,16 @@ Sponsor: Netix Ltd
 IPv6: yes
 Comment: Update twice a day
 State: Enabled
+
+Site: www.byfly.by
+Type: Secondary
+OVZ-http: ftp.byfly.by/pub/download.openvz.org/
+OVZ-ftp: ftp.byfly.by/pub/download.openvz.org/
+OVZ-rsync: ftp.byfly.by/OpenVZ/
+Maintainer: ftp@mgts.by
+Country: by
+Location:
+Sponsor: Byfly
+IPv6: no
+Comment:
+State: Enabled
