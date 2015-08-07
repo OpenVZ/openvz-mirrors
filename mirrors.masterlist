@@ -1033,7 +1033,7 @@ State: Enabled
 Site: www.m247.ro
 Type: Secondary
 OVZ-http: mirrors.m247.ro/openvz/
-OVZ-rsync: mirrors.m247.ro/openvz
+OVZ-rsync: mirrors.m247.ro/openvz/
 Maintainer: andrei.tudorancea@m247.ro
 Country: ro
 Location: Romania, Bucharest
@@ -1056,9 +1056,9 @@ State: Enabled
 
 Site: www.trabia.com
 Type: Secondary
-OVZ-http: mirror.as43289.net/openvz
-OVZ-ftp: mirror.as43289.net/openvz
-OVZ-rsync: mirror.as43289.net/openvz
+OVZ-http: mirror.as43289.net/openvz/
+OVZ-ftp: mirror.as43289.net/openvz/
+OVZ-rsync: mirror.as43289.net/openvz/
 Maintainer: noc@trabia.com
 Country:
 Location: Chisinau, Republic of Moldova
