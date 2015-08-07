@@ -1117,15 +1117,15 @@ IPv6: yes
 Comment:
 State: Enabled
 
-Site:
+Site: www.syringanetworks.net
 Type: Secondary
 OVZ-http: mirrors.syringanetworks.net/OpenVZ/
 OVZ-ftp: mirrors.syringanetworks.net/OpenVZ/
 OVZ-rsync: mirrors.syringanetworks.net/OpenVZ/
-Maintainer:
+Maintainer: mirrors@syringanetworks.net
 Country: us
-Location:
-Sponsor:
+Location: USA, Idaho, Boise
+Sponsor: Syringa Networks
 IPv6: yes
 Comment:
 State: Enabled
