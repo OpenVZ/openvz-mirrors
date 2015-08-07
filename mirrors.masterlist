@@ -1177,3 +1177,15 @@ Sponsor: Rinet
 IPv6: no
 Comment:
 State: Enabled
+
+Site: www.icm.edu.pl
+Type: Secondary
+OVZ-http: ftp.icm.edu.pl/pub/Linux/openvz/
+OVZ-ftp: ftp.icm.edu.pl/pub/Linux/openvz/
+Maintainer: mirror@icm.edu.pl, Rafal Maszkowski <rzm@icm.edu.pl>
+Country: pl
+Location: Polska, Warszawa
+Sponsor:
+IPv6: yes
+Comment:
+State: Enabled
