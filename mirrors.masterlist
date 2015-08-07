@@ -1004,3 +1004,15 @@ Sponsor: Byfly
 IPv6: no
 Comment:
 State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: http://ftp.arnes.si/pub/mirrors/openvz/
+OVZ-https: http://ftp.arnes.si/pub/mirrors/openvz/
+Maintainer: Mitja Mihelič <mitja.mihelic@arnes.si>, ftpadmin@arnes.si
+Country: si
+Location: Slovenia
+Sponsor:
+IPv6: yes
+Comment:
+State: Enabled
