@@ -1110,7 +1110,7 @@ Type: Secondary
 OVZ-http: mirror.h1host.ru/openvz/
 OVZ-ftp: mirror.h1host.ru/openvz/
 OVZ-rsync: mirror.h1host.ru/openvz/
-Maintainer: Anton Zheltyshev
+Maintainer: support@h1host.ru
 Country: ru
 Location: Russia, Moscow
 Sponsor: H1 LLC
@@ -1145,9 +1145,9 @@ State: Enabled
 
 Site: www.checkdomain.de
 Type: Secondary
-OVZ-http: https://mirror.checkdomain.de/openvz/
-OVZ-https: https://mirror.checkdomain.de/openvz/
-OVZ-ftp: https://mirror.checkdomain.de/openvz/
+OVZ-http: mirror.checkdomain.de/openvz/
+OVZ-https: mirror.checkdomain.de/openvz/
+OVZ-ftp: mirror.checkdomain.de/openvz/
 Maintainer: Simon Jalandt <s.jalandt@checkdomain.de>
 Country: de
 Location: Germany, Sachsen
