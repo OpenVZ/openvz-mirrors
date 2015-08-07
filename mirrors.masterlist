@@ -1052,3 +1052,16 @@ Sponsor: KDDI R&D Laboratories Inc.
 IPv6: yes
 Comment: Daily updates, Bandwidth: 200Mbps+ (both IPv4 and IPv6 available)
 State: Enabled
+
+Site: www.trabia.com
+Type: Secondary
+OVZ-http: mirror.as43289.net/openvz
+OVZ-ftp: mirror.as43289.net/openvz
+OVZ-rsync: mirror.as43289.net/openvz
+Maintainer: noc@trabia.com
+Country:
+Location: Chisinau, Republic of Moldova
+Sponsor: Trabia Network
+IPv6: yes
+Comment: Update frequency: each hour
+State: Enabled
