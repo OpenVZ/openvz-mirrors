@@ -1065,3 +1065,15 @@ Sponsor: Trabia Network
 IPv6: yes
 Comment: Update frequency: each hour
 State: Enabled
+
+Site: www.23media.de
+Type: Secondary
+OVZ-http: mirror.23media.de/openvz/
+OVZ-ftp: mirror.23media.de/openvz/
+Maintainer:
+Country: de
+Location:
+Sponsor: 23Media
+IPv6: yes
+Comment:
+State: Enabled
