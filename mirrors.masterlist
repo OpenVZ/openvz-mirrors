@@ -1091,3 +1091,15 @@ Sponsor: 23Media
 IPv6: yes
 Comment:
 State: Enabled
+
+Site: www.webdesk.ru
+Type: Secondary
+OVZ-http: openvz.webdesk.ru/
+OVZ-rsync: openvz.webdesk.ru/OPENVZ/
+Maintainer: it@webdesk.ru
+Country: ru
+Location: Moscow, Russian Federation
+Sponsor: WEB DESK LLC
+IPv6: no
+Comment: Updated every 30 minutes; 100 mbps connection limit, in a Gbits network
+State: Enabled
