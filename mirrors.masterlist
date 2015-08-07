@@ -1154,3 +1154,14 @@ Sponsor: Checkdomain
 IPv6: yes
 Comment:
 State: Enabled
+
+Site: dhakacom.com
+Type: Secondary
+OVZ-http: mirror.dhakacom.com/openvz/
+Maintainer: Fakrul Alam <fakrul@dhakacom.com>
+Country: us
+Location:
+Sponsor: dhakacom
+IPv6: yes
+Comment:
+State: Enabled
