@@ -1129,3 +1129,15 @@ Sponsor: Syringa Networks
 IPv6: yes
 Comment:
 State: Enabled
+
+Site: www.ukhost4u.com
+Type: Secondary
+OVZ-http: mirror.ukhost4u.com/openvz/
+OVZ-ftp: mirror.ukhost4u.com/openvz/
+Maintainer: Paul Hughes <paul@ukhost4u.com>
+Country: uk
+Location: Edinburgh, United Kingdom
+Sponsor: UKHost4U
+IPv6: no
+Comment:
+State: Enabled
