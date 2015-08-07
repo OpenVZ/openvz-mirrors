@@ -1007,8 +1007,8 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: http://ftp.arnes.si/pub/mirrors/openvz/
-OVZ-https: http://ftp.arnes.si/pub/mirrors/openvz/
+OVZ-http: ftp.arnes.si/pub/mirrors/openvz/
+OVZ-https: ftp.arnes.si/pub/mirrors/openvz/
 Maintainer: Mitja Mihelič <mitja.mihelic@arnes.si>, ftpadmin@arnes.si
 Country: si
 Location: Slovenia
@@ -1019,9 +1019,9 @@ State: Enabled
 
 Site: www.hosteurope.de
 Type: Secondary
-OVZ-http: http://ftp.hosteurope.de/mirror/openvz/
-OVZ-ftp: ftp://ftp.hosteurope.de/mirror/openvz/
-OVZ-rsync: rsync://ftp.hosteurope.de/openvz/
+OVZ-http: ftp.hosteurope.de/mirror/openvz/
+OVZ-ftp: ftp.hosteurope.de/mirror/openvz/
+OVZ-rsync: ftp.hosteurope.de/openvz/
 Maintainer: mirror-admins@hosteurope.de
 Country: de
 Location: Cologne, Germany
