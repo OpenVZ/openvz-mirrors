@@ -1150,10 +1150,11 @@ OVZ-https: https://mirror.checkdomain.de/openvz/
 OVZ-ftp: https://mirror.checkdomain.de/openvz/
 Maintainer: Simon Jalandt <s.jalandt@checkdomain.de>
 Country: de
-Location:
-Sponsor: Checkdomain
+Location: Germany, Sachsen
+Sponsor: checkdomain GmbH
 IPv6: yes
 Comment:
+Comment: 1 Gbit/s uplink, Updated hourly
 State: Enabled
 
 Site: dhakacom.com
