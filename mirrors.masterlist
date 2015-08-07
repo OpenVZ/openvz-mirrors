@@ -1184,12 +1184,13 @@ Site: www.icm.edu.pl
 Type: Secondary
 OVZ-http: ftp.icm.edu.pl/pub/Linux/openvz/
 OVZ-ftp: ftp.icm.edu.pl/pub/Linux/openvz/
-Maintainer: mirror@icm.edu.pl, Rafal Maszkowski <rzm@icm.edu.pl>
+OVZ-rsync: ftp.icm.edu.pl/pub/Linux/openvz/
+Maintainer: mirror@icm.edu.pl, Rafal Maszkowski <rzm@icm.edu.pl>, sunsite@icm.edu.pl
 Country: pl
 Location: Polska, Warszawa
-Sponsor:
+Sponsor: ICM UW (Interdisciplinary Centre for Modelling, Warsaw University)
 IPv6: yes
-Comment:
+Comment: The server has 10 Gbps connection and serves 43 TB of data currently.
 State: Enabled
 
 Site: sigarra.up.pt
