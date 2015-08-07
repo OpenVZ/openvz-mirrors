@@ -1033,15 +1033,16 @@ State: Enabled
 Site: www.m247.ro
 Type: Secondary
 OVZ-http: mirrors.m247.ro/openvz/
+OVZ-rsync: mirrors.m247.ro/openvz
 Maintainer: andrei.tudorancea@m247.ro
 Country: ro
-Location:
-Sponsor: M247
+Location: Romania, Bucharest
+Sponsor: M247 Europe
 IPv6: yes
 Comment:
 State: Enabled
 
-Site: http://www.kddilabs.jp/
+Site: www.kddilabs.jp
 Type: Secondary
 OVZ-http: www.ftp.ne.jp/Linux/MISC/openvz/
 OVZ-ftp: ftp.kddilabs.jp/Linux/MISC/openvz/
