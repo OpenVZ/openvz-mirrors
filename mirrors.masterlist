@@ -1203,3 +1203,15 @@ Sponsor: Faculdade de Engenharia da Universidade do Porto
 IPv6: yes
 Comment:
 State: Enabled
+
+Site: www.triple-it.nl
+Type: Secondary
+OVZ-http: openvz.mirror.triple-it.nl/
+OVZ-rsync: openvz.mirror.triple-it.nl/openvz/
+Maintainer: mirror@triple-it.nl
+Country: nl
+Location: The Netherlands, Noord-Holland, Amsterdam
+Sponsor: Triple IT
+IPv6: yes
+Comment: Updates every hour on the 40st minute, the mirror server has 8TB of storage, and is connected to 2GBPS uplink.
+State: Enabled
