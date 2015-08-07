@@ -1040,3 +1040,15 @@ Sponsor: M247
 IPv6: yes
 Comment:
 State: Enabled
+
+Site: http://www.kddilabs.jp/
+Type: Secondary
+OVZ-http: www.ftp.ne.jp/Linux/MISC/openvz/
+OVZ-ftp: ftp.kddilabs.jp/Linux/MISC/openvz/
+Maintainer: admin@ftp.ne.jp
+Country: jp
+Location:
+Sponsor: KDDI R&D Laboratories Inc.
+IPv6: yes
+Comment: Daily updates, Bandwidth: 200Mbps+ (both IPv4 and IPv6 available)
+State: Enabled
