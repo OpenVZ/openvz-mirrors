@@ -1016,3 +1016,16 @@ Sponsor:
 IPv6: yes
 Comment:
 State: Enabled
+
+Site: www.hosteurope.de
+Type: Secondary
+OVZ-http: http://ftp.hosteurope.de/mirror/openvz/
+OVZ-ftp: ftp://ftp.hosteurope.de/mirror/openvz/
+OVZ-rsync: rsync://ftp.hosteurope.de/openvz/
+Maintainer: mirror-admins@hosteurope.de
+Country: de
+Location: Cologne, Germany
+Sponsor: Host Europe
+IPv6: yes
+Comment: Hourly updates
+State: Enabled
