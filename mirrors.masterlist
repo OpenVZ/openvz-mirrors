@@ -1190,3 +1190,15 @@ Sponsor:
 IPv6: yes
 Comment:
 State: Enabled
+
+Site: sigarra.up.pt
+Type: Secondary
+OVZ-http: mirrors.fe.up.pt/pub/openvz/
+OVZ-ftp: mirrors.fe.up.pt/pub/openvz/
+Maintainer: mirrors@fe.up.pt
+Country: pt
+Location: Porto, Portugal
+Sponsor: Faculdade de Engenharia da Universidade do Porto
+IPv6: yes
+Comment:
+State: Enabled
