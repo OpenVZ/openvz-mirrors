@@ -11,6 +11,19 @@ IPv6: yes
 Comment: Master site
 State: Enabled
 
+Site: eu.download.openvz.org
+Type: Master
+OVZ-https: eu.download.openvz.org/
+OVZ-ftp: eu.download.openvz.org/
+OVZ-rsync: eu.download.openvz.org/openvz-download/
+Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
+Country: ch
+Location:
+Sponsor: Odin
+IPv6: no
+Comment: Master site
+State: Disabled
+
 Site: 
 Type: Secondary
 OVZ-http: openvz-mirror1.rapidvps.com/
