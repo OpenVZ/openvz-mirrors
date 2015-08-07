@@ -1060,7 +1060,7 @@ OVZ-http: mirror.as43289.net/openvz/
 OVZ-ftp: mirror.as43289.net/openvz/
 OVZ-rsync: mirror.as43289.net/openvz/
 Maintainer: noc@trabia.com
-Country:
+Country: md
 Location: Chisinau, Republic of Moldova
 Sponsor: Trabia Network
 IPv6: yes
