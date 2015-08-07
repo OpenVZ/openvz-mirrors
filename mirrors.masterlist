@@ -1141,3 +1141,16 @@ Sponsor: UKHost4U
 IPv6: no
 Comment:
 State: Enabled
+
+Site: www.checkdomain.de
+Type: Secondary
+OVZ-http: https://mirror.checkdomain.de/openvz/
+OVZ-https: https://mirror.checkdomain.de/openvz/
+OVZ-ftp: https://mirror.checkdomain.de/openvz/
+Maintainer: Simon Jalandt <s.jalandt@checkdomain.de>
+Country: de
+Location:
+Sponsor: Checkdomain
+IPv6: yes
+Comment:
+State: Enabled
