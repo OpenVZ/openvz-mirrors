@@ -1116,3 +1116,16 @@ Sponsor: H1 LLC
 IPv6: yes
 Comment:
 State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: mirrors.syringanetworks.net/OpenVZ/
+OVZ-ftp: mirrors.syringanetworks.net/OpenVZ/
+OVZ-rsync: mirrors.syringanetworks.net/OpenVZ/
+Maintainer:
+Country: us
+Location:
+Sponsor:
+IPv6: yes
+Comment:
+State: Enabled
