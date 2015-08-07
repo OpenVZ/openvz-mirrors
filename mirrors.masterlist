@@ -1046,6 +1046,7 @@ State: Enabled
 Site: www.m247.ro
 Type: Secondary
 OVZ-http: mirrors.m247.ro/openvz/
+OVZ-ftp: mirrors.m247.ro/openvz/
 OVZ-rsync: mirrors.m247.ro/openvz/
 Maintainer: andrei.tudorancea@m247.ro
 Country: ro
