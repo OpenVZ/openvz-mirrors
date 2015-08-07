@@ -1103,3 +1103,16 @@ Sponsor: WEB DESK LLC
 IPv6: no
 Comment: Updated every 30 minutes; 100 mbps connection limit, in a Gbits network
 State: Enabled
+
+Site: www.h1host.ru
+Type: Secondary
+OVZ-http: mirror.h1host.ru/openvz/
+OVZ-ftp: mirror.h1host.ru/openvz/
+OVZ-rsync: mirror.h1host.ru/openvz/
+Maintainer: Anton Zheltyshev
+Country: ru
+Location: Russia, Moscow
+Sponsor: H1 LLC
+IPv6: yes
+Comment:
+State: Enabled
