@@ -1165,3 +1165,15 @@ Sponsor: dhakacom
 IPv6: yes
 Comment:
 State: Enabled
+
+Site: rinet.ru
+Type: Secondary
+OVZ-http: openvz.rinet.ru/
+OVZ-ftp: mirror.rinet.ru/pub/mirror/openvz/
+Maintainer: mirroradm@rinet.ru
+Country: ru
+Location: Russia, Moscow
+Sponsor: Rinet
+IPv6: no
+Comment:
+State: Enabled
