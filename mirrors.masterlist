@@ -1228,3 +1228,15 @@ Sponsor:
 IPv6: yes
 Comment: Update once per hour
 State: Enabled
+
+Site: uberglobalmirror.com
+Type: Secondary
+OVZ-http: openvz.uberglobalmirror.com/
+OVZ-rsync: uberglobalmirror.com/openvz/
+Maintainer: mirrors@uber.com.au
+Country: au
+Location: Sydney, Australia
+Sponsor: UberGlobal
+IPv6: yes
+Comment: Update frequency: Hourly
+State: Enabled
