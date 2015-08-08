@@ -1216,3 +1216,15 @@ Sponsor: Triple IT
 IPv6: yes
 Comment: Updates every hour on the 40st minute, the mirror server has 8TB of storage, and is connected to 2GBPS uplink.
 State: Enabled
+
+Site: www.garr.it
+Type: Secondary
+OVZ-http: openvz.mirror.garr.it/mirrors/openvz/
+OVZ-rsync: openvz.mirror.garr.it/openvz/
+Maintainer: iwantamirror@cilea.it, mirror-service@garr.it
+Country: it
+Location:
+Sponsor:
+IPv6: yes
+Comment: Update once per hour
+State: Enabled
