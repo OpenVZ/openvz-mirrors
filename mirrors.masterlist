@@ -1240,3 +1240,16 @@ Sponsor: UberGlobal
 IPv6: yes
 Comment: Update frequency: Hourly
 State: Enabled
+
+Site: www.fsn.hu
+Type: Secondary
+OVZ-http: ftp.fsn.hu/pub/openvz/
+OVZ-ftp: ftp.fsn.hu/pub/openvz/
+OVZ-rsync: ftp.fsn.hu/ftp/pub/openvz/
+Maintainer: bra@fsn.hu
+Country: hu
+Location: Hungary, Budapest
+Sponsor:
+IPv6: yes
+Comment: update frequence - four hours
+State: Enabled
