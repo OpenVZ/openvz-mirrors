@@ -1272,8 +1272,8 @@ OVZ-http: openvz.mirrors.ovh.net/openvz/
 OVZ-ftp: openvz.mirrors.ovh.net/openvz/
 OVZ-rsync: openvz.mirrors.ovh.net/openvz/
 Maintainer: mirror@ovh.net, Felix Krohn <felix.krohn@ovh.net>
-Country: ie
-Location:
+Country: fr
+Location: Roubaix, France
 Sponsor: OVH
 IPv6: yes
 Comment: It's connected with 1Gbit, IPv4 + IPv6 available, ftp, http, rsync available.
