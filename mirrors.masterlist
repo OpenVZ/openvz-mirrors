@@ -59,7 +59,7 @@ Location: Belgium, Brussels
 Sponsor: Belgacom S.A.
 IPv6: 
 Comment: 
-State: Disabled
+State: Enabled
 Reason: COMMENTED OUT
 
 Site: Dimenoc.com
@@ -216,16 +216,16 @@ Comment: Bandwidth available: 1000Mb/s. Update Frequency: 6x daily.'''2010 Jan 2
 State: Disabled
 Reason: COMMENTED OUT
 
-Site: 
+Site: www.ubiquityhosting.com
 Type: Secondary
 OVZ-http: mirror.ubiquityservers.com/openvz/
 Maintainer: admin@nobistech.net
 Country: us
 Location: USA, Illinois, Chicago
 Sponsor: Ubiquity Servers
-IPv6:
+IPv6: no
 Comment:
-State: Disabled
+State: Enabled
 Reason: DISABLED Jul 1 2013
 
 Site: tsukuba.wide.ad.jp
@@ -249,7 +249,7 @@ Location: Germany
 Sponsor:
 IPv6: no
 Comment: Updated 4 times a day
-State: Disabled
+State: Enabled
 Reason: DISABLED 29 Mar 2013: extremely slow
 
 Site: Netriplex.com
@@ -389,14 +389,14 @@ Reason: SAN/Storage outage, disabled as agreed with contact person
 Site:
 Type: Secondary
 OVZ-http: ftp.yz.yamagata-u.ac.jp/pub/openvz/
-OVZ-ftp: ftp.yz.yamagata-u.ac.jp/pub/openvz/
+OVZ-ftp: ftp.yz.yamagata-u.ac.jp/mirror7/openvz/
 Maintainer: www-admin@ftp.yz.yamagata-u.ac.jp
 Country: jp
 Location: Japan, Yamagata, Yonezawa
 Sponsor: Yamagata University
 IPv6: yes
 Comment: 1 Gbps, updated 4 times per day
-State: Disabled
+State: Enabled
 Reason: DISABLED 22 Apr 2013: read error, connection reset by peer
 
 Site: IHC.ru
@@ -419,7 +419,7 @@ Location: Bangkok, Thailand
 Sponsor: THZ Hosting
 IPv6: yes
 Comment: Updated every 4 hours
-State: Disabled
+State: Enabled
 Reason: Outdated content
 
 Site:
@@ -822,7 +822,7 @@ Location: Vietnam, Ha Noi
 Sponsor: Nhan Hoa Co., Ltd
 IPv6:
 Comment: 100 mbps, updated 4 times a day
-State: Disabled
+State: Enabled
 Reason: DISABLED 28 Jan 2015 -- not updated since 02 Jan
 
 Site: ausnetservers.net.au
@@ -835,7 +835,7 @@ Location: Australia, Victoria, Ballarat
 Sponsor:
 IPv6:
 Comment: updated hourly
-State: Disabled
+State: Enabled
 Reason: NOT UPDATED as of Jan 17 2014
 
 Site: netinch.com
@@ -1286,7 +1286,7 @@ OVZ-ftp: mirror.logol.ru/openvz/
 Maintainer: kurilkin@reg.ru
 Country: ru
 Location: Russia, Moscow
-Sponsor:
+Sponsor: Logol
 IPv6: no
 Comment: frequency of updates: every 60 min
 State: Enabled
