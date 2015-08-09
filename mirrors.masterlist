@@ -1253,3 +1253,15 @@ Sponsor:
 IPv6: yes
 Comment: update frequence - four hours
 State: Enabled
+
+Site: mirrorbrain.org
+Type: Secondary
+OVZ-http: ftp.acc.umu.se/mirror/openvz.org/
+OVZ-rsync: ftp.acc.umu.se/mirror/openvz.org/
+Maintainer: ftp-adm@acc.umu.se
+Country: se
+Location: Sweden
+Sponsor: MirrorBrain
+IPv6: yes
+Comment: Frequency of updates: Hourly
+State: Enabled
