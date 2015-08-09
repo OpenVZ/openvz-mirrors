@@ -1278,3 +1278,15 @@ Sponsor: OVH
 IPv6: yes
 Comment: It's connected with 1Gbit, IPv4 + IPv6 available, ftp, http, rsync available.
 State: Enabled
+
+Site: www.logol.ru
+Type: Secondary
+OVZ-http: mirror.logol.ru/openvz/
+OVZ-ftp: mirror.logol.ru/openvz/
+Maintainer: kurilkin@reg.ru
+Country: ru
+Location: Russia, Moscow
+Sponsor:
+IPv6: no
+Comment: frequency of updates: every 60 min
+State: Enabled
