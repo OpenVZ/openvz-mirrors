@@ -1290,3 +1290,15 @@ Sponsor: Reg.ru
 IPv6: no
 Comment: frequency of updates: every 60 min
 State: Enabled
+
+Site: www.digitalpacific.com.au
+Type: Secondary
+OVZ-http: openvz.mirror.digitalpacific.com.au/
+OVZ-rsync: mirror.digitalpacific.com.au/openvz/
+Maintainer: networking@digitalpacific.com.au, matthew.taylor@digitalpacific.com.au
+Country: au
+Location: Equinix SY3, Sydney, Australia
+Sponsor: Digital Pacific
+IPv6: yes
+Comment: Hourly updates
+State: Enabled
