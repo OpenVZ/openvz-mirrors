@@ -6,6 +6,7 @@ all: mirmon mirrorlist
 mirmon:
 	bin/masterlist2mirmon ${MASTER} > mirrors-current-mirmon
 	mirmon -c etc/mirmon.conf -get update
+	cp style.css /var/www/mirmon/
 
 mirrorlist:
 	bin/masterlist2mirmon ${MASTER} | egrep -v '^.*rsync' | awk '{print $$2}' | while read m; do echo "$${m}current/"; done > ${CURRENT}
