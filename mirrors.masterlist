@@ -611,7 +611,7 @@ Site: digipower.vn
 Type: Secondary
 OVZ-http: mirrors.digipower.vn/openvz/
 OVZ-ftp: mirrors.digipower.vn/openvz/
-OVZ-rsync: mirrors.digipower.vn/openvz
+OVZ-rsync: mirrors.digipower.vn/openvz/
 Maintainer: contact@digipower.vn, duchoang@digipower.vn
 Country: vn
 Location: VietNam
@@ -732,7 +732,7 @@ Site: vpsFree.cz
 Type: Secondary
 OVZ-http: mirror.vpsfree.cz/openvz/
 OVZ-ftp: mirror.vpsfree.cz/openvz/
-OVZ-rsync: mirror.vpsfree.cz/openvz
+OVZ-rsync: mirror.vpsfree.cz/openvz/
 Maintainer: ovzmirror@mrkva.eu
 Country: cz
 Location: Czech, Prague
@@ -996,7 +996,7 @@ Site: netix.net
 Type: Secondary
 OVZ-http: mirrors.netix.net/openvz/
 OVZ-ftp: mirrors.netix.net/openvz/
-OVZ-rsync: mirrors.netix.net/openvz
+OVZ-rsync: mirrors.netix.net/openvz/
 Maintainer: sbarzakov@neterra.net, mirrors@netix.net
 Country: bg
 Location: Bulgaria (BG), Europe
@@ -1020,14 +1020,15 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: ftp.arnes.si/pub/mirrors/openvz/
-OVZ-https: ftp.arnes.si/pub/mirrors/openvz/
+OVZ-http: ftp.arnes.si/mirrors/openvz/
+OVZ-ftp: ftp.arnes.si/mirrors/openvz/
+OVZ-rsync: ftp.arnes.si/openvz/
 Maintainer: Mitja Mihelič <mitja.mihelic@arnes.si>, ftpadmin@arnes.si
 Country: si
 Location: Slovenia
-Sponsor:
+Sponsor: Arnes
 IPv6: yes
-Comment:
+Comment: Bandwidth - 1Gbps
 State: Enabled
 
 Site: www.hosteurope.de
