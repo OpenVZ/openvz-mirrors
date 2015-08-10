@@ -1316,3 +1316,15 @@ Sponsor: HEAnet, Ireland's National Research & Education Network
 IPv6: yes
 Comment: Hourly updates
 State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: ftp.ticklers.org/openvz/
+OVZ-ftp: ftp.ticklers.org/openvz/
+Maintainer: Alister Winfield <alister@ticklers.org>
+Country: uk
+Location:
+Sponsor:
+IPv6: no
+Comment:
+State: Enabled
