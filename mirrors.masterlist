@@ -1352,3 +1352,14 @@ Sponsor:
 IPv6: no
 Comment: Hourly updates
 State: Enabled
+
+Site: gigenet.com
+Type: Secondary
+OVZ-http: mirrors.gigenet.com/openvz/
+Maintainer: Chris Manfre <chris.manfre@gigenet.com>, mirrors@gigenet.com
+Country: us
+Location: Chicago, Illinois, USA
+Sponsor: Gigenet
+IPv6: no
+Comment: Update every two hours.
+State: Enabled
