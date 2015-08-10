@@ -1,0 +1,28 @@
+body
+  {  font-family: Verdana, sans-serif ;
+  }
+
+h1, h2, h3, h4, h5, hr
+  { color: #007CB9 ;
+  }
+
+a:link  { color: #007CE9 ; }
+a:hover { color: #000000 ; }
+
+div.see_also
+  { float : left ;
+    padding-right : 2em ;
+    background-color : white ;
+    border : 3px ;
+    border-style : solid ;
+    border-color : #0083C1 ;
+  }
+
+div.map_canvas
+  { border : 1px solid blue
+  }
+
+span.urlish
+  { color: #007CE9 ;
+    text-decoration: underline ;
+  }
