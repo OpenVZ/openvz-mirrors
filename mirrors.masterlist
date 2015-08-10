@@ -1308,7 +1308,7 @@ Site: www.heanet.ie
 Type: Secondary
 OVZ-http: ftp.heanet.ie/mirrors/openvz/
 OVZ-ftp: ftp.heanet.ie/mirrors/openvz/
-OVZ-rsync: ftp.heanet.ie::mirrors/openvz/
+OVZ-rsync: ftp.heanet.ie/mirrors/openvz/
 Maintainer: mirrors@heanet.ie
 Country: ie
 Location: Dublin, Ireland
