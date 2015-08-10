@@ -835,8 +835,8 @@ Location: Australia, Victoria, Ballarat
 Sponsor:
 IPv6:
 Comment: updated hourly
-State: Enabled
-Reason: NOT UPDATED as of Jan 17 2014
+State: Disabled
+Reason: Hostname openvz.ansamirror.com.au is absent in DNS
 
 Site: netinch.com
 Type: Secondary
