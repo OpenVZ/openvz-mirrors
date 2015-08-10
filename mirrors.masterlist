@@ -1303,3 +1303,16 @@ Sponsor: Digital Pacific
 IPv6: yes
 Comment: Hourly updates
 State: Enabled
+
+Site: www.heanet.ie
+Type: Secondary
+OVZ-http: ftp.heanet.ie/mirrors/openvz/
+OVZ-ftp: ftp.heanet.ie/mirrors/openvz/
+OVZ-rsync: ftp.heanet.ie::mirrors/openvz/
+Maintainer: mirrors@heanet.ie
+Country: ie
+Location: Dublin, Ireland
+Sponsor: HEAnet, Ireland's National Research & Education Network
+IPv6: yes
+Comment: Hourly updates
+State: Enabled
