@@ -1366,7 +1366,7 @@ State: Enabled
 
 Site: www.sonic.com
 Type: Secondary
-OVZ-http: http://mirrors.sonic.net/openvz/
+OVZ-http: mirrors.sonic.net/openvz/
 Maintainer: soc@sonic.net
 Country: us
 Location: 200 Paul Ave, San Francisco, CA, USA
