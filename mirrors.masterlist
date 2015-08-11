@@ -1387,3 +1387,16 @@ Sponsor: James Madison University
 IPv6: no
 Comment: Hourly updates
 State: Enabled
+
+Site: www.nluug.nl
+Type: Secondary
+OVZ-http: ftp.nluug.nl/pub/os/openvz/
+OVZ-ftp: ftp.nluug.nl/pub/os/openvz/
+OVZ-rsync: ftp.nluug.nl/openvz/
+Maintainer: jc@nluug.nl
+Country: nl
+Location: Amsterdam, Netherlands
+Sponsor: Dutch Unix Users Group NLUUG
+IPv6: yes
+Comment: 3.0 Gb/s, http://ftp.nluug.nl/.statistics/
+State: Enabled
