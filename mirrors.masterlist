@@ -1374,3 +1374,17 @@ Sponsor: Sonic
 IPv6: no
 Comment: Update frequency is twice daily
 State: Enabled
+
+Site: www.jmu.edu
+Type: Secondary
+OVZ-http: mirror.jmu.edu/pub/openvz/
+OVZ-http: mirror.jmu.edu/openvz/
+OVZ-ftp: mirror.jmu.edu/pub/openvz/
+OVZ-http: mirror.jmu.edu/openvz/
+Maintainer: mirrormaster@jmu.edu
+Country: us
+Location: Madison University, Harrisonburg, Virginia, USA
+Sponsor: James Madison University
+IPv6: no
+Comment: Hourly updates
+State: Enabled
