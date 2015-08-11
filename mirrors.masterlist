@@ -1363,3 +1363,14 @@ Sponsor: Gigenet
 IPv6: no
 Comment: Update every two hours.
 State: Enabled
+
+Site: www.sonic.com
+Type: Secondary
+OVZ-http: http://mirrors.sonic.net/openvz/
+Maintainer: soc@sonic.net
+Country: us
+Location: 200 Paul Ave, San Francisco, CA, USA
+Sponsor: Sonic
+IPv6: no
+Comment: Update frequency is twice daily
+State: Enabled
