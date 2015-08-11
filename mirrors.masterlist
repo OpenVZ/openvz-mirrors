@@ -1392,10 +1392,10 @@ Type: Secondary
 OVZ-http: ftp.nluug.nl/pub/os/openvz/
 OVZ-ftp: ftp.nluug.nl/pub/os/openvz/
 OVZ-rsync: ftp.nluug.nl/openvz/
-Maintainer: jc@nluug.nl, ftpmirror-beheer@nluug.nl
+Maintainer: ftpmirror-beheer@nluug.nl, ftpmirror-admin@nluug.nl
 Country: nl
 Location: Amsterdam, Netherlands
 Sponsor: Dutch Unix Users Group NLUUG
 IPv6: yes
-Comment: 3.0 Gb/s, http://ftp.nluug.nl/.statistics/
+Comment: 4.0 Gb/s, http://ftp.nluug.nl/.statistics/
 State: Enabled
