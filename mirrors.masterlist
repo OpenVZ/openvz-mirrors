@@ -1379,7 +1379,6 @@ Site: www.jmu.edu
 Type: Secondary
 OVZ-http: mirror.jmu.edu/pub/openvz/
 OVZ-ftp: mirror.jmu.edu/pub/openvz/
-OVZ-http: mirror.jmu.edu/openvz/
 Maintainer: mirrormaster@jmu.edu
 Country: us
 Location: Madison University, Harrisonburg, Virginia, USA
@@ -1393,7 +1392,7 @@ Type: Secondary
 OVZ-http: ftp.nluug.nl/pub/os/openvz/
 OVZ-ftp: ftp.nluug.nl/pub/os/openvz/
 OVZ-rsync: ftp.nluug.nl/openvz/
-Maintainer: jc@nluug.nl
+Maintainer: jc@nluug.nl, ftpmirror-beheer@nluug.nl
 Country: nl
 Location: Amsterdam, Netherlands
 Sponsor: Dutch Unix Users Group NLUUG
