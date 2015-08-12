@@ -1399,3 +1399,14 @@ Sponsor: Dutch Unix Users Group NLUUG
 IPv6: yes
 Comment: 4.0 Gb/s, http://ftp.nluug.nl/.statistics/
 State: Enabled
+
+Site: zetup.net
+Type: Secondary
+OVZ-http: mirror.zetup.net/openvz/
+Maintainer: mirror-maintainers@zetup.se
+Country: se
+Location: Trollhättan, Sweden
+Sponsor: Zetup
+IPv6: no
+Comment: Hourly updates
+State: Enabled
