@@ -1410,3 +1410,16 @@ Sponsor: Zetup
 IPv6: no
 Comment: Hourly updates
 State: Enabled
+
+Site: www.nsu.ru
+Type: Secondary
+OVZ-http: linux.nsu.ru/openvz/
+OVZ-ftp: linux.nsu.ru/openvz/
+OVZ-rsync: linux.nsu.ru/openvz/
+Maintainer: noc@nsu.ru
+Country: ru
+Location: Russian Federation, Novosibirsk
+Sponsor: Novosibirsk National Research State University
+IPv6: no
+Comment: Hourly updates
+State: Enabled
