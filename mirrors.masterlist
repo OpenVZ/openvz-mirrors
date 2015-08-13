@@ -1423,3 +1423,15 @@ Sponsor: Novosibirsk National Research State University
 IPv6: no
 Comment: Hourly updates
 State: Enabled
+
+Site: www.hs-esslingen.de
+Type: Secondary
+OVZ-http: ftp-stud.hs-esslingen.de/pub/Mirrors/openvz/
+OVZ-rsync: mirror1.hs-esslingen.de/openvz/
+Maintainer: adrian@hs-esslingen.de
+Country: de
+Location: Esslingen, Germany
+Sponsor: Hochschule Esslingen University of Applied Sciences
+IPv6: no
+Comment: Updated every hour. The mirror is connected to the Internet with 10 Gbit/s.
+State: Enabled
