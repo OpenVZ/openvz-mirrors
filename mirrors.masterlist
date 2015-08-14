@@ -1435,3 +1435,16 @@ Sponsor: Hochschule Esslingen University of Applied Sciences
 IPv6: no
 Comment: Updated every hour. The mirror is connected to the Internet with 10 Gbit/s.
 State: Enabled
+
+Site: lagoon.nc
+Type: Secondary
+OVZ-http: mirror.lagoon.nc/pub/openvz/
+OVZ-ftp: mirror.lagoon.nc/pub/openvz/
+OVZ-rsync: mirror.lagoon.nc/pub/openvz/
+Maintainer: tech@offratel.net, Sebastien.Clemenceau@offratel.net
+Country: nc
+Location: Nouméa, New Caledonia, Oceania
+Sponsor: L@goon
+IPv6: no
+Comment: 1 Gb/s
+State: Enabled
