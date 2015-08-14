@@ -1448,3 +1448,19 @@ Sponsor: L@goon
 IPv6: no
 Comment: 1 Gb/s
 State: Enabled
+
+Site:
+Type: Secondary
+OVZ-http: ftp.linux.cz/pub/linux/openvz/
+OVZ-ftp: ftp.linux.cz/pub/linux/openvz/
+OVZ-rsync: ftp.linux.cz/pub/linux/openvz/
+OVZ-http: ftp.fi.muni.cz/pub/linux/openvz/
+OVZ-ftp: ftp.fi.muni.cz/pub/linux/openvz/
+OVZ-rsync: ftp.fi.muni.cz/pub/linux/openvz/
+Maintainer: ftp-admin@fi.muni.cz
+Country: cz
+Location: Czech Republic, Brno
+Sponsor:
+IPv6: yes
+Comment: Hourly updates
+State: Enabled
