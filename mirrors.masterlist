@@ -1464,3 +1464,18 @@ Sponsor:
 IPv6: yes
 Comment: Hourly updates
 State: Enabled
+
+Site: hawo.net
+Type: Secondary
+OVZ-http: ftp.hawo.net/openvz/
+OVZ-ftp: ftp.hawo.net/openvz/
+OVZ-http: ftp.hawo.stw.uni-erlangen.de/openvz/
+OVZ-ftp: ftp.hawo.stw.uni-erlangen.de/openvz/
+OVZ-rsync: download.openvz.org/openvz-download/
+Maintainer: Florian Jung <flo@windfisch.org>
+Country: de
+Location:
+Sponsor:
+IPv6: yes
+Comment: Hourly updates
+State: Enabled
