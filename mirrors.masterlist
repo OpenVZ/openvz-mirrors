@@ -1479,3 +1479,31 @@ Sponsor:
 IPv6: yes
 Comment: Hourly updates
 State: Enabled
+
+Site: hawo.net
+Type: Secondary
+OVZ-http: openvz.mirror.ausnetservers.net.au/
+OVZ-ftp: ftp.hawo.net/openvz/
+OVZ-http: ftp.hawo.stw.uni-erlangen.de/openvz/
+OVZ-ftp: ftp.hawo.stw.uni-erlangen.de/openvz/
+OVZ-rsync: download.openvz.org/openvz-download/
+Maintainer: Florian Jung <flo@windfisch.org>
+Country: de
+Location:
+Sponsor:
+IPv6: yes
+Comment: Hourly updates
+State: Enabled
+
+Site: cogentco.com
+Type: Secondary
+OVZ-http: mirror.cogentco.com/openvz/
+OVZ-ftp: mirror.cogentco.com/openvz/
+OVZ-rsync: mirror.cogentco.com/openvz/
+Maintainer: mirror-admin@cogentco.com
+Country: us
+Location: Herndon, VA USA
+Sponsor: Cogent
+IPv6: no
+Comment: Hourly updates
+State: Enabled
