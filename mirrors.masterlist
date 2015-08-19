@@ -1531,3 +1531,14 @@ Sponsor: Telkom SA
 IPv6: no
 Comment: Update every 3 hours
 State: Enabled
+
+Site: ukhost4u.com
+Type: Secondary
+OVZ-http: mirror.ukhost4u.com/openvz/
+Maintainer: Paul Hughes <paul@ukhost4u.com>
+Country: uk
+Location: Maidenhead, UK
+Sponsor: UKHost4u
+IPv6: no
+Comment: 1GB connection updated daily
+State: Enabled
