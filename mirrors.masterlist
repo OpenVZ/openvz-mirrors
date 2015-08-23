@@ -1565,3 +1565,14 @@ Sponsor: GARR
 IPv6: yes
 Comment: Update once per hour
 State: Enabled
+
+Site: ftp.fau.de
+OVZ-http: ftp.fau.de/openvz/
+OVZ-ftp: ftp.fau.de/openvz/
+OVZ-rsync: ftp.fau.de/openvz/
+Maintainer: rrze-ftp-admins@fau.de
+Country: de
+Location: Erlangen, Germany
+Sponsor: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+IPv6: yes
+Comment: 5Gbit connection via DFN
