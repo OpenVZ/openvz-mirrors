@@ -1587,3 +1587,13 @@ Location: Brno, Czech Republic, Europe
 Sponsor: Brno University of Technology
 IPv6: yes
 Comment:
+
+Site:
+OVZ-http: ftp.cuhk.edu.hk/pub/Linuz/openvz/
+OVZ-ftp: ftp.cuhk.edu.hk/pub/Linuz/openvz/
+Maintainer: ftp-admin@ftp.cuhk.edu.hk
+Country: hk
+Location: Hong Kong, Hong Kong SAR, China, Asia
+Sponsor: The Chinese University of Hong Kong
+IPv6: yes
+Comment:
