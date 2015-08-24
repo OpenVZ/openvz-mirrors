@@ -859,7 +859,8 @@ Location: UK, London
 Sponsor:
 IPv6: no
 Comment: 1 Gbps Uplink, updated hourly, RAID 10 SSD based
-State: Enabled
+Reason: Unavailable for 10 days
+State: Disabled
 
 Site: Hosting Dept
 Type: Secondary
