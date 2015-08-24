@@ -1087,13 +1087,14 @@ Site: www.23media.de
 Type: Secondary
 OVZ-http: mirror.23media.de/openvz/
 OVZ-ftp: mirror.23media.de/openvz/
-Maintainer:
+Maintainer: mirror@23media.de
 Country: de
-Location:
+Location: Frankfurt, Hessen, Germany, Europe
 Sponsor: 23Media
 IPv6: yes
 Comment:
-State: Enabled
+Reason: Outdated content
+State: Disabled
 
 Site: www.webdesk.ru
 Type: Secondary
