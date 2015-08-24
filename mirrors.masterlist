@@ -212,9 +212,9 @@ Country: th
 Location: Thailand, Bangkok
 Sponsor: YourConnect
 IPv6:
-Comment: Bandwidth available: 1000Mb/s. Update Frequency: 6x daily.'''2010 Jan 26 outdated, has only rhel5 028stab064.4'''
+Comment: Bandwidth available: 1000Mb/s. Update Frequency: 6x daily.
 State: Disabled
-Reason: COMMENTED OUT
+Reason: 2010 Jan 26 outdated, has only rhel5 028stab064.4
 
 Site: www.ubiquityhosting.com
 Type: Secondary
