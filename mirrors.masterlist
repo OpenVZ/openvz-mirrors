@@ -642,7 +642,8 @@ Location: US, Oregon, Portland
 Sponsor:
 IPv6: yes
 Comment: Updated every four hours, with a randomized start time. Two 1Gbps uplinks leveraging dual-stack IPv4/IPv6.
-State: Enabled
+Reason: Outdated content for 14 days
+State: Disabled
 
 Site:
 Type: Secondary
@@ -1043,7 +1044,8 @@ Location: Cologne, Germany
 Sponsor: Host Europe
 IPv6: yes
 Comment: Hourly updates
-State: Enabled
+Reason: Outdated content
+State: Disabled
 
 Site: www.m247.ro
 Type: Secondary
@@ -1611,3 +1613,4 @@ Location: France, Paris
 Sponsor: Université Pierre et Marie Curie, Laboratoire d'informatique de Paris 6
 IPv6: no
 Comment:
+State: Disabled
