@@ -4,7 +4,7 @@ MASTER=mirrors.masterlist
 all: mirmon mirrorlist
 
 mirmon:
-	bin/masterlist2mirmon ${MASTER} > mirrors-current-mirmon
+	bin/masterlist2mirmon ${MASTER}
 	mirmon -c etc/mirmon.conf -get update
 	cp style.css /var/www/mirmon/
 

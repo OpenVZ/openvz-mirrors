@@ -30,19 +30,22 @@ push @mirrors, $data if $data;
 foreach my $mirror (@mirrors) {
     my ($c, $r) = split (/ +/, $mirror->{'country'});
     if (($mirror->{'state'}) && ($mirror->{'state'} eq "Disabled")) {
-        # mirror disabled, skip it
-		next;
+		open(MIRRORLIST, ">>mirrors-unstable-mirmon") or die "Cannot open file";
+	}
+	else {
+		open(MIRRORLIST, ">>mirrors-stable-mirmon") or die "Cannot open file";
     }
-    if ($mirror->{'ovz-https'}) {
-        printf ("%s https://%s\n", $c, $mirror->{'ovz-https'});
-    }
-    if ($mirror->{'ovz-http'}) {
-        printf ("%s http://%s\n", $c, $mirror->{'ovz-http'});
-    }
-    if ($mirror->{'ovz-ftp'}) {
-        printf ("%s ftp://%s\n", $c, $mirror->{'ovz-ftp'});
-    }
-    if ($mirror->{'ovz-rsync'}) {
-        printf ("%s rsync://%s/\n", $c, $mirror->{'ovz-rsync'});
-    }
+	if ($mirror->{'ovz-https'}) {
+		printf MIRRORLIST "%s https://%s\n", $c, $mirror->{'ovz-https'};
+	}
+	if ($mirror->{'ovz-http'}) {
+		printf MIRRORLIST "%s http://%s\n", $c, $mirror->{'ovz-http'};
+	}
+	if ($mirror->{'ovz-ftp'}) {
+		printf MIRRORLIST "%s ftp://%s\n", $c, $mirror->{'ovz-ftp'};
+	}
+	if ($mirror->{'ovz-rsync'}) {
+		printf MIRRORLIST "%s rsync://%s/\n", $c, $mirror->{'ovz-rsync'};
+	}
+	close(MIRRORLIST);
 }
