@@ -883,8 +883,8 @@ Location: Bangkok, Thailand
 Sponsor: Best Thai Host
 IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
-Reason: outdated content, no updates for 3 days, no response from maintainer
-State: Enabled
+Reason: outdated content, no updates for 24 days
+State: Disabled
 
 Site: FirstNetServ
 Type: Secondary
