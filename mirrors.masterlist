@@ -1524,12 +1524,12 @@ Site: www.saix.net
 Type: Secondary
 OVZ-http: openvz.saix.net
 OVZ-ftp: ftp.saix.net/pub/openvz/
-Maintainer: Jaco Lesch <jacol@saix.net>
+Maintainer: Jaco Lesch <jacol@saix.net>, ftp@saix.net
 Country: za
 Location: Parow, Western Cape, South Africa, Africa
 Sponsor: Telkom SA
 IPv6: no
-Comment: Update every 3 hours
+Comment: Update every 3 hours, bandwidth 1 Gbps
 State: Enabled
 
 Site: ukhost4u.com
