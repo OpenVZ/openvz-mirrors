@@ -1598,6 +1598,8 @@ Location: Hong Kong, Hong Kong SAR, China, Asia
 Sponsor: The Chinese University of Hong Kong
 IPv6: yes
 Comment:
+Reason: Sites are unavailable
+State: Disabled
 
 Site: www.lip6.fr
 OVZ-http: ftp.lip6.fr/pub/linux/distributions/openvz/
