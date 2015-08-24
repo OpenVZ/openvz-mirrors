@@ -27,6 +27,7 @@ State: Disabled
 Site: 
 Type: Secondary
 OVZ-http: openvz-mirror1.rapidvps.com/
+state state
 OVZ-ftp: openvz-mirror1.rapidvps.com/
 Maintainer: R Blundell <rickb@rapidvps.com>
 Country: us
@@ -581,8 +582,8 @@ Location: Netherlands, Overijssel, Enschede
 Sponsor: Mj webhosting
 IPv6:
 Comment: Updated every hour. Available on ipv4 and ipv6. 1 gbit uplink
-State: Enabled
-Reason: DISABLED 26 Nov 2012, REENABLED 25 Mar 2013, DISABLED/ENABLED 24 Mar 2014, DISABLED 7 Jan 2015, ENABLED 29 Jan 2015
+State: Disabled
+Reason: Server is unavailable
 
 Site: kisiek.net
 Type: Secondary
