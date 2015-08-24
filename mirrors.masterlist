@@ -1588,7 +1588,7 @@ Sponsor: Brno University of Technology
 IPv6: yes
 Comment:
 
-Site:
+Site: www2.cuhk.edu.hk/gss/
 OVZ-http: ftp.cuhk.edu.hk/pub/Linuz/openvz/
 OVZ-ftp: ftp.cuhk.edu.hk/pub/Linuz/openvz/
 Maintainer: ftp-admin@ftp.cuhk.edu.hk
@@ -1596,4 +1596,14 @@ Country: hk
 Location: Hong Kong, Hong Kong SAR, China, Asia
 Sponsor: The Chinese University of Hong Kong
 IPv6: yes
+Comment:
+
+Site: www.lip6.fr
+OVZ-http: ftp.lip6.fr/pub/linux/distributions/openvz/
+OVZ-ftp: ftp.lip6.fr/pub/linux/distributions/openvz/
+Maintainer: Manuel Bouyer <bouyer@antioche.eu.org>
+Country: fr
+Location: France, Paris
+Sponsor: Université Pierre et Marie Curie, Laboratoire d'informatique de Paris 6
+IPv6: no
 Comment:
