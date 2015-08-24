@@ -1576,3 +1576,14 @@ Location: Erlangen, Germany
 Sponsor: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 IPv6: yes
 Comment: 5Gbit connection via DFN
+
+Site: www.vutbr.cz
+OVZ-http: mirror.vutbr.cz/openvz/
+OVZ-ftp: mirror.vutbr.cz/openvz/
+OVZ-rsync: mirror.vutbr.cz/openvz/
+Maintainer: Pavel Kislinger <kislinger@owl.cis.vutbr.cz>, mirror-adm@cis.vutbr.cz
+Country: cz
+Location: Brno, Czech Republic, Europe
+Sponsor: Brno University of Technology
+IPv6: yes
+Comment:
