@@ -5,7 +5,8 @@ all: clean mirmon mirrorlist
 
 mirmon:
 	bin/masterlist2mirmon ${MASTER}
-	mirmon -c etc/mirmon.conf -get update
+	mirmon -c etc/mirmon-stable.conf -get update
+	mirmon -c etc/mirmon-unstable.conf -get update
 	cp style.css /var/www/mirmon/
 
 mirrorlist:
