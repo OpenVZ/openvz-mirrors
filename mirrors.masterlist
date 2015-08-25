@@ -22,6 +22,7 @@ Location:
 Sponsor: Odin
 IPv6: no
 Comment: Master site
+Reason: Not ready yet
 State: Disabled
 
 Site: 
@@ -53,7 +54,6 @@ Reason: COMMENTED OUT
 Site: 
 Type: Secondary
 OVZ-http: openvz.mirrors.skynet.be/pub/openvz.org/
-OVZ-ftp: openvz.mirrors.skynet.be/pub/openvz.org/
 Maintainer: Cedric Gavage <ftp@skynet.be> 
 Country: be
 Location: Belgium, Brussels
@@ -61,7 +61,7 @@ Sponsor: Belgacom S.A.
 IPv6: 
 Comment: 
 State: Enabled
-Reason: COMMENTED OUT
+Reason: No response from maintainer
 
 Site: Dimenoc.com
 Type: Secondary
@@ -1493,7 +1493,8 @@ Location: Ballarat, Victoria, Australia
 Sponsor: Aus Net Servers Australia Pty Ltd
 IPv6: yes
 Comment: Hourly updates
-State: Enabled
+Reason: No updates for 3 days
+State: Disabled
 
 Site: cogentco.com
 Type: Secondary
