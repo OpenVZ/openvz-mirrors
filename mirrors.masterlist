@@ -1476,8 +1476,7 @@ OVZ-http: ftp.hawo.net/openvz/
 OVZ-ftp: ftp.hawo.net/openvz/
 OVZ-http: ftp.hawo.stw.uni-erlangen.de/openvz/
 OVZ-ftp: ftp.hawo.stw.uni-erlangen.de/openvz/
-OVZ-rsync: download.openvz.org/openvz-download/
-Maintainer: Florian Jung <flo@windfisch.org>
+Maintainer: HaWo Netzteam <noc@hawo.net>
 Country: de
 Location:
 Sponsor:
@@ -1485,17 +1484,13 @@ IPv6: yes
 Comment: Hourly updates
 State: Enabled
 
-Site: hawo.net
+Site: www.ausnetservers.com.au
 Type: Secondary
 OVZ-http: openvz.mirror.ausnetservers.net.au/
-OVZ-ftp: ftp.hawo.net/openvz/
-OVZ-http: ftp.hawo.stw.uni-erlangen.de/openvz/
-OVZ-ftp: ftp.hawo.stw.uni-erlangen.de/openvz/
-OVZ-rsync: download.openvz.org/openvz-download/
-Maintainer: Florian Jung <flo@windfisch.org>
-Country: de
-Location:
-Sponsor:
+Maintainer: info@ausnetservers.net.au, noc@ausnetservers.net.au
+Country: au
+Location: Ballarat, Victoria, Australia
+Sponsor: Aus Net Servers Australia Pty Ltd
 IPv6: yes
 Comment: Hourly updates
 State: Enabled
