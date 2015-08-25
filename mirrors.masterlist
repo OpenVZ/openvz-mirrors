@@ -1589,8 +1589,8 @@ IPv6: yes
 Comment:
 
 Site: www2.cuhk.edu.hk/gss/
-OVZ-http: ftp.cuhk.edu.hk/pub/Linuz/openvz/
-OVZ-ftp: ftp.cuhk.edu.hk/pub/Linuz/openvz/
+OVZ-http: ftp.cuhk.edu.hk/pub/Linux/openvz/
+OVZ-ftp: ftp.cuhk.edu.hk/pub/Linux/openvz/
 Maintainer: ftp-admin@ftp.cuhk.edu.hk
 Country: hk
 Location: Hong Kong, Hong Kong SAR, China, Asia
