@@ -1623,3 +1623,15 @@ Sponsor: Bytemark Limited
 IPv6: yes
 Comment: 2xgigabit links, updated every 4 hours
 State: Disabled
+
+Site: ginernet.com
+OVZ-http: mirror.ginernet.com/openvz/
+OVZ-ftp: mirror.ginernet.com/openvz/
+OVZ-rsync: mirror.ginernet.com/openvz/
+Maintainer: jm@ginernet.com
+Country: es
+Location: Barcelona, Spain
+Sponsor: Ginernet
+IPv6: no
+Comment: 1Gbps - Update every 4 hours.
+State: Disabled
