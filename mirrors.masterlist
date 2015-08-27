@@ -886,7 +886,7 @@ Sponsor: Best Thai Host
 IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
 Reason: outdated content, no updates for 24 days
-State: Disabled
+State: Enabled
 
 Site: FirstNetServ
 Type: Secondary
