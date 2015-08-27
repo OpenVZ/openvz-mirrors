@@ -1611,3 +1611,15 @@ Sponsor: Université Pierre et Marie Curie, Laboratoire d'informatique de Paris 
 IPv6: no
 Comment:
 State: Disabled
+
+Site: bytemark.co.uk
+OVZ-http: mirror.bytemark.co.uk/openvz/
+OVZ-ftp: mirror.bytemark.co.uk/openvz/
+OVZ-rsync: mirror.bytemark.co.uk/openvz/
+Maintainer: mirrors@bytemark.co.uk
+Country: uk
+Location: Manchester, UK
+Sponsor: Bytemark Limited
+IPv6: yes
+Comment: 2xgigabit links, updated every 4 hours
+State: Disabled
