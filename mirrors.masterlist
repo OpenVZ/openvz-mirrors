@@ -28,7 +28,6 @@ State: Disabled
 Site: 
 Type: Secondary
 OVZ-http: openvz-mirror1.rapidvps.com/
-state state
 OVZ-ftp: openvz-mirror1.rapidvps.com/
 Maintainer: R Blundell <rickb@rapidvps.com>
 Country: us
@@ -1621,4 +1620,16 @@ Location: Barcelona, Spain
 Sponsor: Ginernet
 IPv6: no
 Comment: 1Gbps - Update every 4 hours.
+State: Enabled
+
+Site: linorg.usp.br
+OVZ-http: linorg.usp.br/openvz/
+OVZ-ftp: linorg.usp.br/openvz/
+OVZ-rsync: linorg.usp.br/openvz
+Maintainer: linorg@usp.br
+Country: br
+Location: São Paulo State, São Paulo City
+Sponsor: Universidade de São Paulo - USP
+IPv6: yes
+Comment: bandwidth 1 Gbps, update frequency every hour
 State: Enabled
