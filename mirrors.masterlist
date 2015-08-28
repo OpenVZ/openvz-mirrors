@@ -204,19 +204,6 @@ IPv6: yes
 Comment:
 State: Enabled
 
-Site: 
-Type: Secondary
-OVZ-http: mirror.yourconnect.com/openvz/
-OVZ-ftp: mirror.yourconnect.com/openvz/
-Maintainer: Chonpakorn Phongphisist <chonpakorn@yahoo.com>
-Country: th
-Location: Thailand, Bangkok
-Sponsor: YourConnect
-IPv6:
-Comment: Bandwidth available: 1000Mb/s. Update Frequency: 6x daily.
-State: Disabled
-Reason: 2010 Jan 26 outdated, has only rhel5 028stab064.4
-
 Site: www.ubiquityhosting.com
 Type: Secondary
 OVZ-http: mirror.ubiquityservers.com/openvz/
@@ -463,16 +450,16 @@ Reason: Updated every 2 hours
 
 Site:
 Type: Secondary
-OVZ-http: mirror.yourconnect.com/openvz 
-OVZ-ftp: mirror.yourconnect.com/openvz
+OVZ-http: mirror.yourconnect.com/openvz/
+OVZ-ftp: mirror.yourconnect.com/openvz/
 Maintainer: Chonpakorn Phongphisist <chonpakorn@yahoo.com>
-Country: en
-Location:
+Country: th
+Location: Thailand, Bangkok
 Sponsor: YourConnect Co., Ltd.
 IPv6:
-Comment:
+Comment: Bandwidth available: 1000Mb/s. Update Frequency: 6x daily.
 State: Disabled
-Reason: DISABLED 26 Nov 2012
+Reason: 2010 Jan 26 outdated, has only rhel5 028stab064.4
 
 Site:
 Type: Secondary
