@@ -3,13 +3,13 @@ MASTER=mirrors.masterlist
 
 all: clean mirmon mirrorlist
 
-mirmon:
+mirmon: clean
 	bin/masterlist2mirmon ${MASTER}
 	mirmon -c etc/mirmon-stable.conf -get update
 	mirmon -c etc/mirmon-unstable.conf -get update
 	cp style.css /var/www/mirmon/
 
-mirrorlist:
+mirrorlist: mirmon
 	cat mirrors-stable-mirmon | egrep -v '^.*rsync' | awk '{print $$2}' | while read m; do echo "$${m}current/"; done > ${CURRENT}
 	bin/make-mirrors
 	bin/create_mirrorlist.py mirrors.masterlist virtuozzo/releases/7.0/x86_64/os/ > /var/www/html/virtuozzo/mirrorlists/7.0/releases-os.mirrorlist
