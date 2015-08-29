@@ -10,7 +10,7 @@ mirmon: clean
 	cp style.css /var/www/mirmon/
 
 mirrorlist: mirmon
-	cat mirrors-stable-mirmon | egrep -v '^.*rsync' | awk '{print $$2}' | while read m; do echo "$${m}current/"; done > ${CURRENT}
+	cat mirrors-stable-mirmon | egrep -v '^.*rsync|^.*ftp' | awk '{print $$2}' | while read m; do echo "$${m}current/"; done > ${CURRENT}
 	bin/make-mirrors
 	bin/create_mirrorlist.py mirrors.masterlist virtuozzo/releases/7.0/x86_64/os/ > /var/www/html/virtuozzo/mirrorlists/7.0/releases-os.mirrorlist
 	bin/create_mirrorlist.py mirrors.masterlist virtuozzo/releases/7.0/x86_64/debug/ > /var/www/html/virtuozzo/mirrorlists/7.0/releases-debug.mirrorlist
