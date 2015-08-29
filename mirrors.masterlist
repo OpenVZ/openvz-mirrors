@@ -1412,7 +1412,8 @@ Location: Russian Federation, Novosibirsk
 Sponsor: Novosibirsk National Research State University
 IPv6: no
 Comment: Hourly updates
-State: Enabled
+Reason: "403 Forbidden" on access to http://linux.nsu.ru/openvz/current/vzctl-4.9.4-1.i386.rpm
+State: Disabled
 
 Site: www.hs-esslingen.de
 Type: Secondary
