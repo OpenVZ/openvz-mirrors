@@ -1509,7 +1509,7 @@ State: Enabled
 
 Site: www.saix.net
 Type: Secondary
-OVZ-http: openvz.saix.net
+OVZ-http: openvz.saix.net/
 OVZ-ftp: ftp.saix.net/pub/openvz/
 Maintainer: Jaco Lesch <jacol@saix.net>, ftp@saix.net
 Country: za
