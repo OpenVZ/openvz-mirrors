@@ -1037,14 +1037,13 @@ State: Disabled
 Site: www.m247.ro
 Type: Secondary
 OVZ-http: mirrors.m247.ro/openvz/
-OVZ-ftp: mirrors.m247.ro/openvz/
 OVZ-rsync: mirrors.m247.ro/openvz/
 Maintainer: andrei.tudorancea@m247.ro
 Country: ro
 Location: Romania, Bucharest
 Sponsor: M247 Europe
 IPv6: yes
-Comment:
+Comment: FTP URL was removed due to disabled anonymous access
 State: Enabled
 
 Site: www.kddilabs.jp
