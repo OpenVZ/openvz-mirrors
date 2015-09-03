@@ -1633,3 +1633,16 @@ Sponsor: Universidade de São Paulo - USP
 IPv6: yes
 Comment: bandwidth 1 Gbps, update frequency every hour
 State: Enabled
+
+Site: ftp.riken.jp
+Type: Secondary
+OVZ-http: ftp.riken.jp/Linux/openvz/
+OVZ-ftp: ftp.riken.jp/Linux/openvz/
+OVZ-rsync: ftp.riken.jp/openvz/
+Maintainer: ftp-admin@ftp.riken.jp
+Country: jp
+Location: 2-1 Hirosawa, Wako, Saitama 351-0198, Japan
+Sponsor: RIKEN
+IPv6: no
+Comment: Daily updates
+State: Enabled
