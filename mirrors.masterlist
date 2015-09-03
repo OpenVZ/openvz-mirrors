@@ -568,8 +568,8 @@ Location: Netherlands, Overijssel, Enschede
 Sponsor: Mj webhosting
 IPv6:
 Comment: Updated every hour. Available on ipv4 and ipv6. 1 gbit uplink
-State: Disabled
-Reason: Server is unavailable
+State: Enabled
+Reason:
 
 Site: kisiek.net
 Type: Secondary
@@ -847,8 +847,7 @@ Location: UK, London
 Sponsor:
 IPv6: no
 Comment: 1 Gbps Uplink, updated hourly, RAID 10 SSD based
-Reason: Unavailable for 10 days
-State: Disabled
+State: Enabled
 
 Site: Hosting Dept
 Type: Secondary
@@ -1412,8 +1411,7 @@ Location: Russian Federation, Novosibirsk
 Sponsor: Novosibirsk National Research State University
 IPv6: no
 Comment: Hourly updates
-Reason: "403 Forbidden" on access to http://linux.nsu.ru/openvz/current/vzctl-4.9.4-1.i386.rpm
-State: Disabled
+State: Enabled
 
 Site: www.hs-esslingen.de
 Type: Secondary
