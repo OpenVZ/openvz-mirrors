@@ -1618,7 +1618,8 @@ Location: Barcelona, Spain
 Sponsor: Ginernet
 IPv6: no
 Comment: 1Gbps - Update every 4 hours.
-State: Enabled
+State: Disabled
+Reason: Mirror is not available via ftp and http protocols.
 
 Site: linorg.usp.br
 OVZ-http: linorg.usp.br/openvz/
