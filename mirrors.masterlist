@@ -1644,3 +1644,15 @@ Sponsor: RIKEN
 IPv6: no
 Comment: Daily updates
 State: Enabled
+
+Site: cc.uoc.gr
+Type: Secondary
+OVZ-http: ftp.cc.uoc.gr/mirrors/openvz/
+OVZ-ftp: ftp.cc.uoc.gr/mirrors/openvz/
+Maintainer: mirrors@cc.uoc.gr
+Country: gr
+Location: Heraklion, Crete, Greece
+Sponsor: University of Crete / Computer Center
+IPv6: yes
+Comment: bandwidth 1Gbps, updates daily
+State: Enabled
