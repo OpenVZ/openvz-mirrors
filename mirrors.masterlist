@@ -1644,3 +1644,15 @@ Sponsor: University of Crete / Computer Center
 IPv6: yes
 Comment: bandwidth 1Gbps, updates daily
 State: Enabled
+
+Site: www.optus.com.au
+Type: Secondary
+OVZ-http: mirror.optusnet.com.au/openvz/
+OVZ-ftp: mirror.optusnet.com.au/openvz/
+Maintainer:
+Country: au
+Location: Sydney, Australia
+Sponsor: OptusNet
+IPv6: no
+Comment:
+State: Disabled
