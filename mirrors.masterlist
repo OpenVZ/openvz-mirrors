@@ -1656,3 +1656,15 @@ Sponsor: OptusNet
 IPv6: no
 Comment:
 State: Enabled
+
+Site: artfiles.org
+Type: Secondary
+OVZ-http: artfiles.org/openvz.org/
+OVZ-ftp: artfiles.org/openvz.org/
+Maintainer: mirror@artfiles.org
+Country: de
+Location: Hamburg, Germany
+Sponsor: Artfiles New Media GmbH
+IPv6: yes
+Comment: 1GB connection, updated daily
+State: Disabled
