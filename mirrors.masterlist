@@ -1436,7 +1436,8 @@ Location: Nouméa, New Caledonia, Oceania
 Sponsor: L@goon
 IPv6: no
 Comment: 1 Gb/s
-State: Enabled
+State: Disabled
+Reason: Sites are unreachable via http, ftp, rsync
 
 Site:
 Type: Secondary
