@@ -1669,3 +1669,15 @@ Sponsor: Artfiles New Media GmbH
 IPv6: yes
 Comment: 1GB connection, updated daily
 State: Enabled
+
+Site: wanxp.id
+OVZ-http: mirror.wanxp.id/openvz/
+OVZ-ftp: mirror.wanxp.id/openvz/
+OVZ-rsync: mirror.wanxp.id/openvz/
+Maintainer: mirror@wanxp.id
+Country: id
+Location: Riau, Indonesia
+Sponsor: WANXP
+IPv6: no
+Comment: Twice a day
+State: Disabled
