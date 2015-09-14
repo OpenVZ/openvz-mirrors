@@ -1,5 +1,5 @@
-CURRENT=/var/www/html/mirrors-current
 MASTER=mirrors.masterlist
+PATH=/var/www/html/
 
 all: clean mirmon mirrorlist
 
@@ -10,14 +10,19 @@ mirmon: clean
 	cp mirmon-stable.log mirmon-unstable.log style.css /var/www/mirmon/
 
 mirrorlist: mirmon
-	cat mirrors-stable-mirmon | egrep -v '^.*rsync|^.*ftp' | awk '{print $$2}' | while read m; do echo "$${m}current/"; done > ${CURRENT}
-	bin/make-mirrors
-	bin/create_mirrorlist.py mirrors.masterlist virtuozzo/releases/7.0/x86_64/os/ > /var/www/html/virtuozzo/mirrorlists/7.0/releases-os.mirrorlist
-	bin/create_mirrorlist.py mirrors.masterlist virtuozzo/releases/7.0/x86_64/debug/ > /var/www/html/virtuozzo/mirrorlists/7.0/releases-debug.mirrorlist
-	bin/create_mirrorlist.py mirrors.masterlist virtuozzo/updates/7.0/x86_64/os/ > /var/www/html/virtuozzo/mirrorlists/7.0/updates-os.mirrorlist
-	bin/create_mirrorlist.py mirrors.masterlist virtuozzo/updates/7.0/x86_64/debug/ > /var/www/html/virtuozzo/mirrorlists/7.0/updates-debug.mirrorlist
-	bin/create_mirrorlist.py mirrors.masterlist virtuozzo/factory/x86_64/os/ > /var/www/html/virtuozzo/mirrorlists/7.0/factory-os.mirrorlist
-	bin/create_mirrorlist.py mirrors.masterlist virtuozzo/factory/x86_64/debug/ > /var/www/html/virtuozzo/mirrorlists/7.0/factory-debug.mirrorlist
+	bin/create_mirrorlist.py ${MASTER} current/ ${PATH}/mirrors-current
+	bin/create_mirrorlist.py ${MASTER} kernel/branches/rhel4-2.6.9 ${PATH}/kernel/mirrors-rhel4-2.6.9
+	bin/create_mirrorlist.py ${MASTER} kernel/branches/rhel4-2.6.9 ${PATH}/kernel/mirrors-rhel4-2.6.9
+	bin/create_mirrorlist.py ${MASTER} kernel/branches/rhel5-2.6.18 ${PATH}/kernel/mirrors-rhel5-2.6.18
+	bin/create_mirrorlist.py ${MASTER} kernel/branches/rhel5-2.6.18-testing ${PATH}/kernel/mirrors-rhel5-2.6.18-testing
+	bin/create_mirrorlist.py ${MASTER} kernel/branches/rhel6-2.6.32 ${PATH}/kernel/mirrors-rhel6-2.6.32
+	bin/create_mirrorlist.py ${MASTER} kernel/branches/rhel6-2.6.32-testing ${PATH}/kernel/mirrors-rhel6-2.6.32-testing
+	bin/create_mirrorlist.py ${MASTER} virtuozzo/releases/7.0/x86_64/os/ > ${PATH}/virtuozzo/mirrorlists/7.0/releases-os.mirrorlist
+	bin/create_mirrorlist.py ${MASTER} virtuozzo/releases/7.0/x86_64/debug/ > ${PATH}/virtuozzo/mirrorlists/7.0/releases-debug.mirrorlist
+	bin/create_mirrorlist.py ${MASTER} virtuozzo/updates/7.0/x86_64/os/ > ${PATH}/virtuozzo/mirrorlists/7.0/updates-os.mirrorlist
+	bin/create_mirrorlist.py ${MASTER} virtuozzo/updates/7.0/x86_64/debug/ > ${PATH}/virtuozzo/mirrorlists/7.0/updates-debug.mirrorlist
+	bin/create_mirrorlist.py ${MASTER} virtuozzo/factory/x86_64/os/ > ${PATH}/virtuozzo/mirrorlists/7.0/factory-os.mirrorlist
+	bin/create_mirrorlist.py ${MASTER} virtuozzo/factory/x86_64/debug/ > ${PATH}/virtuozzo/mirrorlists/7.0/factory-debug.mirrorlist
 
 clean:
 	@-rm -f mirrors-stable-mirmon mirrors-unstable-mirmon
