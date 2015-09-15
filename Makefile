@@ -1,5 +1,5 @@
 MASTER=mirrors.masterlist
-WWWPATH=/var/www/html/
+WWWPATH=/var/www/html
 
 all: clean mirmon mirrorlist
 
