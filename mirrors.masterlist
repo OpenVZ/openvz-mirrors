@@ -137,19 +137,6 @@ Comment: Speeds up to 100Mbps from outside country, up to 1Gbps within Romania
 State: Enabled
 Reason: 404 Not Found
 
-Site: boTux.net
-Type: Secondary
-OVZ-http: mirror.botux.net/pub/openvz/
-OVZ-ftp: mirror.botux.net/pub/openvz/
-Maintainer: r.fluttaz@gmail.com 
-Country: fr
-Location: France
-Sponsor:
-IPv6:
-Comment: 1Gb/s. OVH French Connection.
-State: Disabled
-Reason: DISABLED 7 Jul 2009, not working
-
 Site: hostcentral.net.au
 Type: Secondary
 OVZ-http: mirror.as24220.net/pub/openvz/
