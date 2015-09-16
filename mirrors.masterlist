@@ -468,18 +468,6 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: ovz.ionic.net.pl/
-Maintainer: info@ionic.pl
-Country: pl
-Location: Poland, Kraków
-Sponsor:
-IPv6:
-Comment: updated every 24 h
-State: Disabled
-Reason: DISABLED 5 Feb 2014
-
-Site:
-Type: Secondary
 OVZ-http: mirrors.ustc.edu.cn/openvz/
 OVZ-ftp: mirrors.ustc.edu.cn/openvz/
 OVZ-rsync: mirrors.ustc.edu.cn/openvz/
