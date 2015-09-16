@@ -324,19 +324,6 @@ Reason: Outdated content
 
 Site:
 Type: Secondary
-OVZ-http: mirror.ellogroup.com/openvz/
-OVZ-ftp: mirror.ellogroup.com/openvz/
-Maintainer: webmaster@ellogroup.com, Anthony Somerset <anthony@somersettechsolutions.co.uk>
-Country: uk
-Location: Newcastle, UK
-Sponsor: Ello Group
-IPv6:
-Comment: Updated hourly
-State: Disabled
-Reason: COMMENTED OUT 12 Mar 2013
-
-Site:
-Type: Secondary
 OVZ-http: lnx.apollo-hw.ro/openvz/
 OVZ-ftp: lnx.apollo-hw.ro/openvz/
 Maintainer: mirrors@apollo-hw.ro
