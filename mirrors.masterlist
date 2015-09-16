@@ -99,19 +99,6 @@ IPv6: yes
 Comment:
 State: Enabled
 
-Site: xfes.ru
-Type: Secondary
-OVZ-http: mirror.xfes.ru/openvz/
-OVZ-ftp: mirror.xfes.ru/openvz/
-Maintainer: admin@xfes.ru, support@xfes.ru
-Country: ru
-Location: Russia, Moscow
-Sponsor: 
-IPv6: 
-Comment: 100 mbit link to M9 bone.
-State: Disabled
-Reason: DISABLED 29 Mar 2013, they don't have rhel6-testing kernels
-
 Site: proserve.nl
 Type: Secondary
 OVZ-http: openvz.proserve.nl/
