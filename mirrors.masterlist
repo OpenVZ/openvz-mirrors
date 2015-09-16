@@ -552,42 +552,6 @@ Comment: 10 Gbps Uplink, updated hourly
 State: Enabled
 Reason: DISABLED 7 Jan 2015: not working, re-enabled 8 Jan 2015 with changed URL
 
-Site: GloVine.com.au
-Type: Secondary
-OVZ-http: openvz.syd.au.glomirror.com.au/
-Maintainer: NOCops@GloVine.com.au
-Country: au
-Location: Australia, Sydney
-Sponsor:
-IPv6:
-Comment: updated every 6 hours
-State: Disabled
-Reason: DEAD as of Jan 21 2014
-
-Site: GloVine.com.au
-Type: Secondary
-OVZ-http: openvz.dal.tx.us.glomirror.com.au/
-Maintainer: mirrors@glovine.com.au
-Country: us
-Location: USA, Texas, Dallas
-Sponsor:
-IPv6:
-Comment: updated every 6 hours
-State: Disabled
-Reason: NOT WORKING as of Jan 17 2014
-
-Site: GloVine.com.au
-Type: Secondary
-OVZ-http: openvz.kan.mo.us.glomirror.com.au/
-Maintainer: mirrors@glovine.com.au
-Country: us
-Location: USA, Missouri, Kansas City
-Sponsor:
-IPv6:
-Comment:
-State: Disabled
-Reason: NOT WORKING as of Jan 17 2014
-
 Site: mirror.nhanhoa.com
 Type: Secondary
 OVZ-http: mirror.nhanhoa.com/openvz/
