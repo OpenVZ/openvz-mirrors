@@ -611,18 +611,6 @@ Comment: 1 Gbps, updated every 4 hours
 Reason: outdated content, no updates for 24 days
 State: Enabled
 
-Site: GloVine.com.au
-Type: Secondary
-OVZ-http: openvz.nsw.au.glomirror.com.au/
-Maintainer: daniel@glovine.com.au
-Country: au
-Location: Australia, Sydney
-Sponsor:
-IPv6:
-Comment: Updated hourly
-State: Disabled
-Reason: DISABLED 15 Oct 2014 -- not being updated
-
 Site: supremebytes.com
 Type: Secondary
 OVZ-http: mirror.supremebytes.com/openvz/
