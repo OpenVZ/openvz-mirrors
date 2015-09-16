@@ -564,19 +564,6 @@ Comment: 100 mbps, updated 4 times a day
 State: Disabled
 Reason: DISABLED 28 Jan 2015 -- not updated since 02 Jan
 
-Site: ausnetservers.net.au
-Type: Secondary
-OVZ-http: openvz.ansamirror.com.au/
-OVZ-ftp: openvz.ansamirror.com.au/
-Maintainer: info@ausnetservers.net.au, noc@ausnetservers.net.au 
-Country: au
-Location: Australia, Victoria, Ballarat
-Sponsor:
-IPv6:
-Comment: updated hourly
-State: Disabled
-Reason: Hostname openvz.ansamirror.com.au is absent in DNS
-
 Site: netinch.com
 Type: Secondary
 OVZ-http: mirror.netinch.com/pub/openvz/
