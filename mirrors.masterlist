@@ -224,42 +224,6 @@ Comment: Updated every 6 hours
 State: Disabled
 Reason: DISABLED 5 Feb 2014
 
-Site: 
-Type: Secondary
-OVZ-http: mirror.be.it2go.eu/openvz.org/
-Maintainer: info@it2go.eu
-Country: be
-Location: Belgium (country) - Bruges (City) - DCO (Datacenter)
-Sponsor: IT2GO
-IPv6:
-Comment: Updated every hour
-State: Disabled
-Reason: COMMENTED OUT
-
-Site: 
-Type: Secondary
-OVZ-http: mirror.nl.it2go.eu/openvz.org/
-Maintainer: info@it2go.eu
-Country: nl
-Location: Netherlands (country) - Steenbergen (City) - Nedzone (Datacenter) 
-Sponsor: IT2GO
-IPv6:
-Comment: Updated every hour
-State: Disabled
-Reason: COMMENTED OUT
-
-Site: 
-Type: Secondary
-OVZ-http: mirror.fr.it2go.eu/openvz.org/
-Maintainer: info@it2go.eu
-Country: nl
-Location: France (country) - Roubaix (City) - RBX01 (Datacenter) 
-Sponsor: IT2GO
-IPv6:
-Comment: Updated every hour
-State: Disabled
-Reason: COMMENTED OUT
-
 Site:
 Type: Secondary
 OVZ-http: mirrors.igsobe.com/openvz/
