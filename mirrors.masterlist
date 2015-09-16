@@ -249,18 +249,6 @@ IPv6:
 Comment: Sync Frequency: hourly. This mirror is available via IPv4 and IPv6 and is on an uncapped gigabit line.
 State: Enabled
 
-Site: 123systems.net
-Type: Secondary
-OVZ-http: mirrors.123systems.net/openvz/
-Maintainer: mirrors@123systems.net
-Country: us
-Location: USA, GA, Atlanta
-Sponsor:
-IPv6:
-Comment: Updated hourly
-State: Disabled
-Reason: COMMENTED OUT
-
 Site: balticservers.com
 Type: Secondary
 OVZ-http: mirror.duomenucentras.lt/openvz/
