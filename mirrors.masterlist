@@ -62,18 +62,6 @@ Comment:
 State: Enabled
 Reason: No response from maintainer
 
-Site: Dimenoc.com
-Type: Secondary
-OVZ-http: mirror.dimenoc.com/mirror/OpenVZ/
-Maintainer: openvzmirror@dayid.org
-Country: us
-Location: USA, Florida, Orlando
-Sponsor: 
-IPv6: 
-Comment: 2010 Jan 26 error: Forbidden, You don't have permission to access /mirror/OpenVZ on this server
-State: Disabled
-Reason: COMMENTED OUT
-
 Site: iij.ad.jp
 Type: Secondary
 OVZ-http: ftp.iij.ad.jp/pub/openvz/
