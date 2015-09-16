@@ -356,19 +356,6 @@ IPv6: no
 Comment: Updated daily at 2359hrs GMT+8
 State: Enabled
 
-Site: BOFH.so
-Type: Secondary
-OVZ-http: mirror.bofh.so/download.openvz.org/
-OVZ-ftp: mirror.bofh.so/download.openvz.org/
-Maintainer: mir-adm@bofh.so
-Country: fr
-Location: France, Paris
-Sponsor:
-IPv6:
-Comment: Updated hourly, 100 mbps, IPv6
-State: Disabled
-Reason: DISABLED 26 Nov 2012
-
 Site:
 Type: Secondary
 OVZ-http: mirrors.abdicar.com/OpenVZ/
