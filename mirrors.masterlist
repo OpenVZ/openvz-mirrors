@@ -324,18 +324,6 @@ Reason: Outdated content
 
 Site:
 Type: Secondary
-OVZ-http: mirrors.adnettelecom.ro/openvz/
-Maintainer: mirroradmin@adnettelecom.ro
-Country: ro
-Location: Romania, Bucharest
-Sponsor: AdNet Telecom
-IPv6: no
-Comment: Updated every 45 minutes, 2gbps etherchannel
-State: Disabled
-Reason: DISABLED 8 Feb 2012: no files
-
-Site:
-Type: Secondary
 OVZ-http: mirror.ellogroup.com/openvz/
 OVZ-ftp: mirror.ellogroup.com/openvz/
 Maintainer: webmaster@ellogroup.com, Anthony Somerset <anthony@somersettechsolutions.co.uk>
