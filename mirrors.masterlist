@@ -324,19 +324,6 @@ Reason: Outdated content
 
 Site:
 Type: Secondary
-OVZ-http: mirror.yourconnect.com/openvz/
-OVZ-ftp: mirror.yourconnect.com/openvz/
-Maintainer: Chonpakorn Phongphisist <chonpakorn@yahoo.com>
-Country: th
-Location: Thailand, Bangkok
-Sponsor: YourConnect Co., Ltd.
-IPv6:
-Comment: Bandwidth available: 1000Mb/s. Update Frequency: 6x daily.
-State: Disabled
-Reason: 2010 Jan 26 outdated, has only rhel5 028stab064.4
-
-Site:
-Type: Secondary
 OVZ-http: mirror.softaculous.com/openvz/
 Maintainer: brijesh@softaculous.com
 Country: de
