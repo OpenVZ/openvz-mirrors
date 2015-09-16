@@ -394,18 +394,6 @@ Comment: Updated every hour. Available on ipv4 and ipv6. 1 gbit uplink
 State: Enabled
 Reason:
 
-Site: kisiek.net
-Type: Secondary
-OVZ-http: mirror.kisiek.net/openvz/
-Maintainer: admin@kisiek.net
-Country: pl
-Location: Poland, Olsztyn
-Sponsor:
-IPv6:
-Comment: Updated every hour
-State: Disabled
-Reason: DISABLED 22 Apr 2013
-
 Site: spd.co.il
 Type: Secondary
 OVZ-http: openvz.spd.co.il/
