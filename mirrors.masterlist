@@ -249,18 +249,6 @@ IPv6:
 Comment: Sync Frequency: hourly. This mirror is available via IPv4 and IPv6 and is on an uncapped gigabit line.
 State: Enabled
 
-Site:
-Type: Secondary
-OVZ-http: mirror.europhase.net/openvz/
-Maintainer: mirror@europhase.net, thomas@europhase.net, david@europhase.net
-Country: uk
-Location: United Kingdom, London
-Sponsor: Europhase UK
-IPv6:
-Comment: 1000mbit, updates each hour
-State: Disabled
-Reason: DISABLED 29 Mar 2013: DNS not resolvable
-
 Site: 123systems.net
 Type: Secondary
 OVZ-http: mirrors.123systems.net/openvz/
