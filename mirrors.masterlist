@@ -611,18 +611,6 @@ Comment: 1 Gbps, updated every 4 hours
 Reason: outdated content, no updates for 24 days
 State: Enabled
 
-Site: FirstNetServ
-Type: Secondary
-OVZ-http: ovzmirror1.firstnetserv.co.uk/openvz/
-Maintainer: asm67xg@gmx.us
-Country: fr
-Location: France, Orleans
-Sponsor:
-IPv6: no
-Comment: updated hourly, up to 2 Gbps
-State: Disabled
-Reason: DISABLED 28 Jan 2015, not being updated
-
 Site: GloVine.com.au
 Type: Secondary
 OVZ-http: openvz.nsw.au.glomirror.com.au/
