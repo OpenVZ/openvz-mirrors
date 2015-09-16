@@ -635,18 +635,6 @@ IPv6: no
 Comment: 1000 mbit, 150mbit guaranteed, updated hourly
 State: Enabled
 
-Site: sciserv.eu
-Type: Secondary
-OVZ-http: openvz.sciserv.eu/
-Maintainer: marz.michael@openres.net
-Country: de
-Location: Frankfurt, Germany
-Sponsor:
-IPv6: no
-Comment: Updated daily
-State: Disabled
-Reason: Closing mirror
-
 Site: slaskdatacenter.pl
 Type: Secondary
 OVZ-http: openvz.slaskdatacenter.com/
