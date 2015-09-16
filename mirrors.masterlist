@@ -382,19 +382,6 @@ IPv6: no
 Comment: Link 100 Mbit, updated hourly
 State: Enabled
 
-Site: nlab.su
-Type: Secondary
-OVZ-http: mirrors.nlab.su/openvz/ 
-OVZ-ftp: mirrors.nlab.su/openvz/ 
-Maintainer: admin@nlab.su
-Country: ru
-Location: Russia, Moscow
-Sponsor:
-IPv6:
-Comment: Link 100 Mbit, updated hourly
-State: Disabled
-Reason: Commented out on wiki since Oct 2013
-
 Site:
 Type: Secondary
 OVZ-http: mirror.serverbeheren.nl/openvz/
