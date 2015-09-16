@@ -324,19 +324,6 @@ Reason: Outdated content
 
 Site:
 Type: Secondary
-OVZ-http: lnx.apollo-hw.ro/openvz/
-OVZ-ftp: lnx.apollo-hw.ro/openvz/
-Maintainer: mirrors@apollo-hw.ro
-Country: ro
-Location: Romania, Timisoara
-Sponsor: Apollo Hardware
-IPv6:
-Comment: Updated every 2 hours
-State: Disabled
-Reason: Updated every 2 hours
-
-Site:
-Type: Secondary
 OVZ-http: mirror.yourconnect.com/openvz/
 OVZ-ftp: mirror.yourconnect.com/openvz/
 Maintainer: Chonpakorn Phongphisist <chonpakorn@yahoo.com>
