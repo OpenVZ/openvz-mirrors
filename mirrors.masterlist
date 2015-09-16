@@ -419,18 +419,6 @@ Comment: Updated 2 times a day
 State: Disabled
 Reason: Outdated content
 
-Site: fastvps.ru
-Type: Secondary
-OVZ-http: mirror.fastvps.ru/openvz/
-Maintainer: complain@fastvps.ru
-Country: de
-Location: Germany, Falkenstein, DC: Hetzner Online AG
-Sponsor: FastVPS
-IPv6:
-Comment: 
-State: Disabled
-Reason: removed 21 Oct 2014
-
 Site: tocici.com
 Type: Secondary
 OVZ-http: mirror.tocici.com/openvz/
