@@ -358,19 +358,6 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: mirrors.abdicar.com/OpenVZ/
-OVZ-ftp: mirrors.abdicar.com/OpenVZ/
-Maintainer: info@abdicar.com
-Country: cr
-Location: Costa Rica, Heredia
-Sponsor: Abdicar
-IPv6:
-Comment: updated hourly
-State: Disabled
-Reason: NOT WORKING as of Jan 17 2014
-
-Site:
-Type: Secondary
 OVZ-http: openvz.just-hosting.ru/
 OVZ-ftp: openvz.just-hosting.ru/
 OVZ-rsync: openvz.just-hosting.ru/openvz/
