@@ -214,19 +214,6 @@ Reason: DISABLED 5 Feb 2014
 
 Site:
 Type: Secondary
-OVZ-http: mirrors.igsobe.com/openvz/
-OVZ-ftp: mirrors.igsobe.com/openvz/
-Maintainer: support@igsobe.com, John C. Young <jcy@igsobe.com>
-Country: us
-Location: USA, Florida, Miami
-Sponsor: Internet Gateway of South Beach
-IPv6:
-Comment: Updated daily.   Link: 10 GB, from 7+ tier 1 carriers
-State: Disabled
-Reason: DISABLED 8 Feb 2012: not up to date
-
-Site:
-Type: Secondary
 OVZ-http: mirror.steadfast.net/openvz/
 OVZ-ftp: mirror.steadfast.net/openvz/
 Maintainer: mirror@steadfast.net
