@@ -1358,3 +1358,14 @@ Sponsor: WANXP
 IPv6: no
 Comment: Twice a day
 State: Enabled
+
+Site: osuosl.org
+OVZ-http: ftp.osuosl.org/pub/openvz/
+OVZ-ftp:  ftp.osuosl.org/pub/openvz/
+Maintainer: support@osuosl.org
+Country: us
+Location: Corvallis, Oregon, US
+Sponsor: Open Source Lab (osuosl.org)
+IPv6: no
+Comment: Updated hourly, mirroring only virtuozzo files
+State: Enabled
