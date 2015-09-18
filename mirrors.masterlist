@@ -1327,7 +1327,7 @@ Site: www.optus.com.au
 Type: Secondary
 OVZ-http: mirror.optusnet.com.au/openvz/
 OVZ-ftp: mirror.optusnet.com.au/openvz/
-Maintainer:
+Maintainer: mirror@staff.optusnet.com.au
 Country: au
 Location: Sydney, Australia
 Sponsor: OptusNet
