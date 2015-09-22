@@ -7,7 +7,7 @@ mirmon: clean
 	bin/masterlist2mirmon ${MASTER}
 	mirmon -c etc/mirmon-stable.conf -get update  2>&1 | tee mirmon-stable.log
 	mirmon -c etc/mirmon-unstable.conf -get update  2>&1 | tee mirmon-unstable.log
-	cp mirmon-stable.log mirmon-unstable.log style.css /var/www/mirmon/
+	cp mirmon-stable.log mirmon-unstable.log style.css /var/www/mirrors.openvz.org/
 
 mirrorlist:
 	bin/create_mirrorlist.py ${MASTER} current/ > ${WWWPATH}/mirrors-current
