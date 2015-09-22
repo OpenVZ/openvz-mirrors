@@ -1088,7 +1088,8 @@ Location: Russian Federation, Novosibirsk
 Sponsor: Novosibirsk National Research State University
 IPv6: no
 Comment: Hourly updates
-State: Enabled
+State: Disabled
+Reason: Access via ftp requires authorization
 
 Site: www.hs-esslingen.de
 Type: Secondary
