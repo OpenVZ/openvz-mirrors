@@ -869,8 +869,8 @@ Country: pt
 Location: Porto, Portugal
 Sponsor: Faculdade de Engenharia da Universidade do Porto
 IPv6: yes
-Comment:
-State: Enabled
+Comment: Access via ftp requires authorization
+State: Disabled
 
 Site: www.triple-it.nl
 Type: Secondary
