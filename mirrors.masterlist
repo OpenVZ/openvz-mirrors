@@ -1206,17 +1206,6 @@ IPv6: no
 Comment: 1GB connection updated daily
 State: Enabled
 
-Site: www.ausnetservers.com.au
-Type: Secondary
-OVZ-http: openvz.mirror.ausnetservers.net.au/
-Maintainer: noc@ausnetservers.com.au
-Country: au
-Location:
-Sponsor: Aus Net Servers
-IPv6: no
-Comment: Updates every 12 hours
-State: Enabled
-
 Site: www.garr.it
 Type: Secondary
 OVZ-http: openvz.mirror.garr.it/mirrors/openvz/
