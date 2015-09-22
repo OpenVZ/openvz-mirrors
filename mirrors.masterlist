@@ -1321,7 +1321,8 @@ Location: Heraklion, Crete, Greece
 Sponsor: University of Crete / Computer Center
 IPv6: yes
 Comment: bandwidth 1Gbps, updates daily
-State: Enabled
+State: Disabled
+Reason: Requires autorization
 
 Site: www.optus.com.au
 Type: Secondary
