@@ -6,7 +6,7 @@ OVZ-rsync: download.openvz.org/openvz-download/
 Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
 Country: us
 Location: USA, Virginia, Mc Lean
-Sponsor: Odin
+Sponsor: Virtuozzo
 IPv6: yes
 Comment: Master site
 State: Enabled
@@ -19,11 +19,11 @@ OVZ-rsync: eu.download.openvz.org/openvz-download/
 Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
 Country: ch
 Location:
-Sponsor: Odin
+Sponsor: Virtuozzo
 IPv6: no
 Comment: Master site
 Reason: Not ready yet
-State: Disabled
+State: Enabled
 
 Site: 
 Type: Secondary
