@@ -1359,3 +1359,14 @@ Sponsor: Open Source Lab (osuosl.org)
 IPv6: no
 Comment: Updated hourly, mirroring only virtuozzo files
 State: Disabled
+
+Site: www.satellite-service.ru
+OVZ-http: mirror.satellite-service.ru/openvz/
+OVZ-ftp: mirror.satellite-service.ru/openvz/
+Maintainer: max@satellite-service.ru
+Country: ru
+Location: Berezniki, Perm region, Russia
+Sponsor: Satellite-Service Ltd
+IPv6: no
+Comment: Update frequency - six times per day; 1Gbit/s to AS20485, 800Mbit/s to AS3216 and 500Mbit/s to AS12705
+State: Disabled
