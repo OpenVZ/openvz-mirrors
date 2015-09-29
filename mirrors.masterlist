@@ -391,8 +391,7 @@ Location: VietNam
 Sponsor: DIGIPOWER Co.,ltd
 IPv6: no
 Comment: Updated 2 times a day
-State: Disabled
-Reason: Outdated content
+State: Enabled
 
 Site: tocici.com
 Type: Secondary
@@ -1368,4 +1367,4 @@ Location: Berezniki, Perm region, Russia
 Sponsor: Satellite-Service Ltd
 IPv6: no
 Comment: Update frequency - six times per day; 1Gbit/s to AS20485, 800Mbit/s to AS3216 and 500Mbit/s to AS12705
-State: Disabled
+State: Enabled
