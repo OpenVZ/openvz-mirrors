@@ -185,18 +185,6 @@ Master-site: us.download.openvz.org
 State: Enabled
 Reason: DISABLED 29 Mar 2013: extremely slow
 
-Site: Netriplex.com
-Type: Secondary
-OVZ-http: openvz.mirror.netriplex.com/
-Maintainer: dkuntz@netriplex.com, chale@netriplex.com
-Country: us
-Location: USA, North Carolina, Asheville
-Sponsor:
-IPv6: no
-Comment: Updated every 6 hours
-State: Disabled
-Reason: DISABLED 5 Feb 2014
-
 Site:
 Type: Secondary
 OVZ-http: mirror.steadfast.net/openvz/
