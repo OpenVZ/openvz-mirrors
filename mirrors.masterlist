@@ -22,20 +22,7 @@ Location:
 Sponsor: Virtuozzo
 IPv6: no
 Comment: Master site
-Reason: Not ready yet
 State: Enabled
-
-Site: unbornmedia.com
-Type: Secondary
-OVZ-http: mirrors.unbornmedia.com/openvz/
-Maintainer: noc@unbornmedia.com, Nate Hudson <nate@unbornmedia.com> 
-Country: us
-Location: USA, Massachusetts, Boston
-Sponsor: 
-IPv6: 
-Comment: 
-State: Disabled
-Reason: COMMENTED OUT
 
 Site: 
 Type: Secondary
