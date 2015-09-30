@@ -25,19 +25,6 @@ Comment: Master site
 Reason: Not ready yet
 State: Enabled
 
-Site: 
-Type: Secondary
-OVZ-http: openvz-mirror1.rapidvps.com/
-OVZ-ftp: openvz-mirror1.rapidvps.com/
-Maintainer: R Blundell <rickb@rapidvps.com>
-Country: us
-Location: USA, Florida
-Sponsor: 
-IPv6: 
-Comment: 
-State: Disabled
-Reason: DISABLED 26 Nov 2012
-
 Site: unbornmedia.com
 Type: Secondary
 OVZ-http: mirrors.unbornmedia.com/openvz/
