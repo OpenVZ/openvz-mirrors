@@ -482,7 +482,7 @@ Location: Czech, Prague
 Sponsor:
 IPv6: yes
 Comment: Updated hourly
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site:
@@ -571,7 +571,7 @@ Location: France, Roubaix
 Sponsor:
 IPv6: no
 Comment: Updated hourly. Fail-over cluster in London, England.
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site:
@@ -972,7 +972,7 @@ Location: Roubaix, France
 Sponsor: OVH
 IPv6: yes
 Comment: It's connected with 1Gbit, IPv4 + IPv6 available, ftp, http, rsync available.
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: Reg.ru
@@ -1279,7 +1279,7 @@ Location: Erlangen, Germany
 Sponsor: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 IPv6: yes
 Comment: 5Gbit connection via DFN
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.vutbr.cz
@@ -1317,7 +1317,7 @@ Location: France, Paris
 Sponsor: Université Pierre et Marie Curie, Laboratoire d'informatique de Paris 6
 IPv6: no
 Comment:
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: bytemark.co.uk
