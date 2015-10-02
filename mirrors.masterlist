@@ -610,7 +610,7 @@ Location: Paris, France
 Sponsor:
 IPv6: no
 Comment: 1000 mbit, 150mbit guaranteed, updated hourly
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: slaskdatacenter.pl
@@ -1173,7 +1173,7 @@ Location: Czech Republic, Brno
 Sponsor:
 IPv6: yes
 Comment: Hourly updates
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: hawo.net
@@ -1188,7 +1188,7 @@ Location:
 Sponsor:
 IPv6: yes
 Comment: Hourly updates
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.ausnetservers.com.au
