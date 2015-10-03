@@ -20,7 +20,7 @@ Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
 Country: ch
 Location:
 Sponsor: Virtuozzo
-IPv6: no
+IPv6: yes
 Comment: Master site
 State: Enabled
 
