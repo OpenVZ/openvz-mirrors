@@ -421,6 +421,19 @@ State: Enabled
 
 Site:
 Type: Secondary
+OVZ-http: mirror.mirohost.net/openvz/
+OVZ-ftp: mirror.mirohost.net/openvz/
+Maintainer: noc@mirohost.net
+Country: ua
+Location: Ukraine, Kiev
+Sponsor: Mirohost Data Center
+IPv6: yes
+Comment: Updated every hour
+Master-site: eu.download.openvz.org
+State: Enabled
+
+Site:
+Type: Secondary
 OVZ-http: openvz.mirror.serveriai.lt/
 Maintainer: Arūnas Ulinskas <arunas.u@iv.lt>
 Country: lt
