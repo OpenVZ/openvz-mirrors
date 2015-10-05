@@ -286,7 +286,7 @@ Location: Germany
 Sponsor: Softaculous
 IPv6: no
 Comment: Updated once a day
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: FDCServers.net
@@ -771,7 +771,7 @@ Location: Frankfurt, Hessen, Germany, Europe
 Sponsor: 23Media
 IPv6: yes
 Comment:
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 Reason:
 State: Enabled
 
