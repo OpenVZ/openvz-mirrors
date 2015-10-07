@@ -285,7 +285,7 @@ Country: de
 Location: Germany
 Sponsor: Softaculous
 IPv6: no
-Comment: Updated once a day
+Comment: Update frequency - once per hour
 Master-site: eu.download.openvz.org
 State: Enabled
 
@@ -391,6 +391,7 @@ Sponsor:
 IPv6: yes
 Comment: Updated every four hours, with a randomized start time. Two 1Gbps uplinks leveraging dual-stack IPv4/IPv6.
 Reason:
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site:
@@ -547,6 +548,7 @@ Location: Finland, Tampere
 Sponsor:
 IPv6: no
 Comment:
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: cenexo.com
@@ -841,6 +843,7 @@ Sponsor: checkdomain GmbH
 IPv6: yes
 Comment:
 Comment: 1 Gbit/s uplink, Updated hourly
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: dhakacom.com
@@ -1396,7 +1399,7 @@ Location: Hamburg, Germany
 Sponsor: Artfiles New Media GmbH
 IPv6: yes
 Comment: 1GB connection, updated daily
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: wanxp.id
