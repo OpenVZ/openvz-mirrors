@@ -115,8 +115,8 @@ Sponsor:
 IPv6: no
 Comment: 1Gbit/s uplink, updated every 4 hours.
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: DISABLED 29 Mar 2013, /current is empty; Re-enabled 1 Dec 2013, DISABLED 5 Feb 2014, re-enabled 13 Feb 2014
+State: Disabled
+Reason: not available
 
 Site:
 Type: Secondary
@@ -1028,7 +1028,7 @@ Location: Dublin, Ireland
 Sponsor: HEAnet, Ireland's National Research & Education Network
 IPv6: yes
 Comment: Hourly updates
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site:
@@ -1426,7 +1426,7 @@ Sponsor: WANXP
 IPv6: no
 Comment: Twice a day
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: osuosl.org
 OVZ-http: ftp.osuosl.org/pub/openvz/
