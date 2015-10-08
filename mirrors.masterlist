@@ -100,8 +100,8 @@ Location: Romania, Bucharest
 Sponsor:
 IPv6: no
 Comment: Speeds up to 100Mbps from outside country, up to 1Gbps within Romania
+Master-site: eu.download.openvz.org
 State: Enabled
-Master-site: us.download.openvz.org
 Reason: 404 Not Found
 
 Site: hostcentral.net.au
@@ -208,7 +208,7 @@ Location: Lithuania, Šiauliai
 Sponsor:
 IPv6: no
 Comment: Updated every two hours
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site:
@@ -442,7 +442,7 @@ Location: Lithuania, Vilnius
 Sponsor: Interneto Vizija
 IPv6: no
 Comment: Updated hourly
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site:
@@ -573,7 +573,7 @@ Location: UK, London
 Sponsor:
 IPv6: no
 Comment: 1 Gbps Uplink, updated hourly, RAID 10 SSD based
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: Hosting Dept
@@ -773,7 +773,7 @@ Location: Chisinau, Republic of Moldova
 Sponsor: Trabia Network
 IPv6: yes
 Comment: Update frequency: each hour
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.23media.de
@@ -895,7 +895,7 @@ Location: Polska, Warszawa
 Sponsor: ICM UW (Interdisciplinary Centre for Modelling, Warsaw University)
 IPv6: yes
 Comment: The server has 10 Gbps connection and serves 43 TB of data currently.
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: sigarra.up.pt
@@ -921,7 +921,7 @@ Location: The Netherlands, Noord-Holland, Amsterdam
 Sponsor: Triple IT
 IPv6: yes
 Comment: Updates every hour on the 40st minute, the mirror server has 8TB of storage, and is connected to 2GBPS uplink.
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.garr.it
@@ -1118,7 +1118,7 @@ Location: Amsterdam, Netherlands
 Sponsor: Dutch Unix Users Group NLUUG
 IPv6: yes
 Comment: 4.0 Gb/s, http://ftp.nluug.nl/.statistics/
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: zetup.net
@@ -1130,7 +1130,7 @@ Location: Trollhättan, Sweden
 Sponsor: Zetup
 IPv6: no
 Comment: Hourly updates
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.nsu.ru
@@ -1385,8 +1385,8 @@ Country: gr
 Location: Heraklion, Crete, Greece
 Sponsor: University of Crete / Computer Center
 IPv6: yes
-Comment: bandwidth 1Gbps, updates daily
-Master-site: us.download.openvz.org
+Comment: bandwidth 1Gbps, updates every four hours
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.optus.com.au
