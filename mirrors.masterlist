@@ -718,7 +718,7 @@ Location: Slovenia
 Sponsor: Arnes
 IPv6: yes
 Comment: Bandwidth - 1Gbps
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.hosteurope.de
@@ -800,7 +800,7 @@ Location: Moscow, Russian Federation
 Sponsor: WEB DESK LLC
 IPv6: no
 Comment: Updated every 30 minutes; 100 mbps connection limit, in a Gbits network
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.h1host.ru
@@ -881,7 +881,7 @@ Location: Russia, Moscow
 Sponsor: Rinet
 IPv6: no
 Comment:
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.icm.edu.pl
@@ -1001,7 +1001,7 @@ Location: Russia, Moscow
 Sponsor: Reg.ru
 IPv6: no
 Comment: frequency of updates: every 60 min
-Master-site: us.download.openvz.org
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.digitalpacific.com.au
