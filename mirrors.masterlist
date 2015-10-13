@@ -1119,8 +1119,7 @@ Sponsor: Dutch Unix Users Group NLUUG
 IPv6: yes
 Comment: 4.0 Gb/s, http://ftp.nluug.nl/.statistics/
 Master-site: eu.download.openvz.org
-State: Disabled
-Reason: mirror is unavailable via ftp and http
+State: Enabled
 
 Site: zetup.net
 Type: Secondary
@@ -1414,8 +1413,7 @@ Sponsor: Artfiles New Media GmbH
 IPv6: yes
 Comment: 1GB connection, updated daily
 Master-site: eu.download.openvz.org
-State: Disabled
-Reason: mirror is unavaiable via ftp
+State: Enabled
 
 Site: wanxp.id
 OVZ-http: mirror.wanxp.id/openvz/
