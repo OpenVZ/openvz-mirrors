@@ -405,7 +405,8 @@ Sponsor: Webtastix Internet Services
 IPv6: yes
 Comment: Updated hourly
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: mirror is unavailable
 
 Site:
 Type: Secondary
