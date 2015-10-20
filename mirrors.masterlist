@@ -115,8 +115,7 @@ Sponsor:
 IPv6: no
 Comment: 1Gbit/s uplink, updated every 4 hours.
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: not available
+State: Enabled
 
 Site:
 Type: Secondary
@@ -1427,7 +1426,7 @@ Sponsor: WANXP
 IPv6: no
 Comment: Twice a day
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 
 Site: osuosl.org
 OVZ-http: ftp.osuosl.org/pub/openvz/
