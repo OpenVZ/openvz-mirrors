@@ -1451,3 +1451,15 @@ IPv6: no
 Comment: Update frequency - six times per day; 1Gbit/s to AS20485, 800Mbit/s to AS3216 and 500Mbit/s to AS12705
 Master-site: us.download.openvz.org
 State: Enabled
+
+Site: mirrors.nic.cz
+OVZ-http: mirrors.nic.cz/openvz/
+OVZ-ftp: mirrors.nic.cz/pub/openvz/
+OVZ-rsync: mirrors.nic.cz/openvz/
+Maintainer: mirrors@nic.cz
+Country: cz
+Location: Prague, Czech Republic
+Sponsor: CZ.NIC
+IPv6: yes
+Comment: 10Gbps connection, updated every 6 hours
+Master-site: eu.download.openvz.org
