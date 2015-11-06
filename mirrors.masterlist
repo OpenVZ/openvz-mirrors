@@ -404,8 +404,7 @@ Sponsor: Webtastix Internet Services
 IPv6: yes
 Comment: Updated hourly
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: mirror is unavailable
+State: Enabled
 
 Site:
 Type: Secondary
@@ -774,7 +773,8 @@ Sponsor: Trabia Network
 IPv6: yes
 Comment: Update frequency: each hour
 Master-site: eu.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: mirror content is outdated
 
 Site: www.23media.de
 Type: Secondary
