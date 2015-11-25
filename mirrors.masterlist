@@ -773,8 +773,7 @@ Sponsor: Trabia Network
 IPv6: yes
 Comment: Update frequency: each hour
 Master-site: eu.download.openvz.org
-State: Disabled
-Reason: mirror content is outdated
+State: Enabled
 
 Site: www.23media.de
 Type: Secondary
