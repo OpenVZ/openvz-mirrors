@@ -482,8 +482,7 @@ Sponsor: Neterra LTD
 IPv6: yes
 Comment: IPv6 enabled, 2 Gbps link, updated hourly.
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: mirror is unavailable via http for 6 days
+State: Enabled
 
 Site: vpsFree.cz
 Type: Secondary
