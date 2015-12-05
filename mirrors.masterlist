@@ -1472,4 +1472,6 @@ Location: Ho Chi Minh City, VietNam
 Sponsor: vHost
 IPv6: no
 Comment: Update frequency daily
-Master-site: download.openvz.org
+Master-site: eu.download.openvz.org
+State: Disabled
+Reason: mirror is not available via rsync and ftp protocols
