@@ -129,7 +129,8 @@ Sponsor: Spherely LLC
 IPv6: no
 Comment: Updated hourly, 1 Gbps link
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: mirror is unavailable via http and ftp
 
 Site: Ircam.fr
 Type: Secondary
