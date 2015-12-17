@@ -538,19 +538,6 @@ Master-site: us.download.openvz.org
 State: Enabled
 Reason: DISABLED 7 Jan 2015: not working, re-enabled 8 Jan 2015 with changed URL
 
-Site: mirror.nhanhoa.com
-Type: Secondary
-OVZ-http: mirror.nhanhoa.com/openvz/
-Maintainer: Dang Duc Thinh <thinhdd@nhanhoa.com.vn>
-Country: vn
-Location: Vietnam, Ha Noi
-Sponsor: Nhan Hoa Co., Ltd
-IPv6:
-Comment: 100 mbps, updated 4 times a day
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: DISABLED 28 Jan 2015 -- not updated since 02 Jan
-
 Site: netinch.com
 Type: Secondary
 OVZ-http: mirror.netinch.com/pub/openvz/
@@ -1478,11 +1465,12 @@ State: Disabled
 Reason: mirror is not available via rsync and ftp protocols
 
 Site: nhanhoa.com
-OVZ-http: mirrors.nhanhoa.com/openvz
+Type: Secondary
+OVZ-http: mirrors.nhanhoa.com/openvz/
 Maintainer: Nguyen Minh Hai <mirrors@nhanhoa.com>
 Country: vn
 Location: Ha Noi, Vietnam
-Sponsor: Nhan Hoa Software Company
+Sponsor: Nhan Hoa Co., Ltd
 IPv6: no
 Comment: updates every 8 hours
 Master-site: eu.download.openvz.org
