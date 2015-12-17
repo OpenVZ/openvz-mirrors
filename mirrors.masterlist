@@ -1475,3 +1475,14 @@ Comment: Update frequency daily
 Master-site: eu.download.openvz.org
 State: Disabled
 Reason: mirror is not available via rsync and ftp protocols
+
+Site: nhanhoa.com
+OVZ-http: mirrors.nhanhoa.com/openvz
+Maintainer: Nguyen Minh Hai <mirrors@nhanhoa.com>
+Country: vn
+Location: Ha Noi, Vietnam
+Sponsor: Nhan Hoa Software Company
+IPv6: no
+Comment:
+Master-site: eu.download.openvz.org
+State: Disabled
