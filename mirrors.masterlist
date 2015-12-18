@@ -1452,8 +1452,6 @@ Master-site: eu.download.openvz.org
 
 Site: vhost.vn
 OVZ-http: mirrors.vhost.vn/openvz/
-OVZ-ftp: mirrors.vhost.vn/openvz/
-OVZ-rsync: mirrors.vhost.vn/openvz/
 Maintainer: tech@vhost.vn
 Country: vn
 Location: Ho Chi Minh City, VietNam
@@ -1461,8 +1459,7 @@ Sponsor: vHost
 IPv6: no
 Comment: Update frequency daily
 Master-site: eu.download.openvz.org
-State: Disabled
-Reason: mirror is not available via rsync and ftp protocols
+State: Enabled
 
 Site: nhanhoa.com
 Type: Secondary
@@ -1474,4 +1471,4 @@ Sponsor: Nhan Hoa Co., Ltd
 IPv6: no
 Comment: updates every 8 hours
 Master-site: eu.download.openvz.org
-State: Disabled
+State: Enabled
