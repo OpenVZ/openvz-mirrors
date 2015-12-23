@@ -1482,4 +1482,4 @@ Location: Dallas, TX
 IPv6: yes
 Master-site: download.openvz.org
 Comment: Updated hourly.
-State: Disabled
+State: Enabled
