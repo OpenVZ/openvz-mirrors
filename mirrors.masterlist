@@ -1483,7 +1483,7 @@ Type: Secondary
 OVZ-http: openvz.jetfire.io/
 OVZ-ftp: openvz.jetfire.io/
 Maintainer: John Edel <mirror@openvz.jetfire.io>
-Country: US
+Country: us
 Location: Dallas, TX
 IPv6: yes
 Master-site: download.openvz.org
