@@ -1402,6 +1402,7 @@ Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: wanxp.id
+Type: Secondary
 OVZ-http: mirror.wanxp.id/openvz/
 OVZ-ftp: mirror.wanxp.id/openvz/
 OVZ-rsync: mirror.wanxp.id/openvz/
@@ -1415,6 +1416,7 @@ Master-site: us.download.openvz.org
 State: Enabled
 
 Site: osuosl.org
+Type: Secondary
 OVZ-http: ftp.osuosl.org/pub/openvz/
 OVZ-ftp: ftp.osuosl.org/pub/openvz/
 Maintainer: support@osuosl.org
@@ -1427,6 +1429,7 @@ Master-site: us.download.openvz.org
 State: Disabled
 
 Site: www.satellite-service.ru
+Type: Secondary
 OVZ-http: mirror.satellite-service.ru/openvz/
 OVZ-ftp: mirror.satellite-service.ru/openvz/
 Maintainer: max@satellite-service.ru
@@ -1439,6 +1442,7 @@ Master-site: us.download.openvz.org
 State: Enabled
 
 Site: mirrors.nic.cz
+Type: Secondary
 OVZ-http: mirrors.nic.cz/openvz/
 OVZ-ftp: mirrors.nic.cz/pub/openvz/
 OVZ-rsync: mirrors.nic.cz/openvz/
@@ -1451,6 +1455,7 @@ Comment: 10Gbps connection, updated every 6 hours
 Master-site: eu.download.openvz.org
 
 Site: vhost.vn
+Type: Secondary
 OVZ-http: mirrors.vhost.vn/openvz/
 Maintainer: tech@vhost.vn
 Country: vn
@@ -1474,6 +1479,7 @@ Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: jetfire.io
+Type: Secondary
 OVZ-http: openvz.jetfire.io/
 OVZ-ftp: openvz.jetfire.io/
 Maintainer: John Edel <mirror@openvz.jetfire.io>
@@ -1483,3 +1489,17 @@ IPv6: yes
 Master-site: download.openvz.org
 Comment: Updated hourly.
 State: Enabled
+
+Site: ftp.gobsd.net
+Type: Secondary
+OVZ-https: ftp.gobsd.net/pub/openvz/
+OVZ-ftp: ftp.gobsd.net/pub/openvz
+OVZ-rsync: ftp.gobsd.net::openvz
+Maintainer: Junho Choi (cjh@kr.freebsd.org, cjh@saturnsoft.net)
+Country: kr
+Location: Seoul, South Korea
+Sponsor: Korea FreeBSD Users Group
+IPv6: no
+Comment: update every hour
+Master-site: download.openvz.org
+State: Disabled
