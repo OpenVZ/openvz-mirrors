@@ -1492,9 +1492,9 @@ State: Enabled
 
 Site: ftp.gobsd.net
 Type: Secondary
-OVZ-https: ftp.gobsd.net/pub/openvz/
-OVZ-ftp: ftp.gobsd.net/pub/openvz
-OVZ-rsync: ftp.gobsd.net::openvz
+OVZ-http: ftp.gobsd.net/pub/openvz/
+OVZ-ftp: ftp.gobsd.net/pub/openvz/
+OVZ-rsync: ftp.gobsd.net/openvz/
 Maintainer: Junho Choi (cjh@kr.freebsd.org, cjh@saturnsoft.net)
 Country: kr
 Location: Seoul, South Korea
