@@ -1503,3 +1503,16 @@ IPv6: no
 Comment: update every hour
 Master-site: download.openvz.org
 State: Enabled
+
+Site: mirror.inode.at
+Type: Secondary
+OVZ-http: mirror.inode.at/openvz/
+OVZ-ftp: mirror.inode.at/openvz/
+OVZ-rsync: mirror.inode.at/openvz/
+Maintainer: mirror@inode.at
+Country: at
+Location: Vienna, Austria
+Sponsor: UPC
+IPv6: yes
+Comment: Hourly updates
+State: Disabled
