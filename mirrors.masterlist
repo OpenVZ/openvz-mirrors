@@ -563,19 +563,6 @@ Comment: 1 Gbps Uplink, updated hourly, RAID 10 SSD based
 Master-site: eu.download.openvz.org
 State: Enabled
 
-Site: Hosting Dept
-Type: Secondary
-OVZ-http: mirror.hdcore.eu/openvz/
-OVZ-ftp: mirror.hdcore.eu/openvz/
-Maintainer: mirroradmin@hostingdept.co.uk
-Country: fr
-Location: France, Roubaix
-Sponsor:
-IPv6: no
-Comment: Updated hourly. Fail-over cluster in London, England.
-Master-site: eu.download.openvz.org
-State: Enabled
-
 Site:
 Type: Secondary
 OVZ-http: mirrors.bestthaihost.com/openvz/
