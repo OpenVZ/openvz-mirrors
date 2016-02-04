@@ -626,7 +626,8 @@ Sponsor:
 IPv6: no
 Comment: Updated hourly, link 1 Gbps
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: Outdated content for 13 days
 
 Site:
 Type: Secondary
