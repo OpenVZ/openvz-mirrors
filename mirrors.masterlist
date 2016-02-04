@@ -300,7 +300,8 @@ Sponsor:
 IPv6: yes
 Comment: Updated every 2 hours
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: Outdated for 3 days
 
 Site:
 Type: Secondary
