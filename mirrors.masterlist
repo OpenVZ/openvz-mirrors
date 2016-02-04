@@ -1028,7 +1028,8 @@ Sponsor:
 IPv6: no
 Comment: Hourly updates
 Master-site: eu.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: mirrors are not available
 
 Site: muzzy.it
 Type: Secondary
@@ -1041,7 +1042,8 @@ Sponsor:
 IPv6: no
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: mirrors are not available
 
 Site: gigenet.com
 Type: Secondary
