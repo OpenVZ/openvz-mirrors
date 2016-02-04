@@ -1455,7 +1455,8 @@ Sponsor: vHost
 IPv6: no
 Comment: Update frequency daily
 Master-site: eu.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: not available
 
 Site: nhanhoa.com
 Type: Secondary
