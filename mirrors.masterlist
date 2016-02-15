@@ -1,7 +1,6 @@
 Site: download.openvz.org
 Type: Master
 OVZ-https: download.openvz.org/
-OVZ-ftp: download.openvz.org/
 OVZ-rsync: download.openvz.org/openvz-download/
 Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
 Country: us
@@ -14,7 +13,6 @@ State: Enabled
 Site: eu.download.openvz.org
 Type: Master
 OVZ-https: eu.download.openvz.org/
-OVZ-ftp: eu.download.openvz.org/
 OVZ-rsync: eu.download.openvz.org/openvz-download/
 Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
 Country: ch
@@ -39,7 +37,6 @@ State: Enabled
 Site: iij.ad.jp
 Type: Secondary
 OVZ-http: ftp.iij.ad.jp/pub/openvz/
-OVZ-ftp: ftp.iij.ad.jp/pub/openvz/
 Maintainer: mirror-contact@iij.ad.jp
 Country: jp
 Location: Japan, Tokyo, Chiyoda
@@ -52,7 +49,6 @@ State: Enabled
 Site: yandex.ru
 Type: Secondary
 OVZ-http: mirror.yandex.ru/mirrors/download.openvz.org/
-OVZ-ftp: mirror.yandex.ru/mirrors/download.openvz.org/
 OVZ-rsync: mirror.yandex.ru/mirrors/download.openvz.org/
 Maintainer: opensource@yandex-team.ru, ashejn@yandex-team.ru
 Country: ru
@@ -66,7 +62,6 @@ State: Enabled
 Site: proserve.nl
 Type: Secondary
 OVZ-http: openvz.proserve.nl/
-OVZ-ftp: mirror.proserve.nl/openvz/
 OVZ-rsync: openvz.proserve.nl/openvz/
 Maintainer: noc@proserve.nl
 Country: nl
@@ -80,7 +75,6 @@ State: Enabled
 Site: wicks.co.nz
 Type: Secondary
 OVZ-http: ftp.wicks.co.nz/pub/openvz/
-OVZ-ftp: ftp.wicks.co.nz/pub/openvz/
 Maintainer: mirror@wicks.co.nz
 Country: nz
 Location: New Zealand
@@ -107,7 +101,6 @@ Reason: 404 Not Found
 Site: hostcentral.net.au
 Type: Secondary
 OVZ-http: mirror.as24220.net/pub/openvz/
-OVZ-ftp: mirror.as24220.net/pub/openvz/
 Maintainer: mirrors@as24220.net 
 Country: au
 Location: Australia, Melbourne
@@ -120,7 +113,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirrors.sphere.ly/openvz/
-OVZ-ftp: mirrors.sphere.ly/openvz/
 OVZ-rsync: mirrors.sphere.ly/openvz/
 Maintainer: mirrors@sphere.ly
 Country: us
@@ -135,7 +127,6 @@ Reason: mirror is unavailable via http and ftp
 Site: Ircam.fr
 Type: Secondary
 OVZ-http: mirrors.ircam.fr/openvz/
-OVZ-ftp: mirrors.ircam.fr/pub/OpenVZ/
 OVZ-rsync: mirrors.ircam.fr/openvz/
 Maintainer: mirrormaster@ircam.fr
 Country: fr
@@ -188,7 +179,6 @@ Reason: DISABLED 29 Mar 2013: extremely slow
 Site:
 Type: Secondary
 OVZ-http: mirror.steadfast.net/openvz/
-OVZ-ftp: mirror.steadfast.net/openvz/
 Maintainer: mirror@steadfast.net
 Country: us
 Location: USA, IL, Chicago
@@ -201,7 +191,6 @@ State: Enabled
 Site: balticservers.com
 Type: Secondary
 OVZ-http: mirror.duomenucentras.lt/openvz/
-OVZ-ftp: mirror.duomenucentras.lt/openvz/
 Maintainer: mirror@duomenucentras.lt
 Country: lt
 Location: Lithuania, Šiauliai
@@ -227,7 +216,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirror.datacenter.by/pub/download.openvz.org/
-OVZ-ftp: mirror.datacenter.by/pub/download.openvz.org/
 Maintainer: admin@mirror.datacenter.by
 Country: by
 Location: Belarus, Minsk
@@ -241,7 +229,6 @@ Reason: SAN/Storage outage, disabled as agreed with contact person
 Site:
 Type: Secondary
 OVZ-http: ftp.yz.yamagata-u.ac.jp/pub/openvz/
-OVZ-ftp: ftp.yz.yamagata-u.ac.jp/mirror7/openvz/
 Maintainer: www-admin@ftp.yz.yamagata-u.ac.jp
 Country: jp
 Location: Japan, Yamagata, Yonezawa
@@ -292,7 +279,6 @@ State: Enabled
 Site: FDCServers.net
 Type: Secondary
 OVZ-http: mirror.fdcservers.net/openvz/
-OVZ-ftp: mirror.fdcservers.net/openvz/
 Maintainer: mirror@fdcservers.net 
 Country: us
 Location: USA, Illinois, Chicago
@@ -318,7 +304,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: openvz.just-hosting.ru/
-OVZ-ftp: openvz.just-hosting.ru/
 OVZ-rsync: openvz.just-hosting.ru/openvz/
 Maintainer: info@just-hosting.ru
 Country: de
@@ -333,7 +318,6 @@ Reason: DISABLED 7 Jan 2015: not updated; reenabled 8 Jan 2015
 Site: HitMe.pl
 Type: Secondary
 OVZ-http: openvz.hitme.net.pl/
-OVZ-ftp: openvz.hitme.net.pl/openvz/
 Maintainer: admin@hitme.pl
 Country: pl
 Location: Poland, Gdansk
@@ -371,7 +355,6 @@ State: Enabled
 Site: digipower.vn
 Type: Secondary
 OVZ-http: mirrors.digipower.vn/openvz/
-OVZ-ftp: mirrors.digipower.vn/openvz/
 OVZ-rsync: mirrors.digipower.vn/openvz/
 Maintainer: contact@digipower.vn, duchoang@digipower.vn
 Country: vn
@@ -398,7 +381,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirror.webtastix.net/openvz/
-OVZ-ftp: mirror.webtastix.net/openvz/
 Maintainer: Shane Langley <shane@webtastix.net>
 Country: nz
 Location: New Zealand, Auckland
@@ -411,7 +393,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: ftp.colocall.net/pub/openvz/
-OVZ-ftp: ftp.colocall.net/pub/openvz/
 Maintainer: mirrors@colocall.net
 Country: ua
 Location: Ukraine, Kiev
@@ -424,7 +405,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirror.mirohost.net/openvz/
-OVZ-ftp: mirror.mirohost.net/openvz/
 Maintainer: noc@mirohost.net
 Country: ua
 Location: Ukraine, Kiev
@@ -449,7 +429,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirrors.ustc.edu.cn/openvz/
-OVZ-ftp: mirrors.ustc.edu.cn/openvz/
 OVZ-rsync: mirrors.ustc.edu.cn/openvz/
 Maintainer: lug@ustc.edu.cn
 Country: cn
@@ -475,7 +454,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirrors.neterra.net/openvz/
-OVZ-ftp: mirrors.neterra.net/openvz/
 OVZ-rsync: mirrors.neterra.net/openvz/
 Maintainer: mirrors@neterra.net
 Country: bg
@@ -489,7 +467,6 @@ State: Enabled
 Site: vpsFree.cz
 Type: Secondary
 OVZ-http: mirror.vpsfree.cz/openvz/
-OVZ-ftp: mirror.vpsfree.cz/openvz/
 OVZ-rsync: mirror.vpsfree.cz/openvz/
 Maintainer: ovzmirror@mrkva.eu
 Country: cz
@@ -516,7 +493,6 @@ Reason: Unavailable via http protocol
 Site: maeh.org
 Type: Secondary
 OVZ-http: mirror.maeh.org/openvz/
-OVZ-ftp: mirror.maeh.org/openvz/
 Maintainer: mirrors@maeh.org
 Country: de
 Location: Germany, Hamburg
@@ -542,7 +518,6 @@ Reason: DISABLED 7 Jan 2015: not working, re-enabled 8 Jan 2015 with changed URL
 Site: netinch.com
 Type: Secondary
 OVZ-http: mirror.netinch.com/pub/openvz/
-OVZ-ftp: mirror.netinch.com/pub/openvz/
 Maintainer: eeroalk@netinch.com
 Country: fi
 Location: Finland, Tampere
@@ -580,7 +555,6 @@ State: Enabled
 Site: supremebytes.com
 Type: Secondary
 OVZ-http: mirror.supremebytes.com/openvz/
-OVZ-ftp: mirror.supremebytes.com/openvz/
 Maintainer: Damien Burke <damien@supremebytes.com>
 Country: us
 Location: USA, California, Los Angeles
@@ -618,7 +592,6 @@ State: Enabled
 Site: nexcess.net
 Type: Secondary
 OVZ-http: mirror.nexcess.net/openvz/
-OVZ-ftp: mirror.nexcess.net/openvz/
 Maintainer: mirroradmin@nexcess.net
 Country: us
 Location: USA, Michigan, Southfield
@@ -632,7 +605,6 @@ Reason: Outdated content for 13 days
 Site:
 Type: Secondary
 OVZ-http: ftp.yzu.edu.tw/openvz/
-OVZ-ftp: ftp.yzu.edu.tw/openvz/
 OVZ-rsync: ftp.yzu.edu.tw/Linux/openvz/
 Maintainer: hsu@peterdavehello.org
 Country: tw
@@ -658,7 +630,6 @@ State: Enabled
 Site: netix.net
 Type: Secondary
 OVZ-http: mirrors.netix.net/openvz/
-OVZ-ftp: mirrors.netix.net/openvz/
 OVZ-rsync: mirrors.netix.net/openvz/
 Maintainer: sbarzakov@neterra.net, mirrors@netix.net
 Country: bg
@@ -672,7 +643,6 @@ State: Enabled
 Site: www.byfly.by
 Type: Secondary
 OVZ-http: ftp.byfly.by/pub/download.openvz.org/
-OVZ-ftp: ftp.byfly.by/pub/download.openvz.org/
 OVZ-rsync: ftp.byfly.by/OpenVZ/
 Maintainer: ftp@mgts.by
 Country: by
@@ -686,7 +656,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: ftp.arnes.si/mirrors/openvz/
-OVZ-ftp: ftp.arnes.si/mirrors/openvz/
 OVZ-rsync: ftp.arnes.si/openvz/
 Maintainer: Mitja Mihelič <mitja.mihelic@arnes.si>, ftpadmin@arnes.si
 Country: si
@@ -700,7 +669,6 @@ State: Enabled
 Site: www.hosteurope.de
 Type: Secondary
 OVZ-http: ftp.hosteurope.de/mirror/openvz/
-OVZ-ftp: ftp.hosteurope.de/mirror/openvz/
 OVZ-rsync: ftp.hosteurope.de/openvz/
 Maintainer: mirror-admins@hosteurope.de
 Country: de
@@ -727,7 +695,6 @@ State: Enabled
 Site: www.kddilabs.jp
 Type: Secondary
 OVZ-http: www.ftp.ne.jp/Linux/MISC/openvz/
-OVZ-ftp: ftp.kddilabs.jp/Linux/MISC/openvz/
 Maintainer: admin@ftp.ne.jp
 Country: jp
 Location:
@@ -740,7 +707,6 @@ State: Enabled
 Site: www.trabia.com
 Type: Secondary
 OVZ-http: mirror.as43289.net/openvz/
-OVZ-ftp: mirror.as43289.net/openvz/
 OVZ-rsync: mirror.as43289.net/openvz/
 Maintainer: noc@trabia.com
 Country: md
@@ -754,7 +720,6 @@ State: Enabled
 Site: www.23media.de
 Type: Secondary
 OVZ-http: mirror.23media.de/openvz/
-OVZ-ftp: mirror.23media.de/openvz/
 Maintainer: mirror@23media.de
 Country: de
 Location: Frankfurt, Hessen, Germany, Europe
@@ -781,7 +746,6 @@ State: Enabled
 Site: www.h1host.ru
 Type: Secondary
 OVZ-http: mirror.h1host.ru/openvz/
-OVZ-ftp: mirror.h1host.ru/openvz/
 OVZ-rsync: mirror.h1host.ru/openvz/
 Maintainer: support@h1host.ru
 Country: ru
@@ -795,7 +759,6 @@ State: Enabled
 Site: www.syringanetworks.net
 Type: Secondary
 OVZ-http: mirrors.syringanetworks.net/OpenVZ/
-OVZ-ftp: mirrors.syringanetworks.net/OpenVZ/
 OVZ-rsync: mirrors.syringanetworks.net/OpenVZ/
 Maintainer: mirrors@syringanetworks.net
 Country: us
@@ -809,7 +772,6 @@ State: Enabled
 Site: www.ukhost4u.com
 Type: Secondary
 OVZ-http: mirror.ukhost4u.com/openvz/
-OVZ-ftp: mirror.ukhost4u.com/openvz/
 Maintainer: Paul Hughes <paul@ukhost4u.com>
 Country: uk
 Location: Edinburgh, United Kingdom
@@ -823,7 +785,6 @@ Site: www.checkdomain.de
 Type: Secondary
 OVZ-http: mirror.checkdomain.de/openvz/
 OVZ-https: mirror.checkdomain.de/openvz/
-OVZ-ftp: mirror.checkdomain.de/openvz/
 Maintainer: Simon Jalandt <s.jalandt@checkdomain.de>
 Country: de
 Location: Germany, Sachsen
@@ -849,7 +810,6 @@ State: Enabled
 Site: rinet.ru
 Type: Secondary
 OVZ-http: openvz.rinet.ru/
-OVZ-ftp: mirror.rinet.ru/pub/mirror/openvz/
 Maintainer: mirroradm@rinet.ru
 Country: ru
 Location: Russia, Moscow
@@ -862,7 +822,6 @@ State: Enabled
 Site: www.icm.edu.pl
 Type: Secondary
 OVZ-http: ftp.icm.edu.pl/pub/Linux/openvz/
-OVZ-ftp: ftp.icm.edu.pl/pub/Linux/openvz/
 OVZ-rsync: ftp.icm.edu.pl/pub/Linux/openvz/
 Maintainer: mirror@icm.edu.pl, Rafal Maszkowski <rzm@icm.edu.pl>, sunsite@icm.edu.pl
 Country: pl
@@ -876,7 +835,6 @@ State: Enabled
 Site: sigarra.up.pt
 Type: Secondary
 OVZ-http: mirrors.fe.up.pt/pub/openvz/
-OVZ-ftp: mirrors.fe.up.pt/pub/openvz/
 Maintainer: mirrors@fe.up.pt
 Country: pt
 Location: Porto, Portugal
@@ -928,7 +886,6 @@ State: Enabled
 Site: www.fsn.hu
 Type: Secondary
 OVZ-http: ftp.fsn.hu/pub/openvz/
-OVZ-ftp: ftp.fsn.hu/pub/openvz/
 OVZ-rsync: ftp.fsn.hu/ftp/pub/openvz/
 Maintainer: bra@fsn.hu
 Country: hu
@@ -955,7 +912,6 @@ State: Enabled
 Site: www.ovh.com
 Type: Secondary
 OVZ-http: openvz.mirrors.ovh.net/openvz/
-OVZ-ftp: openvz.mirrors.ovh.net/openvz/
 OVZ-rsync: openvz.mirrors.ovh.net/openvz/
 Maintainer: mirror@ovh.net, Felix Krohn <felix.krohn@ovh.net>
 Country: fr
@@ -969,7 +925,6 @@ State: Enabled
 Site: Reg.ru
 Type: Secondary
 OVZ-http: mirror.logol.ru/openvz/
-OVZ-ftp: mirror.logol.ru/openvz/
 Maintainer: kurilkin@reg.ru
 Country: ru
 Location: Russia, Moscow
@@ -995,7 +950,6 @@ State: Enabled
 Site: www.heanet.ie
 Type: Secondary
 OVZ-http: ftp.heanet.ie/mirrors/openvz/
-OVZ-ftp: ftp.heanet.ie/mirrors/openvz/
 OVZ-rsync: ftp.heanet.ie/mirrors/openvz/
 Maintainer: mirrors@heanet.ie
 Country: ie
@@ -1009,7 +963,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: ftp.ticklers.org/openvz/
-OVZ-ftp: ftp.ticklers.org/openvz/
 Maintainer: Alister Winfield <alister@ticklers.org>
 Country: uk
 Location:
@@ -1022,7 +975,6 @@ State: Enabled
 Site: muzzy.it
 Type: Secondary
 OVZ-http: mirrors.muzzy.it/openvz/
-OVZ-ftp: mirrors.muzzy.it/openvz/
 Maintainer: mirrors@muzzy.it
 Country: it
 Location: Rome, Italy
@@ -1036,7 +988,6 @@ Reason: mirrors are not available
 Site: muzzy.it
 Type: Secondary
 OVZ-http: mirrors.muzzy.org.uk/openvz/
-OVZ-ftp: mirrors.muzzy.org.uk/openvz/
 Maintainer: mirrors@muzzy.it
 Country: uk
 Location: London, UK
@@ -1074,7 +1025,6 @@ State: Enabled
 Site: www.jmu.edu
 Type: Secondary
 OVZ-http: mirror.jmu.edu/pub/openvz/
-OVZ-ftp: mirror.jmu.edu/pub/openvz/
 Maintainer: mirrormaster@jmu.edu
 Country: us
 Location: Madison University, Harrisonburg, Virginia, USA
@@ -1087,7 +1037,6 @@ State: Enabled
 Site: www.nluug.nl
 Type: Secondary
 OVZ-http: ftp.nluug.nl/pub/os/openvz/
-OVZ-ftp: ftp.nluug.nl/pub/os/openvz/
 OVZ-rsync: ftp.nluug.nl/openvz/
 Maintainer: ftpmirror-beheer@nluug.nl, ftpmirror-admin@nluug.nl
 Country: nl
@@ -1113,7 +1062,6 @@ State: Enabled
 Site: www.nsu.ru
 Type: Secondary
 OVZ-http: linux.nsu.ru/openvz/
-OVZ-ftp: linux.nsu.ru/openvz/
 OVZ-rsync: linux.nsu.ru/openvz/
 Maintainer: noc@nsu.ru
 Country: ru
@@ -1140,7 +1088,6 @@ State: Enabled
 Site: lagoon.nc
 Type: Secondary
 OVZ-http: mirror.lagoon.nc/pub/openvz/
-OVZ-ftp: mirror.lagoon.nc/pub/openvz/
 OVZ-rsync: mirror.lagoon.nc/pub/openvz/
 Maintainer: tech@offratel.net, Sebastien.Clemenceau@offratel.net
 Country: nc
@@ -1155,10 +1102,8 @@ Reason: Sites are unreachable via http, ftp, rsync
 Site:
 Type: Secondary
 OVZ-http: ftp.linux.cz/pub/linux/openvz/
-OVZ-ftp: ftp.linux.cz/pub/linux/openvz/
 OVZ-rsync: ftp.linux.cz/pub/linux/openvz/
 OVZ-http: ftp.fi.muni.cz/pub/linux/openvz/
-OVZ-ftp: ftp.fi.muni.cz/pub/linux/openvz/
 OVZ-rsync: ftp.fi.muni.cz/pub/linux/openvz/
 Maintainer: ftp-admin@fi.muni.cz
 Country: cz
@@ -1172,9 +1117,7 @@ State: Enabled
 Site: hawo.net
 Type: Secondary
 OVZ-http: ftp.hawo.net/openvz/
-OVZ-ftp: ftp.hawo.net/openvz/
 OVZ-http: ftp.hawo.stw.uni-erlangen.de/openvz/
-OVZ-ftp: ftp.hawo.stw.uni-erlangen.de/openvz/
 Maintainer: HaWo Netzteam <noc@hawo.net>
 Country: de
 Location:
@@ -1200,7 +1143,6 @@ State: Disabled
 Site: cogentco.com
 Type: Secondary
 OVZ-http: mirror.cogentco.com/openvz/
-OVZ-ftp: mirror.cogentco.com/openvz/
 OVZ-rsync: mirror.cogentco.com/openvz/
 Maintainer: mirror-admin@cogentco.com
 Country: us
@@ -1214,7 +1156,6 @@ State: Enabled
 Site: rise.ph
 Type: Secondary
 OVZ-http: mirror.rise.ph/openvz/
-OVZ-ftp: mirror.rise.ph/openvz/
 Maintainer: noc@rise.ph
 Country: ph
 Location: Cebu, Philippines
@@ -1227,7 +1168,6 @@ State: Enabled
 Site: www.saix.net
 Type: Secondary
 OVZ-http: openvz.saix.net/
-OVZ-ftp: ftp.saix.net/pub/openvz/
 Maintainer: Jaco Lesch <jacol@saix.net>, ftp@saix.net
 Country: za
 Location: Parow, Western Cape, South Africa, Africa
@@ -1264,7 +1204,6 @@ State: Enabled
 
 Site: ftp.fau.de
 OVZ-http: ftp.fau.de/openvz/
-OVZ-ftp: ftp.fau.de/openvz/
 OVZ-rsync: ftp.fau.de/openvz/
 Maintainer: rrze-ftp-admins@fau.de
 Country: de
@@ -1277,7 +1216,6 @@ State: Enabled
 
 Site: www.vutbr.cz
 OVZ-http: mirror.vutbr.cz/openvz/
-OVZ-ftp: mirror.vutbr.cz/openvz/
 OVZ-rsync: mirror.vutbr.cz/openvz/
 Maintainer: Pavel Kislinger <kislinger@owl.cis.vutbr.cz>, mirror-adm@cis.vutbr.cz
 Country: cz
@@ -1290,7 +1228,6 @@ State: Enabled
 
 Site: www2.cuhk.edu.hk/gss/
 OVZ-http: ftp.cuhk.edu.hk/pub/Linux/openvz/
-OVZ-ftp: ftp.cuhk.edu.hk/pub/Linux/openvz/
 Maintainer: ftp-admin@ftp.cuhk.edu.hk
 Country: hk
 Location: Hong Kong, Hong Kong SAR, China, Asia
@@ -1303,7 +1240,6 @@ State: Enabled
 
 Site: www.lip6.fr
 OVZ-http: ftp.lip6.fr/pub/linux/distributions/openvz/
-OVZ-ftp: ftp.lip6.fr/pub/linux/distributions/openvz/
 Maintainer: Manuel Bouyer <bouyer@antioche.eu.org>
 Country: fr
 Location: France, Paris
@@ -1315,7 +1251,6 @@ State: Enabled
 
 Site: bytemark.co.uk
 OVZ-http: mirror.bytemark.co.uk/openvz/
-OVZ-ftp: mirror.bytemark.co.uk/openvz/
 OVZ-rsync: mirror.bytemark.co.uk/openvz/
 Maintainer: mirrors@bytemark.co.uk
 Country: uk
@@ -1328,7 +1263,6 @@ State: Enabled
 
 Site: linorg.usp.br
 OVZ-http: linorg.usp.br/openvz/
-OVZ-ftp: linorg.usp.br/openvz/
 OVZ-rsync: linorg.usp.br/openvz
 Maintainer: linorg@usp.br
 Country: br
@@ -1342,7 +1276,6 @@ State: Enabled
 Site: ftp.riken.jp
 Type: Secondary
 OVZ-http: ftp.riken.jp/Linux/openvz/
-OVZ-ftp: ftp.riken.jp/Linux/openvz/
 OVZ-rsync: ftp.riken.jp/openvz/
 Maintainer: ftp-admin@ftp.riken.jp
 Country: jp
@@ -1356,7 +1289,6 @@ State: Enabled
 Site: cc.uoc.gr
 Type: Secondary
 OVZ-http: ftp.cc.uoc.gr/mirrors/openvz/
-OVZ-ftp: ftp.cc.uoc.gr/mirrors/openvz/
 Maintainer: mirrors@cc.uoc.gr
 Country: gr
 Location: Heraklion, Crete, Greece
@@ -1369,7 +1301,6 @@ State: Enabled
 Site: www.optus.com.au
 Type: Secondary
 OVZ-http: mirror.optusnet.com.au/openvz/
-OVZ-ftp: mirror.optusnet.com.au/openvz/
 Maintainer: mirror@staff.optusnet.com.au
 Country: au
 Location: Sydney, Australia
@@ -1382,7 +1313,6 @@ State: Enabled
 Site: artfiles.org
 Type: Secondary
 OVZ-http: artfiles.org/openvz.org/
-OVZ-ftp: artfiles.org/openvz.org/
 Maintainer: mirror@artfiles.org
 Country: de
 Location: Hamburg, Germany
@@ -1395,7 +1325,6 @@ State: Enabled
 Site: wanxp.id
 Type: Secondary
 OVZ-http: mirror.wanxp.id/openvz/
-OVZ-ftp: mirror.wanxp.id/openvz/
 OVZ-rsync: mirror.wanxp.id/openvz/
 Maintainer: mirror@wanxp.id
 Country: id
@@ -1409,7 +1338,6 @@ State: Enabled
 Site: osuosl.org
 Type: Secondary
 OVZ-http: ftp.osuosl.org/pub/openvz/
-OVZ-ftp: ftp.osuosl.org/pub/openvz/
 Maintainer: support@osuosl.org
 Country: us
 Location: Corvallis, Oregon, US
@@ -1422,7 +1350,6 @@ State: Disabled
 Site: www.satellite-service.ru
 Type: Secondary
 OVZ-http: mirror.satellite-service.ru/openvz/
-OVZ-ftp: mirror.satellite-service.ru/openvz/
 Maintainer: max@satellite-service.ru
 Country: ru
 Location: Berezniki, Perm region, Russia
@@ -1435,7 +1362,6 @@ State: Enabled
 Site: mirrors.nic.cz
 Type: Secondary
 OVZ-http: mirrors.nic.cz/openvz/
-OVZ-ftp: mirrors.nic.cz/pub/openvz/
 OVZ-rsync: mirrors.nic.cz/openvz/
 Maintainer: mirrors@nic.cz
 Country: cz
@@ -1473,7 +1399,6 @@ State: Enabled
 Site: jetfire.io
 Type: Secondary
 OVZ-http: openvz.jetfire.io/
-OVZ-ftp: openvz.jetfire.io/
 Maintainer: John Edel <mirror@openvz.jetfire.io>
 Country: us
 Location: Dallas, TX
@@ -1485,7 +1410,6 @@ State: Enabled
 Site: ftp.gobsd.net
 Type: Secondary
 OVZ-http: ftp.gobsd.net/pub/openvz/
-OVZ-ftp: ftp.gobsd.net/pub/openvz/
 OVZ-rsync: ftp.gobsd.net/openvz/
 Maintainer: Junho Choi (cjh@kr.freebsd.org, cjh@saturnsoft.net)
 Country: kr
@@ -1499,7 +1423,6 @@ State: Enabled
 Site: mirror.inode.at
 Type: Secondary
 OVZ-http: mirror.inode.at/openvz/
-OVZ-ftp: mirror.inode.at/openvz/
 OVZ-rsync: mirror.inode.at/openvz/
 Maintainer: mirror@inode.at
 Country: at
