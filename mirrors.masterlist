@@ -599,8 +599,8 @@ Sponsor:
 IPv6: no
 Comment: Updated hourly, link 1 Gbps
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: Outdated content for 13 days
+State: Enabled
+Reason:
 
 Site:
 Type: Secondary
@@ -842,7 +842,7 @@ Sponsor: Faculdade de Engenharia da Universidade do Porto
 IPv6: yes
 Comment: Access via ftp requires authorization
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 
 Site: www.triple-it.nl
 Type: Secondary
@@ -1137,8 +1137,8 @@ Sponsor: Aus Net Servers Australia Pty Ltd
 IPv6: yes
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-Reason: No updates for 3 days
-State: Disabled
+Reason:
+State: Enabled
 
 Site: cogentco.com
 Type: Secondary
@@ -1369,6 +1369,7 @@ Location: Prague, Czech Republic
 Sponsor: CZ.NIC
 IPv6: yes
 Comment: 10Gbps connection, updated every 6 hours
+State: Enabled
 Master-site: eu.download.openvz.org
 
 Site: vhost.vn
@@ -1381,8 +1382,8 @@ Sponsor: vHost
 IPv6: no
 Comment: Update frequency daily
 Master-site: eu.download.openvz.org
-State: Disabled
-Reason: not available
+State: Enabled
+Reason:
 
 Site: nhanhoa.com
 Type: Secondary
