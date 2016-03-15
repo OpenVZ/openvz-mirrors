@@ -1432,3 +1432,15 @@ Sponsor: UPC
 IPv6: yes
 Comment: Hourly updates
 State: Enabled
+
+Site: is.co.za
+OVZ-http: mirror.is.co.za/openvz/
+OVZ-rsync: mirror.is.co.za/mirror/openvz.org/
+Maintainer: ftpadmin@is.co.za
+Country: za
+Location: Johannesburg, Gauteng, South Africa
+Sponsor: Internet Solutions
+IPv6: no
+Comment: 1GB connection, updated hourly
+Master eu.download.openvz.org
+State: Disabled
