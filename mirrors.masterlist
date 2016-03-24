@@ -1437,6 +1437,7 @@ Comment: Hourly updates
 State: Enabled
 
 Site: is.co.za
+Type: Secondary
 OVZ-http: mirror.is.co.za/openvz/
 OVZ-rsync: mirror.is.co.za/mirror/openvz.org/
 Maintainer: ftpadmin@is.co.za
@@ -1446,4 +1447,15 @@ Sponsor: Internet Solutions
 IPv6: no
 Comment: 1GB connection, updated hourly
 Master eu.download.openvz.org
+State: Enabled
+
+Site: www.VPSnet.lt
+Type: Secondary
+OVZ-http: openvz.vpsnet.lt/openvz/
+Maintainer: jonas@esnet.lt
+Country: LT
+Location: Vilnius
+Sponsor: UAB Esnet - VPSnet.lt
+IPv6: yes
+Comment: Update frequency is twice daily
 State: Enabled
