@@ -475,7 +475,7 @@ Sponsor:
 IPv6: yes
 Comment: Updated hourly
 Master-site: eu.download.openvz.org
-State: Disabled
+State: Enabled
 Reason: mirror isn't available via http
 
 Site:
@@ -984,7 +984,7 @@ Sponsor:
 IPv6: no
 Comment: Hourly updates
 Master-site: eu.download.openvz.org
-State: Disabled
+State: Enabled
 Reason: mirrors are not available
 
 Site: muzzy.it
@@ -997,7 +997,7 @@ Sponsor:
 IPv6: no
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 Reason: mirrors are not available
 
 Site: gigenet.com
