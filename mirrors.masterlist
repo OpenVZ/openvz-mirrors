@@ -1434,6 +1434,7 @@ Location: Vienna, Austria
 Sponsor: UPC
 IPv6: yes
 Comment: Hourly updates
+Master-site: eu.download.openvz.org
 State: Enabled
 
 Site: is.co.za
@@ -1446,7 +1447,7 @@ Location: Johannesburg, Gauteng, South Africa
 Sponsor: Internet Solutions
 IPv6: no
 Comment: 1GB connection, updated hourly
-Master eu.download.openvz.org
+Masters-site: eu.download.openvz.org
 State: Enabled
 
 Site: www.VPSnet.lt
@@ -1458,4 +1459,5 @@ Location: Vilnius
 Sponsor: UAB Esnet - VPSnet.lt
 IPv6: yes
 Comment: Update frequency is twice daily
+Master-site: eu.download.openvz.org
 State: Enabled
