@@ -147,8 +147,8 @@ Sponsor: Ubiquity Servers
 IPv6: no
 Comment:
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: DISABLED Jul 1 2013
+State: Disabled
+Reason: no updates for 90 days
 
 Site: tsukuba.wide.ad.jp
 Type: Secondary
@@ -363,7 +363,8 @@ Sponsor: DIGIPOWER Co.,ltd
 IPv6: no
 Comment: Updated 2 times a day
 Master-site: us.download.openvz.org
-State: Enabled
+Reason: no updates for 30 days
+State: Disabled
 
 Site: tocici.com
 Type: Secondary
@@ -376,7 +377,8 @@ IPv6: yes
 Comment: Updated every four hours, with a randomized start time. Two 1Gbps uplinks leveraging dual-stack IPv4/IPv6.
 Reason:
 Master-site: us.download.openvz.org
-State: Enabled
+Reason: no updates for 13 days
+State: Disabled
 
 Site:
 Type: Secondary
@@ -471,7 +473,7 @@ OVZ-rsync: mirror.vpsfree.cz/openvz/
 Maintainer: ovzmirror@mrkva.eu
 Country: cz
 Location: Czech, Prague
-Sponsor:
+Sponsor: vpsFree
 IPv6: yes
 Comment: Updated hourly
 Master-site: eu.download.openvz.org
@@ -588,7 +590,8 @@ Sponsor:
 IPv6: yes
 Comment: Updated hourly
 Master-site: us.download.openvz.org
-State: Enabled
+Reason: no updates for three days
+State: Disabled
 
 Site: nexcess.net
 Type: Secondary
@@ -1098,8 +1101,8 @@ Sponsor: L@goon
 IPv6: no
 Comment: 1 Gb/s
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: Sites are unreachable via http, ftp, rsync
+State: Disabled
+Reason: Sites are unreachable via http and rsync
 
 Site:
 Type: Secondary
@@ -1177,7 +1180,8 @@ Sponsor: Telkom SA
 IPv6: no
 Comment: Update every 3 hours, bandwidth 1 Gbps
 Master-site: us.download.openvz.org
-State: Enabled
+Reason: no updates for four days
+State: Disabled
 
 Site: ukhost4u.com
 Type: Secondary
@@ -1327,7 +1331,6 @@ State: Enabled
 Site: wanxp.id
 Type: Secondary
 OVZ-http: mirror.wanxp.id/openvz/
-OVZ-rsync: mirror.wanxp.id/openvz/
 Maintainer: mirror@wanxp.id
 Country: id
 Location: Riau, Indonesia
@@ -1467,7 +1470,7 @@ Type: Secondary
 OVZ-http: mirrors.evowise.com/openvz/
 Maintainer: admin@evowise.com
 Country: Madrid, Spain
-Location: Worldwide CDN
+Location: es
 Sponsor: Evowise
 IPv6: No
 Comment: sync once per hour
