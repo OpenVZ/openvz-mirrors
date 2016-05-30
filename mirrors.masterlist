@@ -1461,3 +1461,15 @@ IPv6: yes
 Comment: Update frequency is twice daily
 Master-site: eu.download.openvz.org
 State: Enabled
+
+Site: www.evowise.com
+Type: Secondary
+OVZ-http: mirrors.evowise.com/openvz/
+Maintainer: admin@evowise.com
+Country: Madrid, Spain
+Location: Worldwide CDN
+Sponsor: Evowise
+IPv6: No
+Comment: sync once per hour
+Master-site: eu.download.openvz.org
+State: Disabled
