@@ -1476,3 +1476,14 @@ IPv6: No
 Comment: sync once per hour
 Master-site: eu.download.openvz.org
 State: Enabled
+
+Site: website-solution.net
+OVZ-http: openvz.website-solution.net
+Maintainer: George To <ccto@website-solution.net>
+Country: hk
+Location: Hong Kong S.A.R.
+Sponsor: Website Solution Limited
+IPv6: No
+Comment: 1Gbps connection to HKIX, updated hourly (@38th minute)
+Master site: download.openvz.org
+State: Disabled
