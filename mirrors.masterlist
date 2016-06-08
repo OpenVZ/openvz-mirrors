@@ -1457,7 +1457,7 @@ Site: www.VPSnet.lt
 Type: Secondary
 OVZ-http: openvz.vpsnet.lt/openvz/
 Maintainer: jonas@esnet.lt
-Country: LT
+Country: lt
 Location: Vilnius
 Sponsor: UAB Esnet - VPSnet.lt
 IPv6: yes
@@ -1469,8 +1469,8 @@ Site: www.evowise.com
 Type: Secondary
 OVZ-http: mirrors.evowise.com/openvz/
 Maintainer: admin@evowise.com
-Country: Madrid, Spain
-Location: es
+Country: es
+Location: Madrid, Spain
 Sponsor: Evowise
 IPv6: No
 Comment: sync once per hour
