@@ -1075,7 +1075,8 @@ Sponsor: Novosibirsk National Research State University
 IPv6: no
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Enabled
+Reason: 404 Not Found
+State: Disabled
 
 Site: www.hs-esslingen.de
 Type: Secondary
