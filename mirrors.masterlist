@@ -1488,3 +1488,15 @@ IPv6: No
 Comment: 1Gbps connection to HKIX, updated hourly (@38th minute)
 Master site: download.openvz.org
 State: Enabled
+
+Site: ftp.tudelft.nl
+Type: Secondary
+OVZ-http: ftp.tudelft.nl/OpenVZ/
+Maintainer: ftpadmin@tudelft.nl
+Country: nl
+Location: Mekelweg 2, 2628 CD, Delft, ZH, NL
+Sponsor: Delft University of Technology
+IPv6: no
+Comment: Update frequency is four times daily
+Master site: download.openvz.org
+State: Disabled
