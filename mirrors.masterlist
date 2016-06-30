@@ -108,7 +108,8 @@ Sponsor:
 IPv6: no
 Comment: 1Gbit/s uplink, updated every 4 hours.
 Master-site: us.download.openvz.org
-State: Enabled
+Reason: 404 not found
+State: Disabled
 
 Site:
 Type: Secondary
@@ -378,7 +379,7 @@ Comment: Updated every four hours, with a randomized start time. Two 1Gbps uplin
 Reason:
 Master-site: us.download.openvz.org
 Reason: no updates for 13 days
-State: Disabled
+State: Enabled
 
 Site:
 Type: Secondary
@@ -629,7 +630,8 @@ Sponsor: DATAUTAMA-NET-ID
 IPv6: yes
 Comment: every 4 hours
 Master-site: us.download.openvz.org
-State: Enabled
+Reason: outdated for 3 days
+State: Disabled
 
 Site: netix.net
 Type: Secondary
@@ -1303,7 +1305,8 @@ Sponsor: University of Crete / Computer Center
 IPv6: yes
 Comment: bandwidth 1Gbps, updates every four hours
 Master-site: eu.download.openvz.org
-State: Enabled
+Reason: outdated for 3 days
+State: Disabled
 
 Site: www.optus.com.au
 Type: Secondary
@@ -1499,4 +1502,4 @@ Sponsor: Delft University of Technology
 IPv6: no
 Comment: Update frequency is four times daily
 Master site: download.openvz.org
-State: Disabled
+State: Enabled
