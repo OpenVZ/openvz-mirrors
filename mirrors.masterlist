@@ -109,7 +109,7 @@ IPv6: no
 Comment: 1Gbit/s uplink, updated every 4 hours.
 Master-site: us.download.openvz.org
 Reason: 404 not found
-State: Disabled
+State: Enabled
 
 Site:
 Type: Secondary
@@ -287,7 +287,7 @@ Sponsor:
 IPv6: yes
 Comment: Updated every 2 hours
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 Reason: Outdated for 3 days
 
 Site:
@@ -1184,7 +1184,7 @@ IPv6: no
 Comment: Update every 3 hours, bandwidth 1 Gbps
 Master-site: us.download.openvz.org
 Reason: no updates for four days
-State: Disabled
+State: Enabled
 
 Site: ukhost4u.com
 Type: Secondary
