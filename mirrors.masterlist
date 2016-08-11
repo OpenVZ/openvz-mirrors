@@ -1503,3 +1503,15 @@ IPv6: no
 Comment: Update frequency is four times daily
 Master site: download.openvz.org
 State: Enabled
+
+Site: mirrors.dotsrc.org
+Type: Secondary
+OVZ-http: mirrors.dotsrc.org/openvz/
+OVZ-ftp: mirrors.dotsrc.org/openvz/
+OVZ-rsync: mirrors.dotsrc.org/openvz/
+Maintainer: dotsrc.org staff <staff@dotsrc.org>
+Country: dk
+Location: Aalborg, Denmark
+IPv6: yes
+Comment: 1Gbps connection, updated every hour
+State: Enabled
