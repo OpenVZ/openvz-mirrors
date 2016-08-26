@@ -631,7 +631,7 @@ IPv6: yes
 Comment: every 4 hours
 Master-site: us.download.openvz.org
 Reason: outdated for 3 days
-State: Disabled
+State: Enabled
 
 Site: netix.net
 Type: Secondary
@@ -1306,7 +1306,7 @@ IPv6: yes
 Comment: bandwidth 1Gbps, updates every four hours
 Master-site: eu.download.openvz.org
 Reason: outdated for 3 days
-State: Disabled
+State: Enabled
 
 Site: www.optus.com.au
 Type: Secondary
