@@ -1515,3 +1515,15 @@ Location: Aalborg, Denmark
 IPv6: yes
 Comment: 1Gbps connection, updated every hour
 State: Enabled
+
+Site: cicku.me
+Type: Secondary
+OVZ-https: mirrors.cicku.me/openvz
+OVZ-http: mirrors.cicku.me/openvz
+Maintainer: Christopher Meng <mirrors@cicku.me>
+Country: DE
+Location: Falkenstein/Vogtland, Germany
+Sponsor: CICKU
+IPv6: yes
+Comment: 30 */1 * * *
+State: Enabled
