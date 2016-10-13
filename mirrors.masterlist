@@ -979,32 +979,6 @@ Comment:
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: muzzy.it
-Type: Secondary
-OVZ-http: mirrors.muzzy.it/openvz/
-Maintainer: mirrors@muzzy.it
-Country: it
-Location: Rome, Italy
-Sponsor:
-IPv6: no
-Comment: Hourly updates
-Master-site: eu.download.openvz.org
-State: Enabled
-Reason: mirrors are not available
-
-Site: muzzy.it
-Type: Secondary
-OVZ-http: mirrors.muzzy.org.uk/openvz/
-Maintainer: mirrors@muzzy.it
-Country: uk
-Location: London, UK
-Sponsor:
-IPv6: no
-Comment: Hourly updates
-Master-site: us.download.openvz.org
-State: Enabled
-Reason: mirrors are not available
-
 Site: gigenet.com
 Type: Secondary
 OVZ-http: mirrors.gigenet.com/openvz/
