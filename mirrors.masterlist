@@ -10,18 +10,6 @@ IPv6: yes
 Comment: Master site
 State: Enabled
 
-Site: eu.download.openvz.org
-Type: Master
-OVZ-https: eu.download.openvz.org/
-OVZ-rsync: eu.download.openvz.org/openvz-download/
-Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
-Country: ch
-Location:
-Sponsor: Virtuozzo
-IPv6: yes
-Comment: Master site
-State: Enabled
-
 Site: 
 Type: Secondary
 OVZ-http: openvz.mirrors.skynet.be/pub/openvz.org/
@@ -94,7 +82,7 @@ Location: Romania, Bucharest
 Sponsor:
 IPv6: no
 Comment: Speeds up to 100Mbps from outside country, up to 1Gbps within Romania
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 Reason: 404 Not Found
 
@@ -198,7 +186,7 @@ Location: Lithuania, Šiauliai
 Sponsor:
 IPv6: no
 Comment: Updated every two hours
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site:
@@ -223,7 +211,7 @@ Location: Belarus, Minsk
 Sponsor: RUE Beltelecom
 IPv6: no
 Comment: 2Gbps, @hourly
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 Reason: SAN/Storage outage, disabled as agreed with contact person
 
@@ -274,7 +262,7 @@ Location: Germany
 Sponsor: Softaculous
 IPv6: no
 Comment: Update frequency - once per hour
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: FDCServers.net
@@ -414,7 +402,7 @@ Location: Ukraine, Kiev
 Sponsor: Mirohost Data Center
 IPv6: yes
 Comment: Updated every hour
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site:
@@ -426,7 +414,7 @@ Location: Lithuania, Vilnius
 Sponsor: Interneto Vizija
 IPv6: no
 Comment: Updated hourly
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site:
@@ -477,7 +465,7 @@ Location: Czech, Prague
 Sponsor: vpsFree
 IPv6: yes
 Comment: Updated hourly
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 Reason: mirror isn't available via http
 
@@ -540,7 +528,7 @@ Location: UK, London
 Sponsor:
 IPv6: no
 Comment: 1 Gbps Uplink, updated hourly, RAID 10 SSD based
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site:
@@ -578,7 +566,7 @@ Location: Paris, France
 Sponsor:
 IPv6: no
 Comment: 1000 mbit, 150mbit guaranteed, updated hourly
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: slaskdatacenter.pl
@@ -656,7 +644,7 @@ Location: Belarus, Minsk
 Sponsor: Byfly
 IPv6: no
 Comment:
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site:
@@ -669,7 +657,7 @@ Location: Slovenia
 Sponsor: Arnes
 IPv6: yes
 Comment: Bandwidth - 1Gbps
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.hosteurope.de
@@ -721,7 +709,7 @@ Location: Chisinau, Republic of Moldova
 Sponsor: Trabia Network
 IPv6: yes
 Comment: Update frequency: each hour
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.23media.de
@@ -733,7 +721,7 @@ Location: Frankfurt, Hessen, Germany, Europe
 Sponsor: 23Media
 IPv6: yes
 Comment:
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 Reason:
 State: Enabled
 
@@ -747,7 +735,7 @@ Location: Moscow, Russian Federation
 Sponsor: WEB DESK LLC
 IPv6: no
 Comment: Updated every 30 minutes; 100 mbps connection limit, in a Gbits network
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.h1host.ru
@@ -823,7 +811,7 @@ Location: Russia, Moscow
 Sponsor: Rinet
 IPv6: no
 Comment:
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.icm.edu.pl
@@ -836,7 +824,7 @@ Location: Polska, Warszawa
 Sponsor: ICM UW (Interdisciplinary Centre for Modelling, Warsaw University)
 IPv6: yes
 Comment: The server has 10 Gbps connection and serves 43 TB of data currently.
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: sigarra.up.pt
@@ -861,7 +849,7 @@ Location: The Netherlands, Noord-Holland, Amsterdam
 Sponsor: Triple IT
 IPv6: yes
 Comment: Updates every hour on the 40st minute, the mirror server has 8TB of storage, and is connected to 2GBPS uplink.
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.garr.it
@@ -926,7 +914,7 @@ Location: Roubaix, France
 Sponsor: OVH
 IPv6: yes
 Comment: It's connected with 1Gbit, IPv4 + IPv6 available, ftp, http, rsync available.
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: Reg.ru
@@ -938,7 +926,7 @@ Location: Russia, Moscow
 Sponsor: Reg.ru
 IPv6: no
 Comment: frequency of updates: every 60 min
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.digitalpacific.com.au
@@ -964,7 +952,7 @@ Location: Dublin, Ireland
 Sponsor: HEAnet, Ireland's National Research & Education Network
 IPv6: yes
 Comment: Hourly updates
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site:
@@ -1025,7 +1013,7 @@ Location: Amsterdam, Netherlands
 Sponsor: Dutch Unix Users Group NLUUG
 IPv6: yes
 Comment: 4.0 Gb/s, http://ftp.nluug.nl/.statistics/
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: zetup.net
@@ -1037,7 +1025,7 @@ Location: Trollhättan, Sweden
 Sponsor: Zetup
 IPv6: no
 Comment: Hourly updates
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.nsu.ru
@@ -1064,7 +1052,7 @@ Location: Esslingen, Germany
 Sponsor: Hochschule Esslingen University of Applied Sciences
 IPv6: no
 Comment: Updated every hour. The mirror is connected to the Internet with 10 Gbit/s.
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: lagoon.nc
@@ -1093,7 +1081,7 @@ Location: Czech Republic, Brno
 Sponsor:
 IPv6: yes
 Comment: Hourly updates
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: hawo.net
@@ -1106,7 +1094,7 @@ Location:
 Sponsor:
 IPv6: yes
 Comment: Hourly updates
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.ausnetservers.com.au
@@ -1194,7 +1182,7 @@ Location: Erlangen, Germany
 Sponsor: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 IPv6: yes
 Comment: 5Gbit connection via DFN
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.vutbr.cz
@@ -1229,7 +1217,7 @@ Location: France, Paris
 Sponsor: Université Pierre et Marie Curie, Laboratoire d'informatique de Paris 6
 IPv6: no
 Comment:
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: bytemark.co.uk
@@ -1278,7 +1266,7 @@ Location: Heraklion, Crete, Greece
 Sponsor: University of Crete / Computer Center
 IPv6: yes
 Comment: bandwidth 1Gbps, updates every four hours
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 Reason: outdated for 3 days
 State: Enabled
 
@@ -1303,7 +1291,7 @@ Location: Hamburg, Germany
 Sponsor: Artfiles New Media GmbH
 IPv6: yes
 Comment: 1GB connection, updated daily
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: wanxp.id
@@ -1353,7 +1341,7 @@ Sponsor: CZ.NIC
 IPv6: yes
 Comment: 10Gbps connection, updated every 6 hours
 State: Enabled
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 
 Site: vhost.vn
 Type: Secondary
@@ -1364,7 +1352,7 @@ Location: Ho Chi Minh City, VietNam
 Sponsor: vHost
 IPv6: no
 Comment: Update frequency daily
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 Reason:
 
@@ -1377,7 +1365,7 @@ Location: Ha Noi, Vietnam
 Sponsor: Nhan Hoa Co., Ltd
 IPv6: no
 Comment: updates every 8 hours
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: jetfire.io
@@ -1415,7 +1403,7 @@ Location: Vienna, Austria
 Sponsor: UPC
 IPv6: yes
 Comment: Hourly updates
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: is.co.za
@@ -1428,7 +1416,7 @@ Location: Johannesburg, Gauteng, South Africa
 Sponsor: Internet Solutions
 IPv6: no
 Comment: 1GB connection, updated hourly
-Masters-site: eu.download.openvz.org
+Masters-site: us.download.openvz.org
 State: Enabled
 
 Site: www.VPSnet.lt
@@ -1440,7 +1428,7 @@ Location: Vilnius
 Sponsor: UAB Esnet - VPSnet.lt
 IPv6: yes
 Comment: Update frequency is twice daily
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: www.evowise.com
@@ -1452,7 +1440,7 @@ Location: Madrid, Spain
 Sponsor: Evowise
 IPv6: No
 Comment: sync once per hour
-Master-site: eu.download.openvz.org
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: website-solution.net
@@ -1488,6 +1476,7 @@ Country: dk
 Location: Aalborg, Denmark
 IPv6: yes
 Comment: 1Gbps connection, updated every hour
+Master-site: us.download.openvz.org
 State: Enabled
 
 Site: cicku.me
