@@ -408,7 +408,7 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: openvz.mirror.serveriai.lt/
-Maintainer: Arūnas Ulinskas <arunas.u@iv.lt>
+Maintainer: admin@iv.lt
 Country: lt
 Location: Lithuania, Vilnius
 Sponsor: Interneto Vizija
