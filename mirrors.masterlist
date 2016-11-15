@@ -1444,7 +1444,7 @@ Master-site: us.download.openvz.org
 State: Enabled
 
 Site: website-solution.net
-OVZ-http: openvz.website-solution.net
+OVZ-http: openvz.website-solution.net/
 Maintainer: George To <ccto@website-solution.net>
 Country: hk
 Location: Hong Kong S.A.R.
@@ -1481,8 +1481,8 @@ State: Enabled
 
 Site: cicku.me
 Type: Secondary
-OVZ-https: mirrors.cicku.me/openvz
-OVZ-http: mirrors.cicku.me/openvz
+OVZ-https: mirrors.cicku.me/openvz/
+OVZ-http: mirrors.cicku.me/openvz/
 Maintainer: Christopher Meng <mirrors@cicku.me>
 Country: de
 Location: Falkenstein/Vogtland, Germany
