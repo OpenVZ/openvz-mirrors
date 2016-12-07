@@ -1084,19 +1084,6 @@ Comment: Hourly updates
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: hawo.net
-Type: Secondary
-OVZ-http: ftp.hawo.net/openvz/
-OVZ-http: ftp.hawo.stw.uni-erlangen.de/openvz/
-Maintainer: HaWo Netzteam <noc@hawo.net>
-Country: de
-Location:
-Sponsor:
-IPv6: yes
-Comment: Hourly updates
-Master-site: us.download.openvz.org
-State: Enabled
-
 Site: www.ausnetservers.com.au
 Type: Secondary
 OVZ-http: openvz.mirror.ausnetservers.net.au/
