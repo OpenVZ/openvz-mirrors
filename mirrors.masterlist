@@ -1477,3 +1477,15 @@ Sponsor: CICKU
 IPv6: yes
 Comment: 30 */1 * * *
 State: Enabled
+
+Site: fourdots.com
+Type: Secondary
+OVZ-https: fourdots.com/mirror/openvz/
+Maintainer: Goran Tepšić <goran.tepsic@fourdots.co>
+Country: rs
+Location: Belgrade, Serbia
+IPv6: no
+Comment: 100mbps bandwidth, updated 4 times a day
+Master-site: download.openvz.org
+State: Enabled
+
