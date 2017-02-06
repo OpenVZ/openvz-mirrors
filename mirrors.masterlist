@@ -1489,3 +1489,17 @@ Comment: 100mbps bandwidth, updated 4 times a day
 Master-site: download.openvz.org
 State: Enabled
 
+Site: klaus-uwe.me
+Type: Secondary
+OVZ-https: mirror.klaus-uwe.me/openvz/
+OVZ-http: mirror.klaus-uwe.me/openvz/
+OVZ-ftp: mirror.klaus-uwe.me/openvz/
+OVZ-rsync: mirror.klaus-uwe.me/openvz/
+Maintainer: Klaus-Uwe Mitterer <mirrors@kumi.email>
+Country: at
+Location: Vienna, Austria
+Sponsor: Klaus-Uwe Mitterer
+IPv6: yes
+Comment: 1Gbps connection, updated every hour
+Master-site: eu.download.openvz.org
+State: Enabled
