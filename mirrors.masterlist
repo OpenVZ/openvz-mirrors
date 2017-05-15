@@ -738,19 +738,6 @@ Comment: Updated every 30 minutes; 100 mbps connection limit, in a Gbits network
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: www.h1host.ru
-Type: Secondary
-OVZ-http: mirror.h1host.ru/openvz/
-OVZ-rsync: mirror.h1host.ru/openvz/
-Maintainer: support@h1host.ru
-Country: ru
-Location: Russia, Moscow
-Sponsor: H1 LLC
-IPv6: yes
-Comment:
-Master-site: us.download.openvz.org
-State: Enabled
-
 Site: www.syringanetworks.net
 Type: Secondary
 OVZ-http: mirrors.syringanetworks.net/OpenVZ/
@@ -1353,17 +1340,6 @@ Sponsor: Nhan Hoa Co., Ltd
 IPv6: no
 Comment: updates every 8 hours
 Master-site: us.download.openvz.org
-State: Enabled
-
-Site: jetfire.io
-Type: Secondary
-OVZ-http: openvz.jetfire.io/
-Maintainer: John Edel <mirror@openvz.jetfire.io>
-Country: us
-Location: Dallas, TX
-IPv6: yes
-Master-site: download.openvz.org
-Comment: Updated hourly.
 State: Enabled
 
 Site: ftp.gobsd.net
