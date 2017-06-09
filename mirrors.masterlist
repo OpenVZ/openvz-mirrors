@@ -1481,7 +1481,7 @@ Master-site: download.openvz.org
 State: Enabled
 
 Site: babyname.tips
-OVZ-http: http://babyname.tips/mirrors/openvz/
+OVZ-http: babyname.tips/mirrors/openvz/
 Maintainer: Andy Antares <antaresarcturus@yahoo.com>
 Country: de
 Location: Gunzenhausen
