@@ -1452,7 +1452,7 @@ Location: Falkenstein/Vogtland, Germany
 Sponsor: CICKU
 IPv6: yes
 Comment: 30 */1 * * *
-State: Enabled
+State: Disabled
 
 Site: fourdots.com
 Type: Secondary
