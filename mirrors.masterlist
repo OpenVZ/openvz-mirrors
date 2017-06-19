@@ -1456,7 +1456,7 @@ State: Disabled
 
 Site: fourdots.com
 Type: Secondary
-OVZ-https: fourdots.com/mirror/openvz/
+OVZ-https: fourdots.com/mirror/OpenVZ/
 Maintainer: Goran Tepšić <goran.tepsic@fourdots.co>
 Country: rs
 Location: Belgrade, Serbia
