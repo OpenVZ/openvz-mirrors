@@ -852,11 +852,11 @@ Comment: Update once per hour
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: uberglobalmirror.com
+Site: melbourneitmirror.net
 Type: Secondary
-OVZ-http: openvz.uberglobalmirror.com/
-OVZ-rsync: uberglobalmirror.com/openvz/
-Maintainer: mirrors@uber.com.au
+OVZ-http: openvz.melbourneitmirror.net/
+OVZ-rsync: melbourneitmirror.net/openvz/
+Maintainer: info@melbourneitmirror.net
 Country: au
 Location: Sydney, Australia
 Sponsor: UberGlobal
