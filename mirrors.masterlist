@@ -859,7 +859,7 @@ OVZ-rsync: melbourneitmirror.net/openvz/
 Maintainer: info@melbourneitmirror.net
 Country: au
 Location: Sydney, Australia
-Sponsor: UberGlobal
+Sponsor: Melbourne IT
 IPv6: yes
 Comment: Update frequency: Hourly
 Master-site: us.download.openvz.org
