@@ -670,8 +670,7 @@ Sponsor: Host Europe
 IPv6: yes
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: mirror is empty
+State: Enabled
 
 Site: www.m247.ro
 Type: Secondary
