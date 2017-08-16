@@ -591,8 +591,8 @@ Sponsor:
 IPv6: no
 Comment: Updated hourly, link 1 Gbps
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: server was decommissioned
+State: Enabled
+Reason: Reenabled 16 Aug 2017
 
 Site:
 Type: Secondary
