@@ -75,7 +75,6 @@ State: Enabled
 Site: xservers.ro
 Type: Secondary
 OVZ-http: mirrors.xservers.ro/openvz/
-OVZ-rsync: mirrors.xservers.ro/openvz/
 Maintainer: tehnic@xservers.ro
 Country: ro
 Location: Romania, Bucharest
@@ -192,7 +191,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirror.trouble-free.net/openvz/
-OVZ-rsync: mirror.trouble-free.net/openvz/
 Maintainer: john@interserver.net
 Country: us
 Location: USA, New Jersey, Secaucus
@@ -201,6 +199,7 @@ IPv6: no
 Comment: 100 mbps, updated 3 times per day
 Master-site: us.download.openvz.org
 State: Enabled
+Reason: Disabled rsync, no time for 140 days
 
 Site:
 Type: Secondary
@@ -554,8 +553,8 @@ Sponsor:
 IPv6:
 Comment: Updated every 6 hours
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: DISABLED 7 Jan 2015: not being updated; reenabled 8 Jan 2015
+State: Disabled
+Reason: DISABLED 16 Aug 2017, no time 144 days
 
 Site: mindstudios.com
 Type: Secondary
@@ -1241,8 +1240,8 @@ Sponsor: University of Crete / Computer Center
 IPv6: yes
 Comment: bandwidth 1Gbps, updates every four hours
 Master-site: us.download.openvz.org
-Reason: outdated for 3 days
-State: Enabled
+Reason: outdated for 90 days
+State: Disabled
 
 Site: www.optus.com.au
 Type: Secondary
@@ -1392,7 +1391,8 @@ Sponsor: UAB Esnet - VPSnet.lt
 IPv6: yes
 Comment: Update frequency is twice daily
 Master-site: us.download.openvz.org
-State: Enabled
+Reason: Server not found 
+State: Disabled
 
 Site: www.evowise.com
 Type: Secondary
