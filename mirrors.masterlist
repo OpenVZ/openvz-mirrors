@@ -457,7 +457,7 @@ State: Enabled
 Site: vpsFree.cz
 Type: Secondary
 OVZ-http: mirror.vpsfree.cz/openvz/
-OVZ-rsync: mirror.vpsfree.cz/openvz/
+#OVZ-rsync: mirror.vpsfree.cz/openvz/
 Maintainer: ovzmirror@mrkva.eu
 Country: cz
 Location: Czech, Prague
@@ -466,7 +466,7 @@ IPv6: yes
 Comment: Updated hourly
 Master-site: us.download.openvz.org
 State: Enabled
-Reason: mirror isn't available via http
+Reason: rsync mirror isn't available (no time)
 
 Site:
 Type: Secondary
@@ -478,8 +478,8 @@ Sponsor: BangmodEnterprise Co., Ltd.
 IPv6: no
 Comment: Updated every hour
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: Unavailable via http protocol
+State: Disabled
+Reason: is not up-to-date last 41 days
 
 Site: maeh.org
 Type: Secondary
@@ -1120,18 +1120,6 @@ Master-site: us.download.openvz.org
 Reason: no updates for four days
 State: Enabled
 
-Site: ukhost4u.com
-Type: Secondary
-OVZ-http: mirror.ukhost4u.com/openvz/
-Maintainer: Paul Hughes <paul@ukhost4u.com>
-Country: uk
-Location: Maidenhead, UK
-Sponsor: UKHost4u
-IPv6: no
-Comment: 1GB connection updated daily
-Master-site: us.download.openvz.org
-State: Enabled
-
 Site: www.garr.it
 Type: Secondary
 OVZ-http: openvz.mirror.garr.it/mirrors/openvz/
@@ -1276,7 +1264,8 @@ Sponsor: WANXP
 IPv6: no
 Comment: Twice a day
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: 2 weeks of "no time" response
 
 Site: osuosl.org
 Type: Secondary
