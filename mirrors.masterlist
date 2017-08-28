@@ -949,7 +949,8 @@ Sponsor:
 IPv6: no
 Comment:
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: "no time" >14 days
 
 Site: gigenet.com
 Type: Secondary
@@ -985,7 +986,8 @@ Sponsor: James Madison University
 IPv6: no
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: Not updated 18 days
 
 Site: www.nluug.nl
 Type: Secondary
