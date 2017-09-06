@@ -274,8 +274,8 @@ Sponsor:
 IPv6: yes
 Comment: Updated every 2 hours
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: Outdated for 3 days
+State: Disabled
+Reason: Outdated for >18 days
 
 Site:
 Type: Secondary
