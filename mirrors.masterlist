@@ -949,8 +949,8 @@ Sponsor:
 IPv6: no
 Comment:
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: "no time" >14 days
+State: Enabled
+Reason: Repaired
 
 Site: gigenet.com
 Type: Secondary
