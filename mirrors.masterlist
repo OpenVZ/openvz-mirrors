@@ -2,7 +2,7 @@ Site: download.openvz.org
 Type: Master
 OVZ-https: download.openvz.org/
 OVZ-rsync: download.openvz.org/openvz-download/
-Maintainer: Sergey Bronnikov <sergeyb@openvz.org>
+Maintainer: Vasily Averin <vvs@openvz.org>
 Country: us
 Location: USA, Virginia, Mc Lean
 Sponsor: Virtuozzo
