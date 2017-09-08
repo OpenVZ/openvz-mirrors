@@ -590,8 +590,8 @@ Sponsor:
 IPv6: no
 Comment: Updated hourly, link 1 Gbps
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: Reenabled 16 Aug 2017
+State: Disabled
+Reason: no time >14 days
 
 Site:
 Type: Secondary
