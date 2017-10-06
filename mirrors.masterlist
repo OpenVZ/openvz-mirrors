@@ -492,7 +492,8 @@ Sponsor:
 IPv6: yes
 Comment: Updated every 4 hours
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: is not up-to-date 12+ days
 
 Site: scalabledns.com
 Type: Secondary
