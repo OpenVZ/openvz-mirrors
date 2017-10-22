@@ -287,8 +287,7 @@ Sponsor: SecureAX Pte Ltd
 IPv6: no
 Comment: Updated daily at 2359hrs GMT+8
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: Outdated for >15 days
+State: Enabled
 
 Site:
 Type: Secondary
