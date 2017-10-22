@@ -1472,6 +1472,7 @@ Master-site: download.openvz.org
 State: Enabled
 
 Site: babyname.tips
+Type: Secondary
 OVZ-http: babyname.tips/mirrors/openvz/
 Maintainer: Andy Antares <antaresarcturus@yahoo.com>
 Country: de
@@ -1482,3 +1483,16 @@ Comment: rsynced daily+
 Master-site: download.openvz.org
 State: Enabled
 
+Site: mirror.koddos.net
+Type: Secondary
+OVZ-https: mirror.koddos.net/openvz/
+OVZ-http: mirror.koddos.net/openvz/
+OVZ-rsync: mirror.koddos.net/openvz
+Maintainer: Mirror Admin <mirror@koddos.net>
+Country: nl
+Location: Dronten, Flevoland, Netherlands
+Sponsor: KoDDoS
+IPv6: yes
+Comment: Update every 6 hours
+Master-site: download.openvz.org
+State: Enabled
