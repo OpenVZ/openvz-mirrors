@@ -1371,18 +1371,17 @@ Comment: 1GB connection, updated hourly
 Masters-site: us.download.openvz.org
 State: Enabled
 
-Site: www.VPSnet.lt
+Site: www.VPSnet.com
 Type: Secondary
-OVZ-http: openvz.vpsnet.lt/openvz/
+OVZ-http: mirror.vpsnet.com/openvz/
 Maintainer: jonas@esnet.lt
 Country: lt
 Location: Vilnius
-Sponsor: UAB Esnet - VPSnet.lt
+Sponsor: UAB Esnet
 IPv6: yes
 Comment: Update frequency is twice daily
 Master-site: us.download.openvz.org
-Reason: Server not found 
-State: Disabled
+State: Enabled
 
 Site: www.evowise.com
 Type: Secondary
