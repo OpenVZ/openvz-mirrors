@@ -1106,8 +1106,7 @@ Sponsor: Rise
 IPv6: no
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: no updates >15 days
+State: Enabled
 
 Site: www.saix.net
 Type: Secondary
