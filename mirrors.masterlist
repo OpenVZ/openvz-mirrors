@@ -186,7 +186,8 @@ Sponsor:
 IPv6: no
 Comment: Updated every two hours
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: no time for 13 days
 
 Site:
 Type: Secondary
@@ -199,7 +200,6 @@ IPv6: no
 Comment: 100 mbps, updated 3 times per day
 Master-site: us.download.openvz.org
 State: Enabled
-Reason: Disabled rsync, no time for 140 days
 
 Site:
 Type: Secondary
@@ -528,7 +528,8 @@ Sponsor:
 IPv6: no
 Comment: 1 Gbps Uplink, updated hourly, RAID 10 SSD based
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: no time >16 days
 
 Site:
 Type: Secondary
@@ -540,7 +541,6 @@ Sponsor: Best Thai Host
 IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
 Master-site: us.download.openvz.org
-Reason: outdated content, no updates for 24 days
 State: Enabled
 
 Site: supremebytes.com
