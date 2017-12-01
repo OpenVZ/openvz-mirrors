@@ -18,9 +18,10 @@ Country: be
 Location: Belgium, Brussels
 Sponsor: Belgacom S.A.
 IPv6: no
-Comment: 
+Comment:
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: site not found >14 days
 
 Site: iij.ad.jp
 Type: Secondary
