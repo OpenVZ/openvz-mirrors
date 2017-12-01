@@ -187,8 +187,7 @@ Sponsor:
 IPv6: no
 Comment: Updated every two hours
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: no time for 13 days
+State: Enabled
 
 Site:
 Type: Secondary
