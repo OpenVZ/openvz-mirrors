@@ -493,9 +493,9 @@ Comment: Updated every 4 hours
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: scalabledns.com
+Site: enzu.com
 Type: Secondary
-OVZ-http: mirror2.scalabledns.com/openvz/
+OVZ-http: mirror.enzu.com/openvz/
 Maintainer: support@scalabledns.com
 Country: us
 Location: USA, California, Los Angeles
@@ -504,7 +504,6 @@ IPv6: no
 Comment: 10 Gbps Uplink, updated hourly
 Master-site: us.download.openvz.org
 State: Enabled
-Reason: DISABLED 7 Jan 2015: not working, re-enabled 8 Jan 2015 with changed URL
 
 Site: netinch.com
 Type: Secondary
