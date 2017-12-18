@@ -481,18 +481,6 @@ Master-site: us.download.openvz.org
 State: Disabled
 Reason: is not up-to-date last 41 days
 
-Site: maeh.org
-Type: Secondary
-OVZ-http: mirror.maeh.org/openvz/
-Maintainer: mirrors@maeh.org
-Country: de
-Location: Germany, Hamburg
-Sponsor:
-IPv6: yes
-Comment: Updated every 4 hours
-Master-site: us.download.openvz.org
-State: Enabled
-
 Site: enzu.com
 Type: Secondary
 OVZ-http: mirror.enzu.com/openvz/
