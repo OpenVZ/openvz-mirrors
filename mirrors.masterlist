@@ -382,7 +382,8 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: ftp.colocall.net/pub/openvz/
+OVZ-ftp: mirrors.colocall.net/openvz/
+OVZ-http: mirrors.colocall.net/openvz/
 Maintainer: mirrors@colocall.net
 Country: ua
 Location: Ukraine, Kiev
