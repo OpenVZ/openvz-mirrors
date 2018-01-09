@@ -604,8 +604,8 @@ Sponsor: DATAUTAMA-NET-ID
 IPv6: yes
 Comment: every 4 hours
 Master-site: us.download.openvz.org
-Reason: outdated for 3 days
-State: Enabled
+State: Disabled
+Reason: outdated for 26 days
 
 Site: netix.net
 Type: Secondary
@@ -1278,7 +1278,8 @@ Sponsor: Satellite-Service Ltd
 IPv6: no
 Comment: Update frequency - six times per day; 1Gbit/s to AS20485, 800Mbit/s to AS3216 and 500Mbit/s to AS12705
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: 4444 weeks of "no time" response
 
 Site: mirrors.nic.cz
 Type: Secondary
