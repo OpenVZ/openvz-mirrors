@@ -879,7 +879,6 @@ State: Enabled
 Site: www.ovh.com
 Type: Secondary
 OVZ-http: openvz.mirrors.ovh.net/openvz/
-OVZ-rsync: openvz.mirrors.ovh.net/openvz/
 Maintainer: mirror@ovh.net, Felix Krohn <felix.krohn@ovh.net>
 Country: fr
 Location: Roubaix, France
