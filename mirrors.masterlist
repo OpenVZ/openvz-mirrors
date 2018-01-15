@@ -1481,3 +1481,18 @@ IPv6: yes
 Comment: Update every 6 hours
 Master-site: download.openvz.org
 State: Enabled
+
+Site: reconn.ru
+Type: Secondary
+OVZ-http: mirror.reconn.ru/openvz/
+OVZ-rsync: mirror.reconn.ru/openvz/
+OVZ-ftp: mirror.reconn.ru/openvz/
+Maintainer: Anton Zheltyshev <a.zheltyshev@reconn.ru>
+Country: ru
+Location: Moscow, Russia
+IPv6: yes
+Sponsor: RECONN LLC
+Comment: 1Gbit connection, update hourly
+Master site: download.openvz.org
+State: Enabled
+
