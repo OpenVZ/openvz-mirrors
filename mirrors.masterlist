@@ -1154,8 +1154,8 @@ Sponsor: The Chinese University of Hong Kong
 IPv6: yes
 Comment:
 Master-site: us.download.openvz.org
-Reason:
-State: Enabled
+Reason: is not updated >13 days
+State: Disabled
 
 Site: www.lip6.fr
 OVZ-http: ftp.lip6.fr/pub/linux/distributions/openvz/
@@ -1303,8 +1303,8 @@ Sponsor: vHost
 IPv6: no
 Comment: Update frequency daily
 Master-site: us.download.openvz.org
-State: Enabled
-Reason:
+State: Disabled
+Reason: is not updated >10 days
 
 Site: nhanhoa.com
 Type: Secondary
