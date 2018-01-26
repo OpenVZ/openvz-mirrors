@@ -1154,8 +1154,8 @@ Sponsor: The Chinese University of Hong Kong
 IPv6: yes
 Comment:
 Master-site: us.download.openvz.org
-Reason: is not updated >13 days
-State: Disabled
+Reason: 
+State: Enabled
 
 Site: www.lip6.fr
 OVZ-http: ftp.lip6.fr/pub/linux/distributions/openvz/
