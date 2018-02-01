@@ -1303,8 +1303,8 @@ Sponsor: vHost
 IPv6: no
 Comment: Update frequency daily
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: is not updated >10 days
+State: Enabled
+Reason:
 
 Site: nhanhoa.com
 Type: Secondary
