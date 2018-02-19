@@ -1466,7 +1466,7 @@ Sponsor: Name Research
 IPv6: no
 Comment: rsynced daily+
 Master-site: download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: mirror.koddos.net
 Type: Secondary
