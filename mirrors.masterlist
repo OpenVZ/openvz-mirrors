@@ -1496,3 +1496,16 @@ Comment: 1Gbit connection, update hourly
 Master site: download.openvz.org
 State: Enabled
 
+Site: www.nav.ro
+Type: Secondary
+OVZ-http: mirrors.nav.ro/openvz/
+OVZ-ftp: mirrors.nav.ro/openvz/
+OVZ-rsync: mirrors.nav.ro/openvz-download/
+Maintainer: daniel@nav.ro, noc@nav.ro
+Country: Romania
+Location: Bucharest
+Sponsor: NAV Communications
+IPv6: no
+Comment: Update frequency hourly
+Master site: download.openvz.org
+State: Enabled
