@@ -1039,8 +1039,8 @@ Sponsor: L@goon
 IPv6: no
 Comment: 1 Gb/s
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: Sites are unreachable via http and rsync
+State: Enabled
+Reason: Repaired
 
 Site:
 Type: Secondary
