@@ -10,19 +10,6 @@ IPv6: yes
 Comment: Master site
 State: Enabled
 
-Site: 
-Type: Secondary
-OVZ-http: openvz.mirrors.skynet.be/pub/openvz.org/
-Maintainer: Cedric Gavage <ftp@skynet.be> 
-Country: be
-Location: Belgium, Brussels
-Sponsor: Belgacom S.A.
-IPv6: no
-Comment:
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: site not found >14 days
-
 Site: iij.ad.jp
 Type: Secondary
 OVZ-http: ftp.iij.ad.jp/pub/openvz/
@@ -531,19 +518,6 @@ Comment: 1 Gbps, updated every 4 hours
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: supremebytes.com
-Type: Secondary
-OVZ-http: mirror.supremebytes.com/openvz/
-Maintainer: Damien Burke <damien@supremebytes.com>
-Country: us
-Location: USA, California, Los Angeles
-Sponsor:
-IPv6:
-Comment: Updated every 6 hours
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: DISABLED 16 Aug 2017, no time 144 days
-
 Site: mindstudios.com
 Type: Secondary
 OVZ-http: openvz.mindstudios.com/
@@ -848,7 +822,8 @@ Sponsor: Melbourne IT
 IPv6: yes
 Comment: Update frequency: Hourly
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: not updated 15 days
 
 Site: www.fsn.hu
 Type: Secondary
@@ -1417,18 +1392,6 @@ IPv6: yes
 Comment: 1Gbps connection, updated every hour
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site: cicku.me
-Type: Secondary
-OVZ-https: mirrors.cicku.me/openvz/
-OVZ-http: mirrors.cicku.me/openvz/
-Maintainer: Christopher Meng <mirrors@cicku.me>
-Country: de
-Location: Falkenstein/Vogtland, Germany
-Sponsor: CICKU
-IPv6: yes
-Comment: 30 */1 * * *
-State: Disabled
 
 Site: fourdots.com
 Type: Secondary
