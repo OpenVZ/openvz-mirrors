@@ -1465,7 +1465,7 @@ OVZ-http: mirrors.nav.ro/openvz/
 OVZ-ftp: mirrors.nav.ro/openvz/
 OVZ-rsync: mirrors.nav.ro/openvz-download/
 Maintainer: daniel@nav.ro, noc@nav.ro
-Country: Romania
+Country: ro
 Location: Bucharest
 Sponsor: NAV Communications
 IPv6: no
