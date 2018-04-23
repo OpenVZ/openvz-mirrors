@@ -899,7 +899,8 @@ Sponsor: HEAnet, Ireland's National Research & Education Network
 IPv6: yes
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: No response last 2 weeks
 
 Site:
 Type: Secondary
