@@ -86,20 +86,6 @@ Master-site: us.download.openvz.org
 Reason: 404 not found
 State: Enabled
 
-Site:
-Type: Secondary
-OVZ-http: mirrors.sphere.ly/openvz/
-OVZ-rsync: mirrors.sphere.ly/openvz/
-Maintainer: mirrors@sphere.ly
-Country: us
-Location: USA, Texas, Dallas
-Sponsor: Spherely LLC
-IPv6: no
-Comment: Updated hourly, 1 Gbps link
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: mirror is unavailable via http and ftp
-
 Site: Ircam.fr
 Type: Secondary
 OVZ-http: mirrors.ircam.fr/openvz/
@@ -493,19 +479,6 @@ Comment:
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: cenexo.com
-Type: Secondary
-OVZ-http: mirror.lon.cenexo.com/openvz/
-Maintainer: hostmaster@nodeload.net
-Country: uk
-Location: UK, London
-Sponsor:
-IPv6: no
-Comment: 1 Gbps Uplink, updated hourly, RAID 10 SSD based
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: no time >16 days
-
 Site:
 Type: Secondary
 OVZ-http: mirrors.bestthaihost.com/openvz/
@@ -542,19 +515,6 @@ Comment: Updated hourly
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: nexcess.net
-Type: Secondary
-OVZ-http: mirror.nexcess.net/openvz/
-Maintainer: mirroradmin@nexcess.net
-Country: us
-Location: USA, Michigan, Southfield
-Sponsor:
-IPv6: no
-Comment: Updated hourly, link 1 Gbps
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: no time >14 days
-
 Site:
 Type: Secondary
 OVZ-http: ftp.yzu.edu.tw/openvz/
@@ -567,19 +527,6 @@ IPv6: no
 Comment: Update 4 times per day
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site:
-Type: Secondary
-OVZ-http: kartolo.sby.datautama.net.id/openvz/
-Maintainer: Nurdiansyah Prahutama <mirrors-admin@sby.datautama.net.id>
-Country: id
-Location: Surabaya, East java, Indonesia
-Sponsor: DATAUTAMA-NET-ID
-IPv6: yes
-Comment: every 4 hours
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: outdated for 26 days
 
 Site: netix.net
 Type: Secondary
@@ -709,18 +656,6 @@ IPv6: yes
 Comment:
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site: www.ukhost4u.com
-Type: Secondary
-OVZ-http: mirror.ukhost4u.com/openvz/
-Maintainer: Paul Hughes <paul@ukhost4u.com>
-Country: uk
-Location: Edinburgh, United Kingdom
-Sponsor: UKHost4U
-IPv6: no
-Comment:
-Master-site: us.download.openvz.org
-State: Disabled
 
 Site: www.checkdomain.de
 Type: Secondary
@@ -977,20 +912,6 @@ Comment: Hourly updates
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: www.nsu.ru
-Type: Secondary
-OVZ-http: linux.nsu.ru/openvz/
-OVZ-rsync: linux.nsu.ru/openvz/
-Maintainer: noc@nsu.ru
-Country: ru
-Location: Russian Federation, Novosibirsk
-Sponsor: Novosibirsk National Research State University
-IPv6: no
-Comment: Hourly updates
-Master-site: us.download.openvz.org
-Reason: 404 Not Found
-State: Disabled
-
 Site: www.hs-esslingen.de
 Type: Secondary
 OVZ-http: ftp-stud.hs-esslingen.de/pub/Mirrors/openvz/
@@ -1181,19 +1102,6 @@ Comment: Daily updates
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: cc.uoc.gr
-Type: Secondary
-OVZ-http: ftp.cc.uoc.gr/mirrors/openvz/
-Maintainer: mirrors@cc.uoc.gr
-Country: gr
-Location: Heraklion, Crete, Greece
-Sponsor: University of Crete / Computer Center
-IPv6: yes
-Comment: bandwidth 1Gbps, updates every four hours
-Master-site: us.download.openvz.org
-Reason: outdated for 90 days
-State: Disabled
-
 Site: www.optus.com.au
 Type: Secondary
 OVZ-http: mirror.optusnet.com.au/openvz/
@@ -1218,19 +1126,6 @@ Comment: 1GB connection, updated daily
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: wanxp.id
-Type: Secondary
-OVZ-http: mirror.wanxp.id/openvz/
-Maintainer: mirror@wanxp.id
-Country: id
-Location: Riau, Indonesia
-Sponsor: WANXP
-IPv6: no
-Comment: Twice a day
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: 2 weeks of "no time" response
-
 Site: osuosl.org
 Type: Secondary
 OVZ-http: ftp.osuosl.org/pub/openvz/
@@ -1242,19 +1137,6 @@ IPv6: no
 Comment: Updated hourly, mirroring only virtuozzo files
 Master-site: us.download.openvz.org
 State: Disabled
-
-Site: www.satellite-service.ru
-Type: Secondary
-OVZ-http: mirror.satellite-service.ru/openvz/
-Maintainer: max@satellite-service.ru
-Country: ru
-Location: Berezniki, Perm region, Russia
-Sponsor: Satellite-Service Ltd
-IPv6: no
-Comment: Update frequency - six times per day; 1Gbit/s to AS20485, 800Mbit/s to AS3216 and 500Mbit/s to AS12705
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: 4444 weeks of "no time" response
 
 Site: mirrors.nic.cz
 Type: Secondary
@@ -1293,20 +1175,6 @@ IPv6: no
 Comment: updates every 8 hours
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site: ftp.gobsd.net
-Type: Secondary
-OVZ-http: ftp.gobsd.net/pub/openvz/
-OVZ-rsync: ftp.gobsd.net/openvz/
-Maintainer: Junho Choi (cjh@kr.freebsd.org, cjh@saturnsoft.net)
-Country: kr
-Location: Seoul, South Korea
-Sponsor: Korea FreeBSD Users Group
-IPv6: no
-Comment: update every hour
-Master-site: download.openvz.org
-State: Disabled
-Reason: mirror isn't available
 
 Site: mirror.inode.at
 Type: Secondary
@@ -1419,18 +1287,6 @@ IPv6: yes
 Comment: 1Gbps connection, updated every hour
 Master-site: download.openvz.org
 State: Enabled
-
-Site: babyname.tips
-Type: Secondary
-OVZ-http: babyname.tips/mirrors/openvz/
-Maintainer: Andy Antares <antaresarcturus@yahoo.com>
-Country: de
-Location: Gunzenhausen
-Sponsor: Name Research
-IPv6: no
-Comment: rsynced daily+
-Master-site: download.openvz.org
-State: Disabled
 
 Site: mirror.koddos.net
 Type: Secondary
