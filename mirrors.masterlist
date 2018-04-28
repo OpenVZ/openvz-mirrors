@@ -237,19 +237,6 @@ Comment: Update frequency - once per hour
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: FDCServers.net
-Type: Secondary
-OVZ-http: mirror.fdcservers.net/openvz/
-Maintainer: mirror@fdcservers.net 
-Country: us
-Location: USA, Illinois, Chicago
-Sponsor:
-IPv6: yes
-Comment: Updated every 2 hours
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: Outdated for >18 days
-
 Site:
 Type: Secondary
 OVZ-http: mirror.secureax.com/openvz/
@@ -441,19 +428,6 @@ Comment: Updated hourly
 Master-site: us.download.openvz.org
 State: Enabled
 Reason: rsync mirror isn't available (no time)
-
-Site:
-Type: Secondary
-OVZ-http: mirrors.bangmodhosting.com/openvz/
-Maintainer: Satanun Siwaporn <satanun@bangmodhosting.com>
-Country: th
-Location: Thailand, Bangkok
-Sponsor: BangmodEnterprise Co., Ltd.
-IPv6: no
-Comment: Updated every hour
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: is not up-to-date last 41 days
 
 Site: enzu.com
 Type: Secondary
@@ -823,20 +797,6 @@ Comment: Hourly updates
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: www.heanet.ie
-Type: Secondary
-OVZ-http: ftp.heanet.ie/mirrors/openvz/
-OVZ-rsync: ftp.heanet.ie/mirrors/openvz/
-Maintainer: mirrors@heanet.ie
-Country: ie
-Location: Dublin, Ireland
-Sponsor: HEAnet, Ireland's National Research & Education Network
-IPv6: yes
-Comment: Hourly updates
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: No response last 2 weeks
-
 Site:
 Type: Secondary
 OVZ-http: ftp.ticklers.org/openvz/
@@ -873,19 +833,6 @@ IPv6: no
 Comment: Update frequency is twice daily
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site: www.jmu.edu
-Type: Secondary
-OVZ-http: mirror.jmu.edu/pub/openvz/
-Maintainer: mirrormaster@jmu.edu
-Country: us
-Location: Madison University, Harrisonburg, Virginia, USA
-Sponsor: James Madison University
-IPv6: no
-Comment: Hourly updates
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: Not updated 18 days
 
 Site: www.nluug.nl
 Type: Secondary
