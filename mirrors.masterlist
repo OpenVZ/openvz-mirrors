@@ -1233,7 +1233,8 @@ Sponsor: Klaus-Uwe Mitterer
 IPv6: yes
 Comment: 1Gbps connection, updated every hour
 Master-site: download.openvz.org
-State: Enabled
+State: Disabled
+Reason: no updates for 18+ days
 
 Site: mirror.koddos.net
 Type: Secondary
