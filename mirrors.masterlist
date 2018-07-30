@@ -260,8 +260,8 @@ Sponsor: JustHosting
 IPv6: no
 Comment: Connected at 1 Gbit link, hourly updates
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: DISABLED 7 Jan 2015: not updated; reenabled 8 Jan 2015
+State: Disabled
+Reason: not updated 47.7 days
 
 Site: HitMe.pl
 Type: Secondary
@@ -400,7 +400,8 @@ Sponsor: VinaHost Co., Ltd
 IPv6: no
 Comment: Updated hourly
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: cannot access host to check its state
 
 Site:
 Type: Secondary
@@ -937,7 +938,8 @@ Sponsor: Rise
 IPv6: no
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: not updated since 31 May 2018
 
 Site: www.saix.net
 Type: Secondary
