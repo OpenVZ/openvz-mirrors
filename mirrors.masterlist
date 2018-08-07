@@ -545,7 +545,6 @@ State: Enabled
 Site: www.hosteurope.de
 Type: Secondary
 OVZ-http: ftp.hosteurope.de/mirror/openvz/
-OVZ-rsync: ftp.hosteurope.de/openvz/
 Maintainer: mirror-admins@hosteurope.de
 Country: de
 Location: Cologne, Germany
