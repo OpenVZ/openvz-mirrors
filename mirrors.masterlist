@@ -1240,7 +1240,7 @@ Site: mirror.koddos.net
 Type: Secondary
 OVZ-https: mirror.koddos.net/openvz/
 OVZ-http: mirror.koddos.net/openvz/
-OVZ-rsync: mirror.koddos.net/openvz
+OVZ-rsync: mirror.koddos.net/openvz/
 Maintainer: Mirror Admin <mirror@koddos.net>
 Country: nl
 Location: Dronten, Flevoland, Netherlands
@@ -1249,6 +1249,20 @@ IPv6: yes
 Comment: Update every 6 hours
 Master-site: download.openvz.org
 State: Enabled
+
+Site: mirror-hk.koddos.net
+Type: Secondary
+OVZ-https: mirror-hk.koddos.net/openvz/
+OVZ-http: mirror-hk.koddos.net/openvz/
+OVZ-rsync: mirror-hk.koddos.net/openvz/
+Maintainer: Mirror Admin <mirror@koddos.net>
+Country: hk
+Location: Sha Tin, New Territories, Hong Kong
+Sponsor: KoDDoS HK
+IPv6: yes
+Comment: Update every 6 hours
+Master-site: download.openvz.org
+State: Enabled 
 
 Site: reconn.ru
 Type: Secondary
