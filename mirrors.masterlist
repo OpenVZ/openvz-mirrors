@@ -1291,3 +1291,17 @@ IPv6: no
 Comment: Update frequency hourly
 Master site: download.openvz.org
 State: Enabled
+
+Site: ftp.kr.freebsd.org
+Type: Secondary
+OVZ-http: ftp.kr.freebsd.org/pub/openvz/
+OVZ-ftp: ftp.kr.freebsd.org/pub/openvz/
+OVZ-rsync: ftp.kr.freebsd.org/openvz/
+Maintainer: admin@kr.freebsd.org, junho.choi@gmail.com
+Country: kr
+Location: Seoul, Korea
+Sponsor: CDNetworks
+IPv6: no
+Comment: Update daily
+Master site: download.openvz.org
+State: Enabled
