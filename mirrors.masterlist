@@ -929,6 +929,7 @@ State: Enabled
 
 Site: rise.ph
 Type: Secondary
+OVZ-ftp: mirror.rise.ph/openvz/
 OVZ-http: mirror.rise.ph/openvz/
 Maintainer: noc@rise.ph
 Country: ph
@@ -937,8 +938,7 @@ Sponsor: Rise
 IPv6: no
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: not updated since 31 May 2018
+State: Enabled
 
 Site: www.saix.net
 Type: Secondary
