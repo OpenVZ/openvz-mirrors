@@ -476,7 +476,8 @@ Sponsor:
 IPv6: no
 Comment: 1000 mbit, 150mbit guaranteed, updated hourly
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: inactive 28 days
 
 Site: slaskdatacenter.pl
 Type: Secondary
