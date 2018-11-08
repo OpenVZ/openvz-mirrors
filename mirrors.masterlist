@@ -1220,8 +1220,7 @@ Location: Belgrade, Serbia
 IPv6: no
 Comment: 100mbps bandwidth, updated 4 times a day
 Master-site: download.openvz.org
-State: Disabled
-Reason: no updates for 19 days
+State: Enabled
 
 Site: klaus-uwe.me
 Type: Secondary
