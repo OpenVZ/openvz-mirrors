@@ -1306,3 +1306,15 @@ IPv6: no
 Comment: Update daily
 Master site: download.openvz.org
 State: Enabled
+
+Site: alpha-labs.net
+Type: Secondary
+OVZ-https: mirror.alpha-labs.net/openvz/
+OVZ-rsync: mirror.alpha-labs.net/openvz/
+Maintainer: Christian Reiss <hosting@alpha-labs.net>
+Country: de
+Location: Dusseldorf
+Sponsor: alpha-labs.net
+IPv6: yes
+Comment: 1gb unmetered, hourly updates.
+State: Enabled 
