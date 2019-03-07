@@ -88,7 +88,8 @@ State: Enabled
 
 Site: Ircam.fr
 Type: Secondary
-OVZ-http: mirrors.ircam.fr/openvz/
+OVZ-http: mirrors.ircam.fr/pub/OpenVZ/
+OVZ-https: mirrors.ircam.fr/pub/OpenVZ/
 OVZ-rsync: mirrors.ircam.fr/openvz/
 Maintainer: mirrormaster@ircam.fr
 Country: fr
