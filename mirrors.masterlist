@@ -1319,3 +1319,16 @@ Sponsor: alpha-labs.net
 IPv6: yes
 Comment: 1gb unmetered, hourly updates.
 State: Enabled 
+
+Site: www.guzel.net.tr
+Type: Secondary
+OVZ-http: kozyatagi.mirror.guzel.net.tr/openvz/
+OVZ-https: kozyatagi.mirror.guzel.net.tr/openvz/
+OVZ-rsync: kozyatagi.mirror.guzel.net.tr/openvz/
+Maintainer: cihan@guzel.net.tr
+Country: tr
+Location: Kozyatagi, Istanbul, Turkey
+Sponsor: Güzel Hosting
+IPv6: no
+Comment: Updates 4 times a day
+State: Enabled 
