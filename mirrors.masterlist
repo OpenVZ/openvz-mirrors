@@ -136,8 +136,8 @@ Sponsor:
 IPv6: no
 Comment: Updated 4 times a day
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: DISABLED 29 Mar 2013: extremely slow
+State: Disabled
+Reason: DISABLED 27 May 2019: stalled
 
 Site:
 Type: Secondary
