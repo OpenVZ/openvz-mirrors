@@ -58,7 +58,7 @@ Sponsor:
 IPv6: no
 Comment: 
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 
 Site: xservers.ro
 Type: Secondary
@@ -453,7 +453,7 @@ Sponsor:
 IPv6: no
 Comment:
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 
 Site:
 Type: Secondary
