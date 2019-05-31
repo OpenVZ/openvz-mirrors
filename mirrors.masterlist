@@ -712,7 +712,6 @@ State: Enabled
 Site: www.garr.it
 Type: Secondary
 OVZ-http: openvz.mirror.garr.it/mirrors/openvz/
-OVZ-rsync: openvz.mirror.garr.it/openvz/
 Maintainer: iwantamirror@cilea.it, mirror-service@garr.it
 Country: it
 Location:
