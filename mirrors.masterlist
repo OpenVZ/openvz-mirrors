@@ -876,7 +876,6 @@ State: Enabled
 Site: lagoon.nc
 Type: Secondary
 OVZ-http: mirror.lagoon.nc/pub/openvz/
-OVZ-rsync: mirror.lagoon.nc/pub/openvz/
 Maintainer: tech@offratel.net, Sebastien.Clemenceau@offratel.net
 Country: nc
 Location: Nouméa, New Caledonia, Oceania
