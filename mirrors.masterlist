@@ -286,8 +286,8 @@ Sponsor: Mj webhosting
 IPv6:
 Comment: Updated every hour. Available on ipv4 and ipv6. 1 gbit uplink
 Master-site: us.download.openvz.org
-State: Enabled
-Reason:
+State: Disabled
+Reason: 21.06.2019 -- 30+ days no time
 
 Site: spd.co.il
 Type: Secondary
