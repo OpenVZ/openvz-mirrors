@@ -161,7 +161,7 @@ Sponsor:
 IPv6: no
 Comment: Updated every two hours
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site:
 Type: Secondary
