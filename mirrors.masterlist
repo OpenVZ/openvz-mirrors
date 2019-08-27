@@ -929,7 +929,6 @@ State: Enabled
 
 Site: rise.ph
 Type: Secondary
-OVZ-ftp: mirror.rise.ph/openvz/
 OVZ-http: mirror.rise.ph/openvz/
 Maintainer: noc@rise.ph
 Country: ph
