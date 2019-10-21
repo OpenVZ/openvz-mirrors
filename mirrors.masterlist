@@ -783,7 +783,8 @@ Sponsor: Reg.ru
 IPv6: no
 Comment: frequency of updates: every 60 min
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
+Reason: inactive last 20 days
 
 Site: www.digitalpacific.com.au
 Type: Secondary
