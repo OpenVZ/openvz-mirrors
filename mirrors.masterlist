@@ -58,7 +58,7 @@ Sponsor:
 IPv6: no
 Comment: 
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: xservers.ro
 Type: Secondary
@@ -312,8 +312,7 @@ Sponsor: DIGIPOWER Co.,ltd
 IPv6: no
 Comment: Updated 2 times a day
 Master-site: us.download.openvz.org
-Reason: recovered 31 May 2019
-State: Enabled
+State: Disabled
 
 Site: tocici.com
 Type: Secondary
@@ -987,7 +986,7 @@ Sponsor: Brno University of Technology
 IPv6: yes
 Comment:
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: www2.cuhk.edu.hk/gss/
 OVZ-http: ftp.cuhk.edu.hk/pub/Linux/openvz/
@@ -1059,7 +1058,7 @@ Sponsor: OptusNet
 IPv6: no
 Comment:
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: artfiles.org
 Type: Secondary
@@ -1218,7 +1217,7 @@ Location: Belgrade, Serbia
 IPv6: no
 Comment: 100mbps bandwidth, updated 4 times a day
 Master-site: download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: klaus-uwe.me
 Type: Secondary
