@@ -151,18 +151,6 @@ Comment: Sync Frequency: hourly. This mirror is available via IPv4 and IPv6 and 
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: balticservers.com
-Type: Secondary
-OVZ-http: mirror.duomenucentras.lt/openvz/
-Maintainer: mirror@duomenucentras.lt
-Country: lt
-Location: Lithuania, Šiauliai
-Sponsor:
-IPv6: no
-Comment: Updated every two hours
-Master-site: us.download.openvz.org
-State: Disabled
-
 Site:
 Type: Secondary
 OVZ-http: mirror.trouble-free.net/openvz/
@@ -250,20 +238,6 @@ Comment: Updated daily at 2359hrs GMT+8
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site:
-Type: Secondary
-OVZ-http: openvz.just-hosting.ru/
-OVZ-rsync: openvz.just-hosting.ru/openvz/
-Maintainer: info@just-hosting.ru
-Country: de
-Location: Germany, Falkenstein
-Sponsor: JustHosting
-IPv6: no
-Comment: Connected at 1 Gbit link, hourly updates
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: not updated 47.7 days
-
 Site: HitMe.pl
 Type: Secondary
 OVZ-http: openvz.hitme.net.pl/
@@ -275,19 +249,6 @@ IPv6: no
 Comment: Link 100 Mbit, updated hourly
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site:
-Type: Secondary
-OVZ-http: mirror.serverbeheren.nl/openvz/
-Maintainer: info@mjwebhosting.nl
-Country: nl
-Location: Netherlands, Overijssel, Enschede
-Sponsor: Mj webhosting
-IPv6:
-Comment: Updated every hour. Available on ipv4 and ipv6. 1 gbit uplink
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: 21.06.2019 -- 30+ days no time
 
 Site: spd.co.il
 Type: Secondary
@@ -392,19 +353,6 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-http: mirrors.vinahost.vn/openvz/
-Maintainer: mirror-admin@vinahost.vn
-Country: vn
-Location: Ho Chi Minh City, Viet Nam
-Sponsor: VinaHost Co., Ltd
-IPv6: no
-Comment: Updated hourly
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: cannot access host to check its state
-
-Site:
-Type: Secondary
 OVZ-http: mirrors.neterra.net/openvz/
 OVZ-rsync: mirrors.neterra.net/openvz/
 Maintainer: mirrors@neterra.net
@@ -465,19 +413,6 @@ IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site: mindstudios.com
-Type: Secondary
-OVZ-http: openvz.mindstudios.com/
-Maintainer: mirrors@mindstudios.com
-Country: fr
-Location: Paris, France
-Sponsor:
-IPv6: no
-Comment: 1000 mbit, 150mbit guaranteed, updated hourly
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: inactive 28 days
 
 Site: slaskdatacenter.pl
 Type: Secondary
@@ -772,19 +707,6 @@ Comment: It's connected with 1Gbit, IPv4 + IPv6 available, ftp, http, rsync avai
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: Reg.ru
-Type: Secondary
-OVZ-http: mirror.logol.ru/openvz/
-Maintainer: kurilkin@reg.ru
-Country: ru
-Location: Russia, Moscow
-Sponsor: Reg.ru
-IPv6: no
-Comment: frequency of updates: every 60 min
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: inactive last 20 days
-
 Site: www.digitalpacific.com.au
 Type: Secondary
 OVZ-http: openvz.mirror.digitalpacific.com.au/
@@ -976,18 +898,6 @@ Comment: 5Gbit connection via DFN
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: www.vutbr.cz
-OVZ-http: mirror.vutbr.cz/openvz/
-OVZ-rsync: mirror.vutbr.cz/openvz/
-Maintainer: Pavel Kislinger <kislinger@owl.cis.vutbr.cz>, mirror-adm@cis.vutbr.cz
-Country: cz
-Location: Brno, Czech Republic, Europe
-Sponsor: Brno University of Technology
-IPv6: yes
-Comment:
-Master-site: us.download.openvz.org
-State: Disabled
-
 Site: www2.cuhk.edu.hk/gss/
 OVZ-http: ftp.cuhk.edu.hk/pub/Linux/openvz/
 Maintainer: ftp-admin@ftp.cuhk.edu.hk
@@ -1071,18 +981,6 @@ IPv6: yes
 Comment: 1GB connection, updated daily
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site: osuosl.org
-Type: Secondary
-OVZ-http: ftp.osuosl.org/pub/openvz/
-Maintainer: support@osuosl.org
-Country: us
-Location: Corvallis, Oregon, US
-Sponsor: Open Source Lab (osuosl.org)
-IPv6: no
-Comment: Updated hourly, mirroring only virtuozzo files
-Master-site: us.download.openvz.org
-State: Disabled
 
 Site: mirrors.nic.cz
 Type: Secondary
@@ -1207,17 +1105,6 @@ IPv6: yes
 Comment: 1Gbps connection, updated every hour
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site: fourdots.com
-Type: Secondary
-OVZ-https: fourdots.com/mirror/OpenVZ/
-Maintainer: Goran Tepšić <goran.tepsic@fourdots.co>
-Country: rs
-Location: Belgrade, Serbia
-IPv6: no
-Comment: 100mbps bandwidth, updated 4 times a day
-Master-site: download.openvz.org
-State: Disabled
 
 Site: klaus-uwe.me
 Type: Secondary
