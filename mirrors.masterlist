@@ -805,8 +805,8 @@ Sponsor: L@goon
 IPv6: no
 Comment: 1 Gb/s
 Master-site: us.download.openvz.org
-State: Enabled
-Reason: Repaired
+State: Disabled
+Reason: old sync date
 
 Site:
 Type: Secondary
@@ -935,7 +935,6 @@ State: Enabled
 
 Site: linorg.usp.br
 OVZ-http: linorg.usp.br/openvz/
-OVZ-rsync: linorg.usp.br/openvz
 Maintainer: linorg@usp.br
 Country: br
 Location: São Paulo State, São Paulo City
@@ -968,7 +967,7 @@ Sponsor: OptusNet
 IPv6: no
 Comment:
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: artfiles.org
 Type: Secondary
