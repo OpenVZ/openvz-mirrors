@@ -248,7 +248,7 @@ Sponsor:
 IPv6: no
 Comment: Link 100 Mbit, updated hourly
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: spd.co.il
 Type: Secondary
@@ -1030,7 +1030,7 @@ Sponsor: UPC
 IPv6: yes
 Comment: Hourly updates
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: is.co.za
 Type: Secondary
