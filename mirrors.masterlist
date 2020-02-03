@@ -100,19 +100,6 @@ Comment:
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: www.ubiquityhosting.com
-Type: Secondary
-OVZ-http: mirror.ubiquityservers.com/openvz/
-Maintainer: admin@nobistech.net
-Country: us
-Location: USA, Illinois, Chicago
-Sponsor: Ubiquity Servers
-IPv6: no
-Comment:
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: no updates for 90 days
-
 Site: tsukuba.wide.ad.jp
 Type: Secondary
 OVZ-http: openvz.tsukuba.wide.ad.jp/
@@ -125,19 +112,6 @@ Comment: Updated daily
 Master-site: us.download.openvz.org
 State: Enabled
 Reason: DISABLED 30 Oct 2011, reenabled 1 Jul 2013 
-
-Site:  
-Type: Secondary
-OVZ-http: openvz.copahost.com/
-Maintainer: Gustavo Gallas <gallas.ceo@homehost.com.br>, <support@copahost.com>
-Country: de
-Location: Germany
-Sponsor:
-IPv6: no
-Comment: Updated 4 times a day
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: DISABLED 27 May 2019: stalled
 
 Site:
 Type: Secondary
