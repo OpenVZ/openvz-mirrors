@@ -1190,6 +1190,7 @@ Comment: Updates 4 times a day
 State: Enabled 
 
 Site: openvz.mirror.globo.tech
+Type: Secondary
 OVZ-http: openvz.mirror.globo.tech/
 OVZ-ftp: openvz.mirror.globo.tech/
 OVZ-rsync: openvz.mirror.globo.tech/
