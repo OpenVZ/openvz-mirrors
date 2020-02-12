@@ -1188,3 +1188,15 @@ Sponsor: Güzel Hosting
 IPv6: no
 Comment: Updates 4 times a day
 State: Enabled 
+
+Site: openvz.mirror.globo.tech
+OVZ-http: http://openvz.mirror.globo.tech/
+OVZ-FTP: ftp://openvz.mirror.globo.tech/
+OVZ-RSYNC: openvz.mirror.globo.tech/
+Maintainer: sysadmin@globo.tech
+Country: CA
+Location: Montreal, Quebec
+Sponsor: GloboTech Communications https://globo.tech
+IPv6: No
+Master site: download.openvz.org
+State: Enabled 
