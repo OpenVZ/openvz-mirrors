@@ -1193,7 +1193,7 @@ Site: openvz.mirror.globo.tech
 Type: Secondary
 OVZ-http: openvz.mirror.globo.tech/
 OVZ-ftp: openvz.mirror.globo.tech/
-OVZ-rsync: openvz.mirror.globo.tech/
+OVZ-rsync: openvz.mirror.globo.tech/openvz/
 Maintainer: sysadmin@globo.tech
 Country: ca
 Location: Montreal, Quebec
