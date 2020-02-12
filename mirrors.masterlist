@@ -1190,11 +1190,11 @@ Comment: Updates 4 times a day
 State: Enabled 
 
 Site: openvz.mirror.globo.tech
-OVZ-http: http://openvz.mirror.globo.tech/
-OVZ-FTP: ftp://openvz.mirror.globo.tech/
-OVZ-RSYNC: openvz.mirror.globo.tech/
+OVZ-http: openvz.mirror.globo.tech/
+OVZ-ftp: openvz.mirror.globo.tech/
+OVZ-rsync: openvz.mirror.globo.tech/
 Maintainer: sysadmin@globo.tech
-Country: CA
+Country: ca
 Location: Montreal, Quebec
 Sponsor: GloboTech Communications https://globo.tech
 IPv6: No
