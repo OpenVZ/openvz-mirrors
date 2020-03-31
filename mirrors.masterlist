@@ -222,7 +222,7 @@ Sponsor:
 IPv6: no
 Comment: Link 100 Mbit, updated hourly
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 
 Site: spd.co.il
 Type: Secondary
