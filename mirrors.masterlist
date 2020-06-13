@@ -222,7 +222,7 @@ Sponsor:
 IPv6: no
 Comment: Link 100 Mbit, updated hourly
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: spd.co.il
 Type: Secondary
@@ -238,7 +238,6 @@ State: Enabled
 
 Site: digipower.vn
 Type: Secondary
-OVZ-http: mirrors.digipower.vn/openvz/
 OVZ-rsync: mirrors.digipower.vn/openvz/
 Maintainer: contact@digipower.vn, duchoang@digipower.vn
 Country: vn
@@ -387,7 +386,7 @@ Sponsor: Best Thai Host
 IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: slaskdatacenter.pl
 Type: Secondary
