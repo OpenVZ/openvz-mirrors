@@ -553,7 +553,7 @@ IPv6: yes
 Comment:
 Comment: 1 Gbit/s uplink, Updated hourly
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 
 Site: dhakacom.com
 Type: Secondary
