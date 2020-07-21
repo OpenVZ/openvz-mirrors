@@ -544,7 +544,6 @@ State: Enabled
 Site: www.checkdomain.de
 Type: Secondary
 OVZ-http: mirror.checkdomain.de/openvz/
-OVZ-https: mirror.checkdomain.de/openvz/
 Maintainer: Simon Jalandt <s.jalandt@checkdomain.de>
 Country: de
 Location: Germany, Sachsen
