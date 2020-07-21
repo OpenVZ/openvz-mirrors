@@ -386,7 +386,7 @@ Sponsor: Best Thai Host
 IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 
 Site: slaskdatacenter.pl
 Type: Secondary
