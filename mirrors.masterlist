@@ -411,7 +411,7 @@ Sponsor:
 IPv6: no
 Comment: Update 4 times per day
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: netix.net
 Type: Secondary
