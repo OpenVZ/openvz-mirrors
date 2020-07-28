@@ -1209,5 +1209,6 @@ Maintainer: admin@host-stage.ne
 Country: ca
 Location: Beauharnois
 IPv6: No
+Comment: 1 GBPS Updated Hourly
 Master site: download.openvz.org
 State: Enabled 
