@@ -564,7 +564,7 @@ Sponsor: dhakacom
 IPv6: yes
 Comment:
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: rinet.ru
 Type: Secondary
