@@ -260,7 +260,7 @@ Comment: Updated every four hours, with a randomized start time. Two 1Gbps uplin
 Reason:
 Master-site: us.download.openvz.org
 Reason: no updates for 13 days
-State: Enabled
+State: Disabled
 
 Site:
 Type: Secondary
