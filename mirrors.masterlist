@@ -475,7 +475,7 @@ Sponsor: M247 Europe
 IPv6: yes
 Comment: FTP URL was removed due to disabled anonymous access
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: www.kddilabs.jp
 Type: Secondary
