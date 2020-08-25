@@ -1203,8 +1203,8 @@ State: Enabled
 
 Site: hostico.ro
 Type: Secondary
-OVZ-http: http://mirrors.hostico.ro/openvz/
-OVZ-https: https://mirrors.hostico.ro/openvz/
+OVZ-http: mirrors.hostico.ro/openvz/
+OVZ-https: mirrors.hostico.ro/openvz/
 Maintainer: mirrors@awesomeprojects.ro
 Country: ro
 Location: Electromagnetica Business Park, 268, Calea Rahovei 266,
