@@ -1213,3 +1213,15 @@ Sponsor: Hostico
 IPv6: yes
 Comment: Updates every 6 hours
 State: Enabled
+
+Site: www.hosthink.net
+Type: Secondary
+OVZ-http: mirror.hosthink.net/openvz/
+Maintainer: ops@hosthink.net
+Country: fi
+Location: Huurrekuja 10, 04360 Tuusula, Finland
+Sponsor: Hosthink
+IPv6: no
+Comment: 1 Gbps connection, Update frequency is twice daily
+State: Enabled
+
