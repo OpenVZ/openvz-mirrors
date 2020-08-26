@@ -212,18 +212,6 @@ Comment: Updated daily at 2359hrs GMT+8
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: HitMe.pl
-Type: Secondary
-OVZ-http: openvz.hitme.net.pl/
-Maintainer: admin@hitme.pl
-Country: pl
-Location: Poland, Gdansk
-Sponsor:
-IPv6: no
-Comment: Link 100 Mbit, updated hourly
-Master-site: us.download.openvz.org
-State: Disabled
-
 Site: spd.co.il
 Type: Secondary
 OVZ-http: openvz.spd.co.il/
@@ -247,20 +235,6 @@ IPv6: no
 Comment: Updated 2 times a day
 Master-site: us.download.openvz.org
 State: Ensabled
-
-Site: tocici.com
-Type: Secondary
-OVZ-http: mirror.tocici.com/openvz/
-Maintainer: hostmaster@tocici.com
-Country: us
-Location: US, Oregon, Portland
-Sponsor:
-IPv6: yes
-Comment: Updated every four hours, with a randomized start time. Two 1Gbps uplinks leveraging dual-stack IPv4/IPv6.
-Reason:
-Master-site: us.download.openvz.org
-Reason: no updates for 13 days
-State: Disabled
 
 Site:
 Type: Secondary
@@ -387,31 +361,6 @@ IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site: slaskdatacenter.pl
-Type: Secondary
-OVZ-http: openvz.slaskdatacenter.com/
-Maintainer: bok@slaskdatacenter.pl
-Country: pl
-Location: Tarnowskie Gory, Slask, Poland
-Sponsor:
-IPv6: yes
-Comment: Updated hourly
-Master-site: us.download.openvz.org
-State: Disabled
-
-Site:
-Type: Secondary
-OVZ-http: ftp.yzu.edu.tw/openvz/
-OVZ-rsync: ftp.yzu.edu.tw/Linux/openvz/
-Maintainer: hsu@peterdavehello.org
-Country: tw
-Location: Taiwan, Asia
-Sponsor:
-IPv6: no
-Comment: Update 4 times per day
-Master-site: us.download.openvz.org
-State: Disabled
 
 Site: netix.net
 Type: Secondary
@@ -768,19 +717,6 @@ Comment: Updated every hour. The mirror is connected to the Internet with 10 Gbi
 Master-site: us.download.openvz.org
 State: Enabled
 
-Site: lagoon.nc
-Type: Secondary
-OVZ-http: mirror.lagoon.nc/pub/openvz/
-Maintainer: tech@offratel.net, Sebastien.Clemenceau@offratel.net
-Country: nc
-Location: Nouméa, New Caledonia, Oceania
-Sponsor: L@goon
-IPv6: no
-Comment: 1 Gb/s
-Master-site: us.download.openvz.org
-State: Disabled
-Reason: old sync date
-
 Site:
 Type: Secondary
 OVZ-http: ftp.linux.cz/pub/linux/openvz/
@@ -991,19 +927,6 @@ IPv6: no
 Comment: updates every 8 hours
 Master-site: us.download.openvz.org
 State: Enabled
-
-Site: mirror.inode.at
-Type: Secondary
-OVZ-http: mirror.inode.at/openvz/
-OVZ-rsync: mirror.inode.at/openvz/
-Maintainer: mirror@inode.at
-Country: at
-Location: Vienna, Austria
-Sponsor: UPC
-IPv6: yes
-Comment: Hourly updates
-Master-site: us.download.openvz.org
-State: Disabled
 
 Site: is.co.za
 Type: Secondary
