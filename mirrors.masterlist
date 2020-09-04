@@ -288,7 +288,6 @@ State: Enabled
 Site:
 Type: Secondary
 OVZ-http: mirrors.ustc.edu.cn/openvz/
-OVZ-rsync: mirrors.ustc.edu.cn/openvz/
 Maintainer: lug@ustc.edu.cn
 Country: cn
 Location: Hefei, Anhui, China
