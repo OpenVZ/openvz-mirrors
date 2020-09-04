@@ -335,7 +335,7 @@ Sponsor: Enzu Inc.
 IPv6: yes
 Comment: 10 Gbps Uplink, updated hourly
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 Reason: is not updated since 29 Jan 2020
 
 Site: netinch.com
