@@ -1160,3 +1160,15 @@ IPv6: No
 Comment: bandwidth: 1000Mbit/s - Update frequency : 2 times per day
 State: Enabled
 
+Site: Serverion.com
+Type: Secondary
+OVZ-http: mirror.serverion.com/openvz/
+OVZ-https: mirror.serverion.com/openvz/
+OVZ-ftp: mirror.serverion.com/openvz/
+OVZ-rsync: mirror.serverion.com:/openvz/
+Maintainer: Desmond van der Winden <info@serverion.com>
+Country: NL
+Sponsor: Serverion
+IPv6: Yes
+Comment: bandwidth: 20000Mbit/s - Update frequency : every 1 hour
+State: Enabled
