@@ -1172,3 +1172,16 @@ Sponsor: Serverion
 IPv6: Yes
 Comment: bandwidth: 20000Mbit/s - Update frequency : every 1 hour
 State: Enabled
+
+Site: ftpmirror1.infania.net
+Type: Secondary
+OVZ-https: ftpmirror1.infania.net/mirror/openvz/
+OVZ-ftp: ftpmirror1.infania.net/mirror/openvz/
+OVZ-rsync: ftpmirror1.infania.net/openvz/
+Maintainer: Mattias Björlin <mirror@infania.net>
+Country: SE
+Location: Borås Sweden
+Sponsor: Infania Networks
+IPv6: no
+Comment: Updates hourly
+Master site: eu.download.openvz.org
