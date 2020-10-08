@@ -742,7 +742,7 @@ IPv6: yes
 Comment: Hourly updates
 Master-site: us.download.openvz.org
 Reason:
-State: Enabled
+State: Disabled
 
 Site: cogentco.com
 Type: Secondary
