@@ -1154,7 +1154,7 @@ OVZ-https: mirror.clientvps.com/openvz/
 OVZ-ftp: mirror.clientvps.com/openvz/
 OVZ-rsync: mirror.clientvps.com:/openvz/
 Maintainer: Eric Milon <info@clientvps.com>
-Country: DE
+Country: de
 Sponsor: ClientVPS
 IPv6: No
 Comment: bandwidth: 1000Mbit/s - Update frequency : 2 times per day
@@ -1167,7 +1167,7 @@ OVZ-https: mirror.serverion.com/openvz/
 OVZ-ftp: mirror.serverion.com/openvz/
 OVZ-rsync: mirror.serverion.com:/openvz/
 Maintainer: Desmond van der Winden <info@serverion.com>
-Country: NL
+Country: nl
 Sponsor: Serverion
 IPv6: Yes
 Comment: bandwidth: 20000Mbit/s - Update frequency : every 1 hour
@@ -1179,7 +1179,7 @@ OVZ-https: ftpmirror1.infania.net/mirror/openvz/
 OVZ-ftp: ftpmirror1.infania.net/mirror/openvz/
 OVZ-rsync: ftpmirror1.infania.net/openvz/
 Maintainer: Mattias Björlin <mirror@infania.net>
-Country: SE
+Country: se
 Location: Borås Sweden
 Sponsor: Infania Networks
 IPv6: no
