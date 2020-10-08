@@ -664,7 +664,7 @@ Sponsor: Gigenet
 IPv6: no
 Comment: Update every two hours.
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: www.sonic.com
 Type: Secondary
