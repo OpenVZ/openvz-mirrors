@@ -1185,3 +1185,15 @@ Sponsor: Infania Networks
 IPv6: no
 Comment: Updates hourly
 Master site: eu.download.openvz.org
+
+Site: denizli.cenuta.com
+Type: Secondary
+OVZ-https: mirror-denizli.cenuta.com/openvz/
+Maintainer: Mert Atakan Cenikut <mertcenikut@cenuta.com>
+Country: tr
+Location: Denizli/Turkey
+Sponsor: Cenuta Hosting
+IPv6: yes
+Comment: 1GB connection, updated hourly.
+State: Enabled
+Master site: eu.download.openvz.org
