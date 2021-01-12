@@ -1197,3 +1197,18 @@ IPv6: yes
 Comment: 1GB connection, updated hourly.
 State: Enabled
 Master site: eu.download.openvz.org
+
+Site: mirror.cspacehostings.com
+Type: Secondary
+OVZ-http: mirror.cspacehostings.com/openvz/
+OVZ-https: mirror.cspacehostings.com/openvz/
+OVZ-rsync: mirror.cspacehostings.com/openvz/
+Maintainer: CSpace Hostings OÜ <noc@cspacehostings.com>
+Country: EE
+Location: Tallinn, Estonia
+Sponsor: CSpace Hostings OÜ https://cspacehostings.com
+IPv6: yes
+Comment: Uplink 2 Gbps, Sync Every hour.
+State: Enabled
+Master site: eu.download.openvz.org
+
