@@ -46,7 +46,7 @@ Sponsor: Proserve
 IPv6: yes
 Comment: 1Gbit connection, in a 25 Gbit network
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: wicks.co.nz
 Type: Secondary
