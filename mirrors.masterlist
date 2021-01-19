@@ -579,7 +579,6 @@ State: Enabled
 Site: melbourneitmirror.net
 Type: Secondary
 OVZ-http: openvz.melbourneitmirror.net/
-OVZ-rsync: melbourneitmirror.net/openvz/
 Maintainer: info@melbourneitmirror.net
 Country: au
 Location: Sydney, Australia
@@ -587,8 +586,7 @@ Sponsor: Melbourne IT
 IPv6: yes
 Comment: Update frequency: Hourly
 Master-site: us.download.openvz.org
-State: Disabled
-Reason: not updated 15 days
+State: Enabled
 
 Site: www.fsn.hu
 Type: Secondary
