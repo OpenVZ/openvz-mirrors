@@ -250,7 +250,6 @@ State: Enabled
 
 Site:
 Type: Secondary
-OVZ-ftp: mirrors.colocall.net/openvz/
 OVZ-http: mirrors.colocall.net/openvz/
 Maintainer: mirrors@colocall.net
 Country: ua
