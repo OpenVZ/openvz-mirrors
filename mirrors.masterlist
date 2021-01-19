@@ -1162,7 +1162,6 @@ Site: Serverion.com
 Type: Secondary
 OVZ-http: mirror.serverion.com/openvz/
 OVZ-https: mirror.serverion.com/openvz/
-OVZ-ftp: mirror.serverion.com/openvz/
 OVZ-rsync: mirror.serverion.com/openvz/
 Maintainer: Desmond van der Winden <info@serverion.com>
 Country: nl
