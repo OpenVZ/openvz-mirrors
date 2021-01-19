@@ -359,7 +359,7 @@ Sponsor: Best Thai Host
 IPv6: yes
 Comment: 1 Gbps, updated every 4 hours
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: netix.net
 Type: Secondary
