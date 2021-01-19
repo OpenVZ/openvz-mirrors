@@ -1204,7 +1204,7 @@ OVZ-http: mirror.cspacehostings.com/openvz/
 OVZ-https: mirror.cspacehostings.com/openvz/
 OVZ-rsync: mirror.cspacehostings.com/openvz/
 Maintainer: CSpace Hostings OÜ <noc@cspacehostings.com>
-Country: EE
+Country: ee
 Location: Tallinn, Estonia
 Sponsor: CSpace Hostings OÜ https://cspacehostings.com
 IPv6: yes
