@@ -1181,6 +1181,7 @@ Sponsor: Infania Networks
 IPv6: no
 Comment: Updates hourly
 Master site: eu.download.openvz.org
+State: Enabled
 
 Site: denizli.cenuta.com
 Type: Secondary
@@ -1191,8 +1192,8 @@ Location: Denizli/Turkey
 Sponsor: Cenuta Hosting
 IPv6: yes
 Comment: 1GB connection, updated hourly.
-State: Enabled
 Master site: eu.download.openvz.org
+State: Enabled
 
 Site: mirror.cspacehostings.com
 Type: Secondary
@@ -1205,6 +1206,19 @@ Location: Tallinn, Estonia
 Sponsor: CSpace Hostings OÜ https://cspacehostings.com
 IPv6: yes
 Comment: Uplink 2 Gbps, Sync Every hour.
-State: Enabled
 Master site: eu.download.openvz.org
+State: Enabled
 
+Site: hostup.se
+Type: Secondary
+OVZ-https: mirror.hostup.org/openvz/
+OVZ-http: mirror.hostup.org/openvz/
+OVZ-rsync: mirror.hostup.org/openvz/
+Maintainer: David Berndtsson - mirror@hostup.se
+Country: us
+Location: Dallas Texas
+Sponsor: HostUp
+IPv6: yes
+Comment: 1GB unmetered connection, updated hourly.
+Master-site: us.download.openvz.org
+State: Enabled
