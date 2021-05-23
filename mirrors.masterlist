@@ -860,7 +860,7 @@ Sponsor: RIKEN
 IPv6: no
 Comment: Daily updates
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: www.optus.com.au
 Type: Secondary
