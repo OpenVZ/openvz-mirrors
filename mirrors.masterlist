@@ -523,7 +523,7 @@ Sponsor: Rinet
 IPv6: no
 Comment:
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: www.icm.edu.pl
 Type: Secondary
