@@ -84,7 +84,7 @@ IPv6: no
 Comment: 1Gbit/s uplink, updated every 4 hours.
 Master-site: us.download.openvz.org
 Reason: 404 not found
-State: Enabled
+State: Disabled
 
 Site: Ircam.fr
 Type: Secondary
