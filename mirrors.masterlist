@@ -1052,7 +1052,7 @@ IPv6: yes
 Sponsor: RECONN LLC
 Comment: 1Gbit connection, update hourly
 Master site: download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: www.nav.ro
 Type: Secondary
