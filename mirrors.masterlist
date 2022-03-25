@@ -959,7 +959,7 @@ Sponsor: Evowise
 IPv6: No
 Comment: sync once per hour
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: website-solution.net
 OVZ-http: openvz.website-solution.net/
