@@ -320,7 +320,7 @@ Sponsor: vpsFree
 IPv6: yes
 Comment: Updated hourly
 Master-site: us.download.openvz.org
-State: Disabled
+State: Enabled
 Reason: rsync mirror isn't available (no time)
 
 Site: enzu.com
