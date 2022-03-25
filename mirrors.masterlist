@@ -1167,7 +1167,7 @@ Country: nl
 Sponsor: Serverion
 IPv6: Yes
 Comment: bandwidth: 20000Mbit/s - Update frequency : every 1 hour
-State: Enabled
+State: Disabled
 
 Site: ftpmirror1.infania.net
 Type: Secondary
