@@ -553,7 +553,7 @@ State: Enabled
 Site: www.triple-it.nl
 Type: Secondary
 OVZ-http: openvz.mirror.triple-it.nl/
-OVZ-rsync: openvz.mirror.triple-it.nl/openvz/
+#OVZ-rsync: openvz.mirror.triple-it.nl/openvz/
 Maintainer: mirror@triple-it.nl
 Country: nl
 Location: The Netherlands, Noord-Holland, Amsterdam
