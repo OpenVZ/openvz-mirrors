@@ -384,7 +384,7 @@ Sponsor: Byfly
 IPv6: no
 Comment:
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site:
 Type: Secondary
