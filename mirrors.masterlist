@@ -1221,4 +1221,4 @@ Sponsor: HostUp
 IPv6: yes
 Comment: 1GB unmetered connection, updated hourly.
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
