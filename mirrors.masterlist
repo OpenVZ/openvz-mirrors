@@ -473,7 +473,7 @@ Sponsor: WEB DESK LLC
 IPv6: no
 Comment: Updated every 30 minutes; 100 mbps connection limit, in a Gbits network
 Master-site: us.download.openvz.org
-State: Enabled
+State: Disabled
 
 Site: www.syringanetworks.net
 Type: Secondary
