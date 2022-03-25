@@ -460,7 +460,7 @@ IPv6: yes
 Comment:
 Master-site: us.download.openvz.org
 Reason:
-State: Enabled
+State: Disabled
 
 Site: www.webdesk.ru
 Type: Secondary
